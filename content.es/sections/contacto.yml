@@ -1,0 +1,65 @@
+id: contacto
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+button: link
+size: sm
+icon: paper-plane
+more:
+  padding_top: 8
+  padding_bottom: 8
+  flip_x: false
+  flip_y: false
+  divider: arrow
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 10:00 - 20:00
+  - type: br
+  - type: phone
+    label: 627 79 35 14
+  - type: whatsapp
+    button: link
+    label: 627 35 53 02
+  - type: mail
+    label: leticia@des-aprende.es
+  - type: address
+    active: false
+    name: Des-Aprende · Terapia Psicológica Online
+    streetAddress: Plaza Circular
+    postalCode: 30008
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.130539,37.992280]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: text
+      name: Apellidos
+      required: false
+    - type: number
+      name: Edad
+      required: false
+    - type: text
+      name: Horario/Disponibilidad
+      required: false
+    - type: email
+      name: Email
+      required: true
+    - type: text
+      name: Motivo de consulta
+      required: true
+      full: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: false
+    link: https://g.page/r/CX3c98qaRwrmEAg
+    flip_x: false
+    divider: arrow

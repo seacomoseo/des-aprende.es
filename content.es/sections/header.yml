@@ -1,0 +1,21 @@
+id: header
+anchor: Terapia Psicológica Online
+color: main-light
+more:
+  flip_x: false
+  flip_y: false
+  divider: arrow-fill
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - title: Terapia Psicológica Online
+    subtitle: Un lugar seguro donde poder florecer, empoderarse y darse los cuidados que necesitamos
+    image: logo.svg
+    description: |
+      [btn icon-plus Más](#principal)
+  - image: https://youtu.be/v3yKQ4jFlLY&poster=poster-home.jpg
+    more:
+      ratio: 9x16

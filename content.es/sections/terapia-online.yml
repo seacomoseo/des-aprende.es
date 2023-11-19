@@ -1,0 +1,26 @@
+id: terapia-online
+title: Terapia Online
+subtitle: La más demandada
+color: main-dark
+button: hide
+icon: video
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - order: 2
+    image: equipo-des-aprende.png
+  - description: |
+      La terapia psicológica online ha resultado ser la modalidad
+      terapéutica más demandada, demostrando ser, según diversos
+      estudios, igual de __eficaz__ que la presencial y que a su vez
+      esta es la mejor solución para aquellas personas que por motivos
+      de __salud, tiempo o distancia__ no pueden acceder de forma
+      presencial a un tratamiento psicológico de __calidad__.
+
+      [btn icon-star Ventajas](#ventajas)
+    more:
+      align: left
+      align_y: center
+      align_xl: right

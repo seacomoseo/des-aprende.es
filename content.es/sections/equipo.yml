@@ -1,0 +1,24 @@
+id: equipo
+title: Equipo
+subtitle: ¿Quienes somos?
+color: white
+icon: users
+rows:
+- type: columns
+  design:
+    num: 3
+    ratio: circle
+    border: main
+  items:
+  - title: Leticia Martínez Pino
+    subtitle: Psicóloga Online
+    link: '#leticia-martinez-pino'
+    image: equipo-leticia-martinez-pino.jpg
+  - title: Belén Cutillas
+    subtitle: Psicóloga Online
+    link: '#belen-cutillas'
+    image: equipo-belen-cutillas.jpg
+  - title: Milagros Mariotti
+    subtitle: Psicóloga Online
+    link: '#milagros-mariotti'
+    image: equipo-milagros-mariotti.jpg

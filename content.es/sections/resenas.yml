@@ -1,0 +1,63 @@
+id: resenas
+title: Reseñas
+subtitle: ¿Qué dicen de mi?
+color: main-light
+icon: comment
+more:
+  align: center
+  flip_x: false
+  flip_y: true
+  divider: arrow
+rows:
+- type: reviews
+  design:
+    call: ¡Hay más aquí! ¡Añade la tuya!
+    num: 3
+    color: white
+    slider: true
+    buttons:
+    - link: https://g.page/r/CX3c98qaRwrmEAg/review
+      ofuscate: true
+      label: Google
+  items:
+  - title: Carlota López
+    image: https://lh3.googleusercontent.com/a-/AFdZucriJhTLJgYAbDx0_AASUTKkNYUQK3RxzdnXSNY
+    description: |
+      Sin duda alguna, Des-Aprende son las mejores con quienes poder trabajar sobre ti misma y para ti misma…
+
+      Son puro amor y te hacen sentir cómoda hasta con tus peores pensamientos.
+  - title: Bego Cámara
+    image: https://lh3.googleusercontent.com/a-/AFdZucppuhjZGmXW0KbmxTOxbtJYv_dpJgvC6TqTkvkG8A
+    description: |
+      A quien le gusta su trabajo, se nota y a Leticia, le apasiona.
+
+      La implicación que tiene con sus pacientes, su profesionalidad, su frescura y su cercanía la convierten en una maravillosa psicóloga.
+
+      La elegiría una y mil veces.
+  - title: Carmen Fuster
+    image: https://lh3.googleusercontent.com/a-/AFdZucpQKC0qJPQrBoTEJnHWV-TSSUgUWmBZllGzEYit
+    description: |
+      Le debo mucho a Leticia, creo que conmigo no lo pudo hacer mejor.
+
+      En su momento me ayudó a tomar la mejor decisión de mi vida y a día de hoy sigue ayudándome, escuchándome y apoyándome.
+
+      Gracias a ella y a su equipo por todo! ❤️
+  - title: José Chancay
+    image: https://lh3.googleusercontent.com/a-/AFdZucpdClUBdGMdJYucXBbKI_ApFIEeGAi2uQ1lgOogwA
+    description: |
+      Es una profesional de 10, no solo te ayuda a tu lucha con tu problema, sino que además es muy cercana y te sientes muy a gusto porque te da confianza para abrirte.
+
+      Sin duda es una gran profesional y persona.
+  - title: Catalina Alomar
+    image: https://lh3.googleusercontent.com/a-/AFdZucrzukmG1xIhxAIQoKaWyIh24jFhjtXGBbb-nvq9
+    description: |
+      Llevo poquitas sesiones pero estoy encantada.
+
+      Yo estoy con Leti y la verdad es que ha sido de las mejores decisiones de mi vida.
+- type: columns
+  items:
+  - description: |
+      ¡Hay más aquí! ¡Añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CX3c98qaRwrmEAg/review "noindex")

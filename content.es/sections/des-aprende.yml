@@ -1,0 +1,47 @@
+id: des-aprende
+title: Des-Aprende
+subtitle: ¿Qué es Des-Aprende?
+color: main-light
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - order: 2
+    image: logo.svg
+  - order: 1
+    description: |
+      Es un lugar seguro donde poder florecer, empoderarse y darse los
+      cuidados que necesitamos.
+
+      Mi trabajo es guiarte en el apasionado mundo del desarrollo personal, inspirarte, acompañarte y enseñarte herramientas para poder crecer y sentirte plena.
+
+      Aprende conmigo a desaprender las creencias, conductas y pensamientos que nos limitan y a crear una nueva forma de sentir, un nuevo estilo de vida.
+
+      icon-arrow-down Pulsa para ampliar información:
+
+      [btn icon-brain Desaprender](#desaprender)
+      [btn icon-heart Desarrollo Personal](#desarrollo-personal)
+    more:
+      align: left
+      align_y: center
+      align_xl: right
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: heartbroken.svg
+    more:
+      align_y: strech
+  - title: Des-Aprende es para ti sí…
+    description: |
+      - Sientes que algo en tu vida no funciona
+      - No consigues disfrutar de las pequeñas cosas
+      - Te sientes perdida y no sabes qué quieres
+      - Deseas ser una persona segura y tomar tus propias decisiones
+      - Quieres aprender a gestionar tus emociones y empoderarte
+      - Necesitas nuevas herramientas para afrontar tu vida
+    more:
+      align: left
+      align_y: center

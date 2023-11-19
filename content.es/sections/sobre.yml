@@ -1,0 +1,28 @@
+id: sobre
+title: Sobre mi
+subtitle: ¿Quién soy?
+color: white
+size: md
+icon: user
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: leticia-martinez-pino.png
+  - title: Leticia Martínez Pino
+    subtitle: Psicóloga Online
+    description: |
+      Después de varios años en la clínica dedicada a diferentes especialidades surgió en mi vida la oportunidad de dedicarme al mundo del desarrollo personal, guiando a personas a encontrarse a sí mismas, algo que me ha cambiado la vida.
+
+      Creo este espacio online para que personas de todo el mundo tengan la posibilidad de crecer.
+
+      Des-Aprende tiene como misión principal acercarte al mundo del desarrollo personal y la salud mental, un lugar donde te sientas segur@ y puedas explorarte y sacar una nueva y mejor versión de ti mism@, invitándote a coger las riendas de tu vida.
+
+      Un proceso que empieza por el autoconocimiento, sanado heridas del pasado y fortaleciendo así la autoestima.
+
+      __Aprende a desaprender conmigo__
+
+      [btn icon-graduation-cap Formación](#leticia-martinez-pino)
+    more:
+      align: left

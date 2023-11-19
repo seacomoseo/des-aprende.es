@@ -1,0 +1,32 @@
+baseURL: https://des-aprende.es
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/desaprende/des-aprende.es
+  netlify_name: des-aprende
+  netlify_id: 4c3cb502-5009-4a34-bdfd-796f94098655
+  drive_link: https://drive.google.com/file/d/1-VTlaUjGsyGppryGBEPxIOCSoeOS_4gK
+  drive_mails: letizschia.martinez@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores
