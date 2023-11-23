@@ -1,6 +1,6 @@
 ---
-title: Des-Aprende · Terapia Psicológica Online · Leticia Martínez Pino
-title_seo: ''
+title: Inicio
+title_seo: Des-Aprende · Terapia Psicológica Online · Leticia Martínez Pino
 slug: inicio
 description: llll➤ Un lugar seguro donde poder florecer, empoderarse y darse los cuidados que necesitamos ✅ mediante Terapia Psicológica Online y Crecimiento Personal.
 image: logo.png

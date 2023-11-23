@@ -3,8 +3,8 @@ anchor: Terapia Psicológica Online
 color: main-light
 more:
   flip_x: false
-  flip_y: false
-  divider: arrow-fill
+  flip_y: true
+  divider: arrow
 rows:
 - type: columns
   design:

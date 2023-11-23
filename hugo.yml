@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/desaprende/des-aprende.es
   netlify_name: des-aprende
   netlify_id: 4c3cb502-5009-4a34-bdfd-796f94098655
+  hook: NjMwMzc0YzRlZmFlYjkwMDZjZjZjYjI5
   drive_link: https://drive.google.com/file/d/1-VTlaUjGsyGppryGBEPxIOCSoeOS_4gK
   drive_mails: letizschia.martinez@gmail.com
 defaultContentLanguage: es
