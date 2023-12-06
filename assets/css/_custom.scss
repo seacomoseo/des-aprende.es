@@ -36,5 +36,11 @@
     --mask-image: linear-gradient(#000 95%,transparent);
     -webkit-mask-image: var(--mask-image);
     mask-image: var(--mask-image);
+  }
 }
+
+#pasos {
+  .step__number {
+    transform: translateY(-.125em);
+  }
 }
