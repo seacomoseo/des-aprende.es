@@ -18,10 +18,11 @@ rows:
     hours: 10:00 - 20:00
   - type: br
   - type: phone
-    label: 627 79 35 14
+    label: 613 79 45 95
+    button: alt
   - type: whatsapp
     button: link
-    label: 627 35 53 02
+    label: 613 79 45 95
   - type: mail
     label: leticia@des-aprende.es
   - type: address
