@@ -3,17 +3,17 @@
 // Header
 
 #body-inicio #header {
-  @mixin show-up($delay) {
-    animation: show-up .5s ($delay * .125s) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s ($delay * .125s) both;
   }
   .image__inner {
-    > :nth-child(3) { @include show-up(1); }
-    > :nth-child(1) { @include show-up(2); }
-    > :nth-child(2) { @include show-up(3); }
+    > :nth-child(3) { @include show-from(1); }
+    > :nth-child(1) { @include show-from(2); }
+    > :nth-child(2) { @include show-from(3); }
   }
-  .section__title {   @include show-up(4); }
-  .subtitle {         @include show-up(5); }
-  .button {           @include show-up(6); }
+  .section__title {   @include show-from(4); }
+  .subtitle {         @include show-from(5); }
+  .button {           @include show-from(6); }
   @media (min-width: 660px) {
     .column--item-2 {
       width: calc(var(--column-width) * .5);
