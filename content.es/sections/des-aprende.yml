@@ -1,7 +1,7 @@
 id: des-aprende
 title: ¿Des-Aprende?
 subtitle: ¿De qué va esto?
-color: main-light
+color: white
 icon: circle-info
 rows:
 - type: columns
@@ -29,6 +29,8 @@ rows:
   - order: 2
     image: icon-tr.svg
   - title: ¿Qué significa desaprender?
+    icon: brain
+    icon_type: side
     description: |
       Desaprender no se trata de borrar y olvidar lo aprendido, sino de no ser esclavo de ello.
 
@@ -46,6 +48,8 @@ rows:
   items:
   - image: heartbroken.svg
   - title: Des-Aprende es para ti sí…
+    icon: comment-check
+    icon_type: side
     description: |
       - **Sientes que algo en tu vida no funciona:**
         Identificas que hay aspectos de tu vida que no están en equilibrio y buscas cambiarlo.

@@ -1,9 +1,9 @@
 id: sobre
 title: Sobre mi
 subtitle: ¿Quién soy?
-color: white
+color: main-light
 # size: md
-icon: user
+icon: person-dress-simple
 rows:
 - type: columns
   design:

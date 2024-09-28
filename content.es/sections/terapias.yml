@@ -2,7 +2,7 @@ id: terapias
 title: Terapias
 subtitle: ¿Cómo trabajamos?
 color: main-light
-icon: certificate
+icon: hands-holding-heart
 size: md
 rows:
 - type: columns

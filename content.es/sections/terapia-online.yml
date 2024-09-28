@@ -3,7 +3,7 @@ title: Terapia Online
 subtitle: La más demandada
 color: main-dark
 button: hide
-icon: video
+icon: camera-web
 rows:
 - type: columns
   design:

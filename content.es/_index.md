@@ -11,10 +11,10 @@ sections:
 - file: _header
   modals:
   - video
-- file: sobre
 - file: des-aprende
   modals:
   - desarrollo-personal
+- file: sobre
 - file: equipo
   modals:
   - equipo/leticia-martinez-pino
@@ -34,5 +34,5 @@ sections:
 - file: faq
 - file: resenas
 - file: contacto
-- file: blog
+# - file: blog
 ---
