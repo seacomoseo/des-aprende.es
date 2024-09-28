@@ -1,5 +1,5 @@
 id: header
-anchor: Terapia Psicológica Online
+anchor: Terapia Psicológica Online y en Murcia
 color: main-light
 more:
   flip_x: false
@@ -11,11 +11,12 @@ rows:
     num: 2
     align_y: center
   items:
-  - title: Terapia Psicológica Online
+  - title: Terapia Psicológica Online y en Murcia
     subtitle: Un lugar seguro donde poder florecer, empoderarse y darse los cuidados que necesitamos
     image: logo.svg
     description: |
-      [btn icon-plus Más](#principal)
-  - image: https://youtu.be/v3yKQ4jFlLY&poster=poster-home.jpg
+      [btn icon-play Ver Vídeo](#video)
+  - image: leticia-martinez-pino.png
     more:
-      ratio: 9x16
+      ratio: 3x4
+      contain: true

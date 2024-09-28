@@ -1,7 +1,7 @@
 id: resenas
 title: Reseñas
 subtitle: ¿Qué dicen de nosotras?
-color: main-light
+color: main-dark
 icon: comment
 more:
   align: center

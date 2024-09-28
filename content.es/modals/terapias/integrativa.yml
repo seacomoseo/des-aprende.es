@@ -1,10 +1,9 @@
-id: servicios
-title: Servicios
+id: terapia-integrativa
+title: Terapia Integrativa
 subtitle: ¿Cómo te Podemos Ayudar?
-color: white
-icon: certificate
+icon: street-view
 description: |
-  __La terapia integrativa trata de una fusión entre la distintas terapias en psicología__:
+  **La terapia integrativa trata de una fusión entre la distintas terapias en psicología**:
 more:
   align: center
 rows:
@@ -13,26 +12,24 @@ rows:
     num: 4
   items:
   - title: Cognitivo-Conductual
-    icon: user-check
+    icon: person-circle-check
   - title: Humanista
     icon: universal-access
   - title: Psicodinámica
-    icon: street-view
+    icon: person-rays
   - title: Positiva
-    icon: user-plus
+    icon: person-circle-plus
 - type: columns
   design:
     num: 1
   items:
   - description: |
-      ---
-
-      En este tipo de tratamiento, __tenemos en cuenta la unión de los sistemas afectivos, cognitivos, conductuales y fisiológicos de la persona,__ para centrarnos en su correcto desarrollo, en sus necesidades y sus crisis.
+      En este tipo de tratamiento, **tenemos en cuenta la unión de los sistemas afectivos, cognitivos, conductuales y fisiológicos de la persona,** para centrarnos en su correcto desarrollo, en sus necesidades y sus crisis.
 
       Áreas que trabajamos en la terapia online:
 - type: columns
   design:
-    num: 4
+    num: 3
     icon_type: bottom
   items:
   - title: Autoestima

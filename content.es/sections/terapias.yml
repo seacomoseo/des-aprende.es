@@ -1,0 +1,20 @@
+id: terapias
+title: Terapias
+subtitle: ¿Cómo trabajamos?
+color: main-light
+icon: certificate
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+  items:
+  - title: Integrativa
+    icon: street-view
+    link: '#terapia-integrativa'
+  - title: Individual
+    icon: person-dress-simple
+    link: '#terapia-individual'
+  - title: Pareja
+    icon: people-simple
+    link: '#terapia-pareja'

@@ -2,27 +2,29 @@ id: sobre
 title: Sobre mi
 subtitle: ¿Quién soy?
 color: white
-size: md
+# size: md
 icon: user
 rows:
 - type: columns
   design:
     align_y: center
   items:
-  - image: leticia-martinez-pino.png
-  - title: Leticia Martínez Pino
-    subtitle: Psicóloga Online
+  - order: 2
+    title: Leticia Martínez Pino
+    subtitle: Psicóloga Online y en Murcia
     description: |
-      Después de varios años en la clínica dedicada a diferentes especialidades surgió en mi vida la oportunidad de dedicarme al mundo del desarrollo personal, guiando a personas a encontrarse a sí mismas, algo que me ha cambiado la vida.
+      Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
 
-      Creo este espacio online para que personas de todo el mundo tengan la posibilidad de crecer.
+      A lo largo de mi carrera en diversas especialidades dentro de la clínica de psicología, encontré mi verdadera pasión: guiar a las personas a conocerse y reconectar con su esencia y sus valores, sin miedo ni condicionantes.
 
-      Des-Aprende tiene como misión principal acercarte al mundo del desarrollo personal y la salud mental, un lugar donde te sientas segur@ y puedas explorarte y sacar una nueva y mejor versión de ti mism@, invitándote a coger las riendas de tu vida.
+      He creado este espacio online con la misión de brindar a personas de todo el mundo la oportunidad de crecer y desarrollarse.
 
-      Un proceso que empieza por el autoconocimiento, sanado heridas del pasado y fortaleciendo así la autoestima.
+      En Des-Aprende, nuestro objetivo principal es acercarte a la salud mental, proporcionando un entorno seguro donde puedas explorarte y conocerte, reconocer tu identidad y aprender las herramientas necesarias para gestionar, volver a cuidar de ti y disfrutar de tus vínculos personales.
 
-      __Aprende a desaprender conmigo__
-
-      [btn icon-graduation-cap Formación](#leticia-martinez-pino)
+      [Sigue leyendo…](#leticia-martinez-pino)
     more:
       align: left
+  - image: sobre-mi.png
+    more:
+      ratio: 3x4
+      contain: true

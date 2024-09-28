@@ -2,23 +2,24 @@ id: equipo
 title: Equipo
 subtitle: ¿Quienes somos?
 color: white
-icon: users
+icon: people-group
+size: md
 rows:
 - type: columns
   design:
-    num: 3
+    num: 2
     ratio: circle
     border: main
   items:
   - title: Leticia Martínez Pino
-    subtitle: Psicóloga Online
+    subtitle: Psicóloga Online y en Murcia
     link: '#leticia-martinez-pino'
-    image: equipo-leticia-martinez-pino.jpg
-  - title: Belén Cutillas
-    subtitle: Psicóloga Online
-    link: '#belen-cutillas'
-    image: equipo-belen-cutillas.jpg
+    image: equipo/leticia-martinez-pino.jpg
+  # - title: Belén Cutillas
+  #   subtitle: Psicóloga Online y en Murcia
+  #   link: '#belen-cutillas'
+  #   image: equipo/belen-cutillas.jpg
   - title: Milagros Mariotti
-    subtitle: Psicóloga Online
+    subtitle: Psicóloga Online y en Murcia
     link: '#milagros-mariotti'
-    image: equipo-milagros-mariotti.jpg
+    image: equipo/milagros-mariotti.jpg

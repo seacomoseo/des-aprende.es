@@ -1,47 +1,65 @@
 id: des-aprende
-title: Des-Aprende
-subtitle: ¿Qué es Des-Aprende?
+title: ¿Des-Aprende?
+subtitle: ¿De qué va esto?
 color: main-light
 icon: circle-info
 rows:
 - type: columns
   design:
     align_y: center
+    align: left
   items:
-  - order: 2
-    image: logo.svg
-  - order: 1
-    description: |
-      Es un lugar seguro donde poder florecer, empoderarse y darse los
-      cuidados que necesitamos.
+  - image: coaching-process.svg
+  - description: |
+      Nuestro objetivo es guiarte, proporcionándote inspiración, acompañamiento y herramientas prácticas para tu crecimiento y bienestar.
 
-      Mi trabajo es guiarte en el apasionado mundo del desarrollo personal, inspirarte, acompañarte y enseñarte herramientas para poder crecer y sentirte plena.
+      Te ayudamos comenzando con el autoconocimiento, sanando las heridas del pasado y fortaleciendo tu autoestima.
 
-      Aprende conmigo a desaprender las creencias, conductas y pensamientos que nos limitan y a crear una nueva forma de sentir, un nuevo estilo de vida.
+      Desaprende lo aprendido y comienza un nuevo camino conmigo.
 
-      icon-arrow-down Pulsa para ampliar información:
+      icon-arrow-down Pulsa para leer más:
 
-      [btn icon-brain Desaprender](#desaprender)
       [btn icon-heart Desarrollo Personal](#desarrollo-personal)
-    more:
-      align: left
-      align_y: center
-      align_xl: right
 - type: columns
   design:
     align_y: center
+    align: left
+    align_xl: right
+  items:
+  - order: 2
+    image: icon-tr.svg
+  - title: ¿Qué significa desaprender?
+    description: |
+      Desaprender no se trata de borrar y olvidar lo aprendido, sino de no ser esclavo de ello.
+
+      **Desaprender es ==icon-sign-simple REPROGRAMARNOS==**.
+
+      Desaprendemos para volver a llenarnos de cosas útiles y que nos orienten hacia el futuro.
+
+      **Para aprender hay que querer.**
+
+      **Para desaprender hay que querer ==icon-sign-circle mucho más==.**
+- type: columns
+  design:
+    align_y: center
+    align: left
   items:
   - image: heartbroken.svg
-    more:
-      align_y: strech
   - title: Des-Aprende es para ti sí…
     description: |
-      - Sientes que algo en tu vida no funciona
-      - No consigues disfrutar de las pequeñas cosas
-      - Te sientes perdida y no sabes qué quieres
-      - Deseas ser una persona segura y tomar tus propias decisiones
-      - Quieres aprender a gestionar tus emociones y empoderarte
-      - Necesitas nuevas herramientas para afrontar tu vida
-    more:
-      align: left
-      align_y: center
+      - **Sientes que algo en tu vida no funciona:**
+        Identificas que hay aspectos de tu vida que no están en equilibrio y buscas cambiarlo.
+      - **No consigues disfrutar de las pequeñas cosas:**
+        Te cuesta encontrar alegría en los momentos cotidianos y deseas vivir con mayor plenitud.
+      - **Te sientes perdida y no sabes qué quieres:**
+        Estás en una etapa de incertidumbre y necesitas claridad sobre tus metas y deseos.
+      - **Deseas ser una persona segura y tomar tus propias decisiones:**
+        Anhelas construir confianza en ti mismo y tomar el control de tu vida.
+      - **Quieres aprender a gestionar tus emociones y empoderarte:**
+        Buscas herramientas efectivas para manejar tus emociones y fortalecer tu autoestima.
+      - **Necesitas nuevas herramientas para afrontar tu vida:**
+        Quieres adquirir estrategias y conocimientos que te ayuden a enfrentar los desafíos diarios con mayor eficacia.
+      - **Sientes que repites patrones en tus relaciones:**
+        Notas que tiendes a vivir las mismas dinámicas en tus relaciones y deseas romper ese ciclo.
+      - **Sientes que tus relaciones no son de calidad:**
+        Percibes que tus relaciones personales no te satisfacen y quieres mejorar su calidad.

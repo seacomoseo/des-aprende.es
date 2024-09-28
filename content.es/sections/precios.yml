@@ -1,16 +1,17 @@
 id: precios
 title: Precios
 subtitle: Por cada sesión
-color: light
+color: main-light
 icon: tags
 rows:
 - type: columns
   design:
     color: white
+    link: '#contacto'
+    licon: paper-plane
+    label: Reservar Cita
   items:
   - title: Adultos
-    link: '#contacto'
-    label: Contacto
     icon: user
     description: |
       - icon-calendar Sesión individual
@@ -19,26 +20,17 @@ rows:
       50 €
       {.price}
     more:
-      licon: paper-plane
   - title: Estudiantes y Desempleados
-    link: '#contacto'
-    label: Contacto
     icon: user-graduate
     description: |
       - icon-handshake-angle Una pequeña ayuda
 
       45 €
       {.price}
-    more:
-      licon: paper-plane
   - title: Otros Descuentos
-    link: '#contacto'
-    label: Contacto
     icon: percent
     description: |
       - icon-certificate Bonos
       - icon-people-arrows-left-right Parejas
 
       ¡Pregunta sin compromiso!
-    more:
-      licon: paper-plane

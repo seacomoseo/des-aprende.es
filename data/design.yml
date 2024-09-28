@@ -43,23 +43,23 @@ colors:
     contrast: none
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#f6f3f0'
     grey: '#767676'
     dark: '#2b2929'
     black: '#000000'
 rounded:
-  radius: 0.25
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
-  deep: false
+  deep: true
   outline: false
   font_base: false
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
   opacity: 0.15
 lightbox_overlay:

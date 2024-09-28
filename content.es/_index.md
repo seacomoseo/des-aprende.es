@@ -1,24 +1,30 @@
 ---
 title: Inicio
-title_seo: Des-Aprende · Terapia Psicológica Online · Leticia Martínez Pino
+title_seo: 🧠 Des-Aprende · Terapia Psicológica Online y en Murcia
 slug: inicio
-description: llll➤ Un lugar seguro donde poder florecer, empoderarse y darse los cuidados que necesitamos ✅ mediante Terapia Psicológica Online y Crecimiento Personal.
+description: llll➤ Un lugar seguro donde poder florecer, empoderarse y darse los cuidados que necesitamos ✅ mediante Terapia Psicológica y Crecimiento Personal.
 image: logo.png
 draft: false
 noindex: false
 header: null
 sections:
-- file: header
+- file: _header
+  modals:
+  - video
 - file: sobre
 - file: des-aprende
   modals:
-  - des-aprende-desaprender
-  - des-aprende-desarrollo-personal
+  - desarrollo-personal
 - file: equipo
   modals:
-  - equipo-leticia-martinez-pino
-  - equipo-belen-cutillas
-  - equipo-milagros-mariotti
+  - equipo/leticia-martinez-pino
+  # - equipo/belen-cutillas
+  - equipo/milagros-mariotti
+- file: terapias
+  modals:
+  - terapias/integrativa
+  - terapias/individual
+  - terapias/pareja
 - file: terapia-online
   modals:
   - terapia-online-ventajas
@@ -28,4 +34,5 @@ sections:
 - file: faq
 - file: resenas
 - file: contacto
+- file: blog
 ---

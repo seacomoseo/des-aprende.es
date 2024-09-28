@@ -1,6 +1,7 @@
 id: contacto
-title: Contacto
-subtitle: ¿En qué podemos ayudarte?
+title: Reservar Cita
+subtitle: Llegó el momento de florecer
+menu: Contacto
 button: link
 size: sm
 icon: paper-plane
@@ -28,12 +29,13 @@ rows:
   - type: address
     active: false
     name: Des-Aprende · Terapia Psicológica Online
-    streetAddress: Plaza Circular
-    postalCode: 30008
+    streetAddress: Plaza Beato Andrés Hibernón, 1
+    postalCode: '30001'
     addressLocality: Murcia
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.130539,37.992280]}'
+    coordinates: '{"type":"Point","coordinates":[-1.127396,37.987117]}'
+    button: light
   form:
     fill_inputs: false
     items:
@@ -49,6 +51,9 @@ rows:
     - type: text
       name: Horario/Disponibilidad
       required: false
+    - type: tel
+      name: Teléfono
+      required: true
     - type: email
       name: Email
       required: true
