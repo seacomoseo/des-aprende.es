@@ -7,14 +7,17 @@ transparent: true
 hide_anchors: false
 hide_icons: false
 show_modals: false
-show_blog_auto: true
-show_products_auto: true
+show_blog_auto: false
+show_products_auto: false
 show_taxonomies_auto: false
-search: true
+search: false
 google_translate: false
 langs_in_more: false
 langs_out: true
 callnow_active: true
 callnow_buttons: []
-normal: []
+normal:
+- label: Blog
+  icon: blog
+  link: /blog/
 more: []

@@ -1,7 +1,6 @@
 id: contacto
 title: Reservar Cita
 subtitle: Llegó el momento de florecer
-menu: Contacto
 button: link
 size: sm
 icon: paper-plane
@@ -18,9 +17,6 @@ rows:
     days: Lunes a Viernes
     hours: 10:00 - 20:00
   - type: br
-  - type: phone
-    label: 613 79 45 95
-    button: alt
   - type: whatsapp
     button: link
     label: 613 79 45 95

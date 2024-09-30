@@ -1,7 +1,7 @@
 id: precios
 title: Precios
 subtitle: Por cada sesión
-color: main-light
+color: light
 icon: tags
 rows:
 - type: columns

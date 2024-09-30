@@ -1,7 +1,7 @@
 id: blog
 title: Blog
 subtitle: Últimas entradas
-color: main-light
+color: light
 icon: blog
 more:
   padding_top: 8
@@ -9,6 +9,7 @@ more:
   flip_x: false
   flip_y: false
   divider: arrow
+  button: hide
 rows:
 - type: articles
   kind: blog

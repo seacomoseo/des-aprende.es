@@ -4,7 +4,7 @@ title_seo: ''
 slug: blog
 description: Listado de entradas del blog
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: blog
 ---

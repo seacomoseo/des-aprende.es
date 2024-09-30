@@ -12,7 +12,7 @@ rows:
     border: main
   items:
   - title: Leticia Martínez Pino
-    subtitle: Psicóloga Online y en Murcia
+    subtitle: Psicóloga General Sanitaria
     link: '#leticia-martinez-pino'
     image: equipo/leticia-martinez-pino.jpg
   # - title: Belén Cutillas
@@ -20,6 +20,6 @@ rows:
   #   link: '#belen-cutillas'
   #   image: equipo/belen-cutillas.jpg
   - title: Milagros Mariotti
-    subtitle: Psicóloga Online y en Murcia
+    subtitle: Psicóloga General Sanitaria
     link: '#milagros-mariotti'
     image: equipo/milagros-mariotti.jpg

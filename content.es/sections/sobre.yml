@@ -1,7 +1,7 @@
 id: sobre
 title: Sobre mi
 subtitle: ¿Quién soy?
-color: main-light
+color: light
 # size: md
 icon: person-dress-simple
 rows:
@@ -11,7 +11,7 @@ rows:
   items:
   - order: 2
     title: Leticia Martínez Pino
-    subtitle: Psicóloga Online y en Murcia
+    subtitle: Psicóloga General Sanitaria
     description: |
       Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
 

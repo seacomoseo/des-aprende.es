@@ -6,16 +6,34 @@
   @mixin show-from($delay) {
     animation: show-from .5s ($delay * .125s) both;
   }
-  .image__inner {
-    > :nth-child(3) { @include show-from(1); }
-    > :nth-child(1) { @include show-from(2); }
-    > :nth-child(2) { @include show-from(3); }
+  @mixin show-butterflies($delay) {
+    animation: show-from .5s ($delay * .025s) both;
+    --show-from: scale(3);
+    transform-origin: center;
   }
-  .section__title {   @include show-from(4); }
-  .subtitle {         @include show-from(5); }
-  .button {           @include show-from(6); }
+  #logo-icon-butterfly > *:nth-child(1) {  @include show-butterflies(0); }
+  #logo-icon-butterfly > *:nth-child(2) {  @include show-butterflies(1); }
+  #logo-icon-butterfly > *:nth-child(3) {  @include show-butterflies(2); }
+  #logo-icon-butterfly > *:nth-child(4) {  @include show-butterflies(3); }
+  #logo-icon-butterfly > *:nth-child(5) {  @include show-butterflies(4); }
+  #logo-icon-butterfly > *:nth-child(6) {  @include show-butterflies(5); }
+  #logo-icon-butterfly > *:nth-child(7) {  @include show-butterflies(6); }
+  #logo-icon-butterfly > *:nth-child(8) {  @include show-butterflies(7); }
+  #logo-icon-butterfly > *:nth-child(9) {  @include show-butterflies(8); }
+  #logo-icon-butterfly > *:nth-child(10) { @include show-butterflies(9); }
+  #logo-icon-butterfly > *:nth-child(11) { @include show-butterflies(10); }
+  #logo-icon-butterfly > *:nth-child(12) { @include show-butterflies(11); }
+  #logo-icon-butterfly > *:nth-child(13) { @include show-butterflies(12); }
+  #logo-icon-butterfly {   @include show-from(1); --show-from: scale(3); transform-origin: center; }
+  #logo-icon-face {        @include show-from(2); }
+  #logo-text {             @include show-from(3); --show-from: scale(.8) rotate(90deg); transform-origin: center; }
+  .section__title {        @include show-from(4); }
+  .subtitle {              @include show-from(5); }
+  .column__description p { @include show-from(6); }
+  .button {                @include show-from(7); }
   .column--item-2 {
-    margin-bottom: -10em;
+    @include show-from(7);
+    margin-bottom: -11em;
     // --mask-image: linear-gradient(#000 95%,transparent);
     // -webkit-mask-image: var(--mask-image);
     // mask-image: var(--mask-image);

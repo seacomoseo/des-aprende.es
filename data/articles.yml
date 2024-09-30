@@ -1,13 +1,13 @@
 content:
   logo: icon-alt.svg
   title: DES-APRENDE
-  subtitle: Terapia Psicológica Online y en Murcia
+  subtitle: Psicología
   uppercase: false
   underline: false
   align: left
   color: light
   toc_color: white
-  border: main
+  border: ''
   reading_time: true
 common:
   size: ''
@@ -23,7 +23,7 @@ common:
   icon_color: ''
   image: gradient
   image_hover: ''
-  ratio: 16x9
+  ratio: 1x1
   contain: false
   inset: true
   border: ''

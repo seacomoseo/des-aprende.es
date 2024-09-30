@@ -2,7 +2,7 @@
 title: Inicio
 title_seo: 🧠 Des-Aprende · Terapia Psicológica Online y en Murcia
 slug: inicio
-description: llll➤ Un lugar seguro donde poder florecer, empoderarse y darse los cuidados que necesitamos ✅ mediante Terapia Psicológica y Crecimiento Personal.
+description: Aprende a conocerte, quererte y cuidarte mientras fortaleces la relación contigo misma y con los demás. ✅ Cultiva tu autoestima y crece personalmente.
 image: logo.png
 draft: false
 noindex: false
@@ -22,9 +22,9 @@ sections:
   - equipo/milagros-mariotti
 - file: terapias
   modals:
-  - terapias/integrativa
   - terapias/individual
   - terapias/pareja
+  - terapias/integrativa
 - file: terapia-online
   modals:
   - terapia-online-ventajas
@@ -34,5 +34,5 @@ sections:
 - file: faq
 - file: resenas
 - file: contacto
-# - file: blog
+- file: blog
 ---

@@ -4,7 +4,7 @@ title_seo: ''
 slug: autores
 description: Listado de autores
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: authors
 ---

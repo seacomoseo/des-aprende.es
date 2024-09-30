@@ -1,7 +1,7 @@
 id: faq
 title: FAQ
 subtitle: Preguntas Frecuentes
-color: main-light
+color: light
 size: sm
 icon: circle-question
 rows:
