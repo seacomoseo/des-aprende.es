@@ -11,6 +11,14 @@ sections:
 - file: _header
   modals:
   - video
+- file: terapias
+  modals:
+  - terapias/individual
+  - terapias/pareja
+  - terapias/integrativa
+- file: terapia-online
+  modals:
+  - terapia-online-ventajas
 - file: des-aprende
   modals:
   - desarrollo-personal
@@ -20,15 +28,6 @@ sections:
   - equipo/leticia-martinez-pino
   # - equipo/belen-cutillas
   - equipo/milagros-mariotti
-- file: terapias
-  modals:
-  - terapias/individual
-  - terapias/pareja
-  - terapias/integrativa
-- file: terapia-online
-  modals:
-  - terapia-online-ventajas
-- file: servicios
 - file: precios
 - file: pasos
 - file: faq
