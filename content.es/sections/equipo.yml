@@ -1,7 +1,7 @@
 id: equipo
 title: Equipo
 subtitle: ¿Quienes somos?
-color: white
+color: light
 icon: people-group
 size: md
 rows:

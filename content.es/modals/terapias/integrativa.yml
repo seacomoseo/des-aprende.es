@@ -20,8 +20,6 @@ rows:
   - title: Positiva
     icon: person-circle-plus
 - type: columns
-  design:
-    num: 1
   items:
   - description: |
       En este tipo de tratamiento, **tenemos en cuenta la unión de los sistemas afectivos, cognitivos, conductuales y fisiológicos de la persona,** para centrarnos en su correcto desarrollo, en sus necesidades y sus crisis.
@@ -56,3 +54,8 @@ rows:
     icon: face-laugh-beam
   - title: Traumas
     icon: face-flushed
+
+- type: columns
+  items:
+  - description: |
+      [btn icon-paper-plane Reservar Cita](#contacto)
