@@ -25,6 +25,7 @@ sections:
   - equipo/leticia-martinez-pino
   # - equipo/belen-cutillas
   - equipo/milagros-mariotti
+  - equipo/paula-arenas
 - file: para-ti
 - file: terapia-online
   modals:

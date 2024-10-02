@@ -3,11 +3,10 @@ title: Equipo
 subtitle: ¿Quienes somos?
 color: light
 icon: people-group
-size: md
 rows:
 - type: columns
   design:
-    num: 2
+    num: 3
     ratio: circle
     border: main
   items:
@@ -23,3 +22,7 @@ rows:
     subtitle: Psicóloga General Sanitaria
     link: '#milagros-mariotti'
     image: equipo/milagros-mariotti.jpg
+  - title: Paula Arenas
+    subtitle: Psicóloga General Sanitaria
+    link: '#paula-arenas'
+    image: equipo/paula-arenas.jpg
