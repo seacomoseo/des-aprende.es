@@ -8,7 +8,7 @@ rows:
   design:
     color: white
     link: '#contacto'
-    licon: paper-plane
+    licon: whatsapp
     label: Reservar Cita
   items:
   - title: Adultos

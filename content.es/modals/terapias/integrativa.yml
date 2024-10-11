@@ -58,4 +58,4 @@ rows:
 - type: columns
   items:
   - description: |
-      [btn icon-paper-plane Reservar Cita](#contacto)
+      [btn icon-whatsapp Reservar Cita](#contacto)

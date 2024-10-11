@@ -16,7 +16,7 @@ rows:
 
       *(o email o formulario)*
 
-      [btn icon-paper-plane Reservar Cita](#contacto)
+      [btn icon-whatsapp Reservar Cita](#contacto)
   - title: Datos
     description: |
       Escribe tu nombre, apellidos, edad y un horario disponible para consultas y te contactaré lo antes posible.
