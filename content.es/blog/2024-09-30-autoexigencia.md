@@ -11,7 +11,6 @@ toc: true
 draft: false
 noindex: false
 date: 2024-09-30
-lastmod: ''
 ---
 
 ## Autoexigencia y Control: El Bucle de la Insatisfacción y la Baja Autoestima

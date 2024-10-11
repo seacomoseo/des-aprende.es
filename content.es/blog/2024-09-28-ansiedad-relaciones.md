@@ -11,7 +11,6 @@ toc: true
 draft: false
 noindex: false
 date: 2024-09-28
-lastmod: ''
 ---
 
 La ansiedad en las relaciones es una experiencia común que puede afectar significativamente el bienestar emocional y la dinámica de pareja. Esta ansiedad puede manifestarse como una preocupación constante, miedo al rechazo o abandono, y la percepción de que cada evento es una señal de alarma. A continuación, exploramos qué es la ansiedad en las relaciones, sus causas y cómo gestionarla.

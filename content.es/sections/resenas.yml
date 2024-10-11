@@ -1,13 +1,8 @@
 id: resenas
 title: Reseñas
 subtitle: ¿Qué dicen de nosotras?
-color: main-dark
+color: light
 icon: comment
-more:
-  align: center
-  flip_x: false
-  flip_y: true
-  divider: arrow
 rows:
 - type: reviews
   design:
@@ -321,3 +316,5 @@ rows:
       {.subtitle}
 
       [btn icon-star Google](https://g.page/r/CX3c98qaRwrmEAg/review "noindex")
+
+      [btn icon-paper-plane Reservar Cita](#contacto)

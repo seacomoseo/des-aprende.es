@@ -11,7 +11,6 @@ toc: true
 draft: false
 noindex: false
 date: 2024-09-27
-lastmod: ''
 ---
 
 ## El Autosacrificio en las Relaciones**

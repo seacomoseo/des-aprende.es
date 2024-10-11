@@ -11,7 +11,6 @@ toc: true
 draft: false
 noindex: false
 date: 2024-09-26
-lastmod: ''
 ---
 
 ## Tomar Decisiones: La Influencia de Nuestro Entorno y Creencias

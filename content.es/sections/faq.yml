@@ -4,6 +4,10 @@ subtitle: Preguntas Frecuentes
 color: light
 size: sm
 icon: circle-question
+more:
+  flip_x: false
+  flip_y: true
+  divider: arrow
 rows:
 - type: collapsible
   items:

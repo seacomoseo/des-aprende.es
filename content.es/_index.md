@@ -11,6 +11,7 @@ sections:
 - file: _header
   modals:
   - video
+- file: resenas
 - file: des-aprende
   modals:
   - desarrollo-personal
@@ -33,7 +34,6 @@ sections:
 - file: precios
 - file: pasos
 - file: faq
-- file: resenas
 - file: contacto
 - file: blog
 - file: instagram

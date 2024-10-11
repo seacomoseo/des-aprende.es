@@ -11,7 +11,6 @@ toc: true
 draft: false
 noindex: false
 date: 2024-09-29
-lastmod: ''
 ---
 
 ## El Vacío que se Experimenta tras Conseguir una Meta Importante
