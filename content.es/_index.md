@@ -9,11 +9,10 @@ noindex: false
 header: null
 sections:
 - file: _header
-  modals:
-  - video
 - file: resenas
 - file: des-aprende
   modals:
+  - video
   - desarrollo-personal
 - file: terapias
   modals:

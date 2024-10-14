@@ -17,9 +17,10 @@ rows:
 
       Desaprende lo aprendido y comienza un nuevo camino conmigo.
 
-      icon-arrow-down Pulsa para leer más:
+      <!-- icon-arrow-down Pulsa para leer más: -->
 
       [btn icon-heart Desarrollo Personal](#desarrollo-personal)
+      [btn-main icon-play Ver Vídeo](#video)
 - type: columns
   design:
     align_y: center

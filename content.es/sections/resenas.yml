@@ -312,9 +312,11 @@ rows:
 - type: columns
   items:
   - description: |
+      <!--
       ¡Hay más aquí! ¡Añade la tuya!
       {.subtitle}
 
       [btn icon-star Google](https://g.page/r/CX3c98qaRwrmEAg/review "noindex")
+      -->
 
       [btn icon-whatsapp Reservar Cita](#contacto)
