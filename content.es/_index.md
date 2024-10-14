@@ -12,8 +12,8 @@ sections:
 - file: resenas
 - file: des-aprende
   modals:
-  - video
   - desarrollo-personal
+  - video
 - file: terapias
   modals:
   - terapias/individual
