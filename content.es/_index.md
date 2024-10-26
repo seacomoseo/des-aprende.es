@@ -26,6 +26,7 @@ sections:
   # - equipo/belen-cutillas
   - equipo/milagros-mariotti
   - equipo/paula-arenas
+  - equipo/alicia-cano-moreno
 - file: para-ti
 - file: terapia-online
   modals:

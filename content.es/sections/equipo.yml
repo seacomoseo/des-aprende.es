@@ -6,7 +6,7 @@ icon: people-group
 rows:
 - type: columns
   design:
-    num: 3
+    num: 4
     ratio: circle
     border: main
   items:
@@ -26,3 +26,7 @@ rows:
     subtitle: Psicóloga General Sanitaria
     link: '#paula-arenas'
     image: equipo/paula-arenas.jpg
+  - title: Alicia Cano Moreno
+    subtitle: Psicóloga General Sanitaria
+    link: '#alicia-cano-moreno'
+    image: equipo/alicia-cano-moreno.jpg
