@@ -1,6 +1,6 @@
 ---
 title: 'Ansiedad en las Relaciones: Cuando Todo Parece una Alarma'
-title_seo: ''
+title_seo: 'Ansiedad en Relaciones: Cuando Todo Parece una Alarma'
 slug: ansiedad-relaciones
 description: La ansiedad en las relaciones es una experiencia común que puede afectar significativamente el bienestar emocional y la dinámica de pareja. Esta ansiedad…
 image: blog/ansiedad-relaciones.svg

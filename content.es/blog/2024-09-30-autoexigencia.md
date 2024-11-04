@@ -1,6 +1,6 @@
 ---
-title: Autoexigencia, necesito controlarlo todo
-title_seo: ''
+title: Autoexigencia, Necesito Controlarlo Todo
+title_seo: Autoexigencia, Necesito Controlarlo Todo - Des-Aprende
 slug: autoexigencia
 description: La autoexigencia y la necesidad de tener todo bajo control son comportamientos comunes en muchas personas que buscan alcanzar altos estándares en sus…
 image: blog/autoexigencia.svg
