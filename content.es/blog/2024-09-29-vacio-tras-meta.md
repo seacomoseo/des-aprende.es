@@ -2,7 +2,7 @@
 title: El vacío tras la meta
 title_seo: ''
 slug: vacio-tras-meta
-description: Lograr una meta que has perseguido durante mucho tiempo es un gran éxito, pero puede ir acompañado de una sensación inesperada de vacío. Esta experiencia...
+description: Lograr una meta que has perseguido durante mucho tiempo es un gran éxito, pero puede ir acompañado de una sensación inesperada de vacío. Esta experiencia…
 image: blog/vacio-tras-meta.svg
 categories: []
 tags: []

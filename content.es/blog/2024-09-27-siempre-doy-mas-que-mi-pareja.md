@@ -2,7 +2,7 @@
 title: Siempre doy más que mi pareja. ¿Mi pareja no me quiere o prioriza?
 title_seo: ''
 slug: siempre-doy-mas-que-mi-pareja
-description: El autosacrificio en las relaciones puede parecer un acto noble, pero cuando se convierte en un patrón, puede llevar a desequilibrios significativos y...
+description: El autosacrificio en las relaciones puede parecer un acto noble, pero cuando se convierte en un patrón, puede llevar a desequilibrios significativos y…
 image: blog/siempre-doy-mas-que-mi-pareja.svg
 categories: []
 tags: []
