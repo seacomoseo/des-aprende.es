@@ -1,10 +1,13 @@
 id: contacto
 title: Reservar Cita
-subtitle: Llegó el momento de florecer
+subtitle: ¿Quieres saber cómo te podemos ayudar?
+description: |
+  Reserva una videollamada gratuita de 20 minutos para valorar juntos tus necesidades, y cómo podemos trabajar en ellas.
 button: link
 size: sm
 icon: whatsapp
 more:
+  align: center
   padding_top: 8
   padding_bottom: 8
   flip_x: false
