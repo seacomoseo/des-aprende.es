@@ -1,16 +1,15 @@
 ---
-title: 'EMDR: La Revolución en el Tratamiento del Trauma'
-title_seo: ''
 slug: mdr-trauma
-description: La terapia de Desensibilización y Reprocesamiento por Movimiento Ocular (EMDR) ha revolucionado el campo de la psicología en las últimas décadas…
+title: 'EMDR: La Revolución en el Tratamiento del Trauma'
+summary: ''
 image: blog/mdr-trauma.svg
-categories: []
-tags: []
 author: admin
 toc: true
 draft: false
 noindex: false
 date: 2024-11-01
+seo: ''
+description: La terapia de Desensibilización y Reprocesamiento por Movimiento Ocular (EMDR) ha revolucionado el campo de la psicología en las últimas décadas…
 ---
 
 La terapia de Desensibilización y Reprocesamiento por Movimiento Ocular (EMDR) ha revolucionado el campo de la psicología en las últimas décadas. Diseñada inicialmente para tratar el trastorno de estrés postraumático (TEPT), EMDR ha demostrado ser eficaz para una amplia gama de problemas emocionales. En esta entrada, exploraremos qué es el EMDR y por qué se considera una innovación significativa en la terapia del trauma.

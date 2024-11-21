@@ -1,16 +1,15 @@
 ---
-title: 'Las Heridas Emocionales en las Relaciones: Cómo Afectan a Nuestra Vida Amorosa'
-title_seo: 'Las Heridas Emocionales en las Relaciones: ¿Cómo nos Afectan?'
 slug: heridas-emocionales-relaciones
-description: '¿Alguna vez te has encontrado en una relación pensando: "¿Por qué vuelvo a caer en lo mismo?" o "¿De verdad me pasa otra vez?" La respuesta puede estar en…'
+title: 'Las Heridas Emocionales en las Relaciones: Cómo Afectan a Nuestra Vida Amorosa'
+summary: ''
 image: blog/heridas-emocionales-relaciones.svg
-categories: []
-tags: []
 author: admin
 toc: true
 draft: false
 noindex: false
 date: 2024-10-26
+seo: 'Las Heridas Emocionales en las Relaciones: ¿Cómo nos Afectan?'
+description: '¿Alguna vez te has encontrado en una relación pensando: "¿Por qué vuelvo a caer en lo mismo?" o "¿De verdad me pasa otra vez?" La respuesta puede estar en…'
 ---
 
 ¿Alguna vez te has encontrado en una relación pensando: "¿Por qué vuelvo a caer en lo mismo?" o "¿De verdad me pasa otra vez?" La respuesta puede estar en algo que no está a la vista pero que llevamos a cuestas: nuestras queridas, o no tan queridas, heridas emocionales. Aunque suene a drama de película, la realidad es que estas heridas, casi siempre forjadas en la infancia, pueden dejar cicatrices profundas que, si no trabajamos en ellas, reaparecen en la vida adulta. Así que vamos a ponernos manos a la obra y desentrañar cómo estas heridas pueden estar afectando nuestras relaciones.

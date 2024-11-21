@@ -1,0 +1,47 @@
+name: des Aprende
+id: des-aprende
+title: ¿Des-Aprende?
+subtitle: Nuestra esencia
+color: white
+icon: circle-info
+boxes:
+- box:
+    columns: 2
+    align_y: center
+    align: left
+    hide_shadow: true
+  boxes:
+  - image: coaching-process.svg
+  - content: |
+      Nuestro objetivo es guiarte, proporcionándote inspiración, acompañamiento y herramientas prácticas para tu crecimiento y bienestar.
+
+      Te ayudamos comenzando con el autoconocimiento, sanando las heridas del pasado y fortaleciendo tu autoestima.
+
+      Desaprende lo aprendido y comienza un nuevo camino conmigo.
+
+      <!-- icon:arrow-down Pulsa para leer más: -->
+
+      [btn icon:heart Desarrollo Personal](#desarrollo-personal)
+      [btn-main icon:play Ver Vídeo](#video)
+- box:
+    columns: 2
+    align_y: center
+    align: left
+    align_max: right
+    hide_shadow: true
+  boxes:
+  - order: 2
+    image: base/icon-tr.svg
+  - title: ¿Qué significa desaprender?
+    content: |
+      Desaprender no se trata de borrar y olvidar lo aprendido, sino de no ser esclavo de ello.
+
+      **Desaprender es ==icon:sign-simple REPROGRAMARNOS==**.
+
+      Desaprendemos para volver a llenarnos de cosas útiles y que nos orienten hacia el futuro.
+
+      **Para aprender hay que querer.**
+
+      **Para desaprender hay que querer ==icon:sign-circle mucho más==.**
+
+      [btn icon:whatsapp Reservar Cita](#contacto)

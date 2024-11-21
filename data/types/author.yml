@@ -1,0 +1,5 @@
+base: author
+order: 1
+taxonomy_of:
+- name: blog
+  schema: author

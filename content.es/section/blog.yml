@@ -1,0 +1,19 @@
+name: Blog
+id: blog
+title: Blog
+subtitle: Últimas entradas
+color: light
+icon: blog
+flip_x: false
+flip_y: false
+divider: arrow
+pt: 8
+pb: 8
+menu_button: hide
+list:
+  type: blog
+  max: 4
+box:
+  columns: 4
+  color: white
+  slider: true

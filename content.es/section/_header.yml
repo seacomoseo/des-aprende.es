@@ -1,0 +1,26 @@
+name: _header
+id: header
+color: white
+flip_x: false
+flip_y: true
+divider: arrow
+hanchor: Terapia Psicológica Online y en Murcia
+box:
+  columns: 11
+  uppercase: false
+  align_y: center
+boxes:
+- span: 6
+  title: Terapia Psicológica Online y Presencial
+  subtitle: Estamos aquí para acompañarte en cada paso de tu crecimiento personal
+  image: base/logo-tr.svg
+  hide_shadow: true
+  content: |
+    Aprende a conocerte, quererte y cuidarte mientras fortaleces la relación contigo misma y con los demás. Cultiva tu autoestima y crece personalmente.
+
+    [btn icon:whatsapp Reservar Cita](#contacto)
+  ratio: 2/1
+- span: 5
+  image: leticia-martinez-pino.png
+  ratio: 3/4
+  contain: true

@@ -1,16 +1,15 @@
 ---
-title: 'Apego Ansioso: Entendiendo el Miedo a la Pérdida en las Relaciones'
-title_seo: 'Apego Ansioso: Entendiendo el Miedo a la Pérdida en Relaciones'
 slug: apego-ansioso
-description: ¿Alguna vez te has sentido desesperado cuando alguien no responde tus mensajes o te ha invadido un miedo repentino de que tu pareja podría perder…
+title: 'Apego Ansioso: Entendiendo el Miedo a la Pérdida en las Relaciones'
+summary: ''
 image: blog/apego-ansioso.svg
-categories: []
-tags: []
 author: admin
 toc: true
 draft: false
 noindex: false
 date: 2024-10-29
+seo: 'Apego Ansioso: Entendiendo el Miedo a la Pérdida en Relaciones'
+description: ¿Alguna vez te has sentido desesperado cuando alguien no responde tus mensajes o te ha invadido un miedo repentino de que tu pareja podría perder…
 ---
 
 ¿Alguna vez te has sentido desesperado cuando alguien no responde tus mensajes o te ha invadido un miedo repentino de que tu pareja podría perder el interés? Estas sensaciones pueden ser síntomas de lo que se conoce como apego ansioso. El apego ansioso es una forma de apego emocional que se caracteriza por un miedo constante a la pérdida y al rechazo en las relaciones. Vamos a desglosar qué es el apego ansioso, cómo afecta nuestras relaciones y algunas herramientas para gestionarlo de manera saludable.

@@ -2,12 +2,14 @@
 
 // Header
 
-#body-inicio #header {
+#body-home #header {
   @mixin show-from($delay) {
     animation: show-from .5s ($delay * .125s) both;
   }
   @mixin show-butterflies($delay) {
     animation: show-from .5s ($delay * .025s) both;
+  }
+  #logo-icon-butterfly > * {
     --show-from: scale(3);
     transform-origin: center;
   }
@@ -24,30 +26,25 @@
   #logo-icon-butterfly > *:nth-child(11) { @include show-butterflies(10); }
   #logo-icon-butterfly > *:nth-child(12) { @include show-butterflies(11); }
   #logo-icon-butterfly > *:nth-child(13) { @include show-butterflies(12); }
-  #logo-icon-butterfly {   @include show-from(1); --show-from: scale(3); transform-origin: center; }
-  #logo-icon-face {        @include show-from(2); }
-  #logo-text {             @include show-from(3); --show-from: scale(.8) rotate(90deg); transform-origin: center; }
-  .section__title {        @include show-from(4); }
-  .subtitle {              @include show-from(5); }
-  .column__description p { @include show-from(6); }
-  .button {                @include show-from(7); }
-  .column--item-2 {
+  #logo-icon-butterfly { @include show-from(1); --show-from: scale(3); transform-origin: center; }
+  #logo-icon-face {      @include show-from(2); }
+  #logo-text {           @include show-from(3); --show-from: scale(.8) rotate(90deg); transform-origin: center; }
+  .box__title {          @include show-from(4); }
+  .subtitle {            @include show-from(5); }
+  .box__content p {      @include show-from(6); }
+  .button {              @include show-from(7); }
+  .box--2 {
     @include show-from(7);
-    margin-bottom: -11em;
+    @include fluid-size(margin-bottom, 1em, -8, -11);
     // --mask-image: linear-gradient(#000 95%,transparent);
     // -webkit-mask-image: var(--mask-image);
     // mask-image: var(--mask-image);
   }
 }
-#video {
-  .image--9x16 {
-    --image-ratio: 100/185;
-  }
-}
 
 // Sections
 #sobre {
-  .column--item-2 {
+  .box--2 {
     margin-bottom: -10em;
   }
 }

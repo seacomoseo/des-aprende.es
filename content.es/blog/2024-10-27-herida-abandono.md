@@ -1,16 +1,15 @@
 ---
-title: 'La Herida de Abandono: Reconocerla y Sanarla en las Relaciones de Pareja'
-title_seo: 'La Herida de Abandono: Reconocerla y Sanarla en la Pareja'
 slug: herida-abandono
-description: La herida de abandono es una de esas "mochilas emocionales" que muchos llevamos sin darnos cuenta, y que puede hacer que nuestras relaciones se sientan…
+title: 'La Herida de Abandono: Reconocerla y Sanarla en las Relaciones de Pareja'
+summary: ''
 image: blog/herida-abandono.svg
-categories: []
-tags: []
 author: admin
 toc: true
 draft: false
 noindex: false
 date: 2024-10-27
+seo: 'La Herida de Abandono: Reconocerla y Sanarla en la Pareja'
+description: La herida de abandono es una de esas "mochilas emocionales" que muchos llevamos sin darnos cuenta, y que puede hacer que nuestras relaciones se sientan…
 ---
 
 La herida de abandono es una de esas "mochilas emocionales" que muchos llevamos sin darnos cuenta, y que puede hacer que nuestras relaciones se sientan como una montaña rusa. Si has notado que te cuesta estar solo, que sientes una necesidad casi urgente de compañía o que el miedo a que alguien te deje hace que te aferres a la relación con todas tus fuerzas, puede que esta herida esté influyendo en tu vida amorosa. Pero calma, no estás solo en esto y, sobre todo, tiene solución. Vamos a desentrañar de qué se trata la herida de abandono y cómo podemos empezar a sanarla para construir relaciones más saludables y equilibradas.

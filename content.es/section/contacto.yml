@@ -1,0 +1,57 @@
+name: Contacto
+id: contacto
+title: Reservar Cita
+subtitle: Llegó el momento de florecer
+color: white
+size: sm
+icon: whatsapp
+align: center
+flip_x: false
+flip_y: false
+divider: arrow
+pt: 8
+pb: 8
+menu_button: link
+form:
+  fill_inputs: false
+contact:
+- type: schedule
+  days: Lunes a Viernes
+  hours: 10:00 - 20:00
+- type: br
+- type: whatsapp
+  button: link
+  label: 613 79 45 95
+- type: mail
+  label: leticia@des-aprende.es
+- type: address
+  label: Plaza Beato Andrés Hibernón, 1, 30001 Murcia
+  anchor: Des-Aprende · Terapia Psicológica Online y en Murcia - Plaza Beato Andrés Hibernón, 1, 30001 Murcia
+  # geo: '{"type":"Point","coordinates":[-1.127396,37.987117]}'
+  button: light
+inputs:
+- type: text
+  name: Nombre
+  required: true
+- type: text
+  name: Apellidos
+  required: false
+- type: number
+  name: Edad
+  required: false
+- type: text
+  name: Horario/Disponibilidad
+  required: false
+- type: tel
+  name: Teléfono
+  required: true
+- type: email
+  name: Email
+  required: true
+- type: text
+  name: Motivo de consulta
+  required: true
+  full: true
+- type: textarea
+  name: Mensaje
+  required: true

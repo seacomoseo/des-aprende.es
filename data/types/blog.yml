@@ -1,0 +1,4 @@
+base: article
+order: 2
+name: blog
+related: true

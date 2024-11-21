@@ -1,0 +1,37 @@
+name: Precios
+id: precios
+title: Precios
+subtitle: Por cada sesión
+color: light
+icon: tags
+box:
+  columns: 3
+  color: white
+  hn: 3
+  link: '#contacto'
+  licon: whatsapp
+  label: Reservar Cita
+boxes:
+- title: Adultos
+  icon: user
+  content: |
+    - icon:calendar Sesión individual
+    - icon:clock 60 minutos
+
+    50 €
+    {.price}
+  more: null
+- title: Estudiantes y Desempleados
+  icon: user-graduate
+  content: |
+    - icon:handshake-angle Una pequeña ayuda
+
+    45 €
+    {.price}
+- title: Otros Descuentos
+  icon: percent
+  content: |
+    - icon:certificate Bonos
+    - icon:people-arrows-left-right Parejas
+
+    ¡Pregunta sin compromiso!

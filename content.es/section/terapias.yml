@@ -1,0 +1,27 @@
+name: Terapias
+id: terapias
+title: Terapias
+subtitle: ¿Cómo trabajamos?
+color: light
+icon: hands-holding-heart
+size: md
+box:
+  gap_min: 3
+  gap_ny: 1
+boxes:
+- box:
+    columns: 3
+    hn: 3
+    licon: plus
+  boxes:
+  - title: Individual
+    icon: person-dress-simple
+    link: '#terapia-individual'
+  - title: Pareja
+    icon: people-simple
+    link: '#terapia-pareja'
+- boxes:
+  - subtitle: ¿Quieres más detalles?
+    label: Metodología
+    licon: street-view
+    link: '#terapia-integrativa'

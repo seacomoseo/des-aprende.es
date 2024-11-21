@@ -1,16 +1,15 @@
 ---
-title: 'Apego Evitativo: Cuando el Miedo a la Intimidad Afecta tus Relaciones'
-title_seo: 'Apego Evitativo: El Miedo a la Intimidad que Afecta tus Relaciones'
 slug: apego-evitativo
-description: ¿Alguna vez has sentido que te asfixias en una relación, o que te alejas justo cuando las cosas comienzan a ponerse serias? Si te suena familiar, es…
+title: 'Apego Evitativo: Cuando el Miedo a la Intimidad Afecta tus Relaciones'
+summary: ''
 image: blog/apego-evitativo.svg
-categories: []
-tags: []
 author: admin
 toc: true
 draft: false
 noindex: false
 date: 2024-10-30
+seo: 'Apego Evitativo: El Miedo a la Intimidad que Afecta tus Relaciones'
+description: ¿Alguna vez has sentido que te asfixias en una relación, o que te alejas justo cuando las cosas comienzan a ponerse serias? Si te suena familiar, es…
 ---
 
 ¿Alguna vez has sentido que te asfixias en una relación, o que te alejas justo cuando las cosas comienzan a ponerse serias? Si te suena familiar, es posible que estés lidiando con el apego evitativo. Este tipo de apego puede hacer que el amor se sienta como un juego de escondite, donde te escondes detrás de muros invisibles, temeroso de ser herido. Vamos a explorar cómo este patrón puede afectar tu vida amorosa y, sobre todo, cómo puedes comenzar a sanarlo.

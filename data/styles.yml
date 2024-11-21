@@ -1,0 +1,78 @@
+icons:
+  type: solid
+  sharp: false
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: true
+  base:
+    family: Lato
+    weight: 400
+    bold: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Alegreya
+    weight: 400
+    bold: 0
+    italic: true
+    line-height: 1.25
+    size: 1
+    top: 0
+  title:
+    family: Alegreya
+    weight: 700
+    bold: 0
+    italic: false
+    line-height: 1.25
+    size: 1
+    top: 0
+  blockquote_cursive: true
+colors:
+  main:
+    color: '#d8b4a1'
+    light: '#ffeee2'
+    dark: ''
+    contrast: text
+  alt:
+    color: '#ae8c83'
+    light: ''
+    dark: ''
+    contrast: none
+  link:
+    color: '#b27a61'
+    light: ''
+    dark: ''
+    contrast: none
+  base:
+    white: '#fff'
+    light: '#f6f3f0'
+    grey: '#767676'
+    dark: '#2b2929'
+    black: '#000000'
+rounded:
+  radius: 1.33
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: true
+  outline: false
+  font_main:
+    type: title
+    bold: false
+    uppercase: true
+  font_alt:
+    type: base
+    bold: false
+    uppercase: false
+inputs:
+  fill: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0.15
+  color: black
+  alpha: 0.85
+performance:
+  show: true

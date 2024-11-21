@@ -1,0 +1,50 @@
+title: Todas
+template:
+  toc: true
+  background:
+    color: light
+  menu:
+    logo: true
+    logo_align: center
+    transparent: true
+    size: sm
+    color: white
+    es:
+      image: base/icon-tr.svg
+      title: DES-APRENDE
+      subtitle: Psicología
+      items:
+      - label: Blog
+        icon: blog
+        link: /blog/
+  callnow:
+    show: auto
+    es: []
+  section:
+  - size: sm
+  modal: {}
+  sections:
+  - file: base/_header
+  - file: base/toc
+  - file: base/content
+  - file: base/address
+  - file: base/author
+  - file: base/social
+  - file: base/comments
+  - file: base/children
+  - file: base/share
+  - file: base/related
+  list:
+    columns: 3
+    color: white
+    decline: true
+    inset: true
+    ratio: 1/1
+    icon: hide
+    align: left
+    button: hide
+    tags:
+    - type: date
+    - type: address
+  related:
+    slider: true

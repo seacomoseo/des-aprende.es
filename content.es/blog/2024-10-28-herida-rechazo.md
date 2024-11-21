@@ -1,16 +1,15 @@
 ---
-title: 'La Herida de Rechazo: Superando el Miedo a No Ser Aceptado'
-title_seo: ''
 slug: herida-rechazo
-description: La herida de rechazo es esa pequeña voz que, en los momentos más vulnerables, nos recuerda el miedo a no ser aceptados o valorados. Es una de las heridas…
+title: 'La Herida de Rechazo: Superando el Miedo a No Ser Aceptado'
+summary: ''
 image: blog/herida-rechazo.svg
-categories: []
-tags: []
 author: admin
 toc: true
 draft: false
 noindex: false
 date: 2024-10-28
+seo: ''
+description: La herida de rechazo es esa pequeña voz que, en los momentos más vulnerables, nos recuerda el miedo a no ser aceptados o valorados. Es una de las heridas…
 ---
 
 La herida de rechazo es esa pequeña voz que, en los momentos más vulnerables, nos recuerda el miedo a no ser aceptados o valorados. Es una de las heridas emocionales más comunes y profundas que podemos llevar desde la infancia, y su influencia se extiende a todas nuestras relaciones, especialmente las de pareja. Sentirse "rechazado" en el pasado puede haber dejado una marca que, aunque silenciosa, aparece cada vez que sentimos que alguien se aleja o parece menos interesado en nosotros. Si reconoces este patrón, aquí exploraremos qué es exactamente la herida de rechazo, cómo puede manifestarse y, lo más importante, cómo podemos empezar a sanarla.

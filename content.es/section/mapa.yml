@@ -1,0 +1,11 @@
+name: Mapa
+hanchor: Mapa
+menu_button: hide
+ph: true
+size: fluid
+flip_x: false
+flip_y: false
+divider: arrow
+map:
+- type: point
+  geo: '{"type":"Point","coordinates":[-1.127396,37.987117]}'

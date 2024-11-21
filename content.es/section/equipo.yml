@@ -1,0 +1,29 @@
+name: Equipo
+id: equipo
+title: Equipo
+subtitle: ¿Quienes somos?
+color: light
+icon: people-group
+box:
+  columns: 4
+  circle: true
+  border: main
+  hs: 3
+  licon: plus
+boxes:
+- title: Leticia Martínez Pino
+  subtitle: Psicóloga General Sanitaria
+  link: '#leticia-martinez-pino'
+  image: equipo/leticia-martinez-pino.jpg
+- title: Milagros Mariotti
+  subtitle: Psicóloga General Sanitaria
+  link: '#milagros-mariotti'
+  image: equipo/milagros-mariotti.jpg
+- title: Paula Arenas
+  subtitle: Psicóloga General Sanitaria
+  link: '#paula-arenas'
+  image: equipo/paula-arenas.jpg
+- title: Alicia Cano Moreno
+  subtitle: Psicóloga General Sanitaria
+  link: '#alicia-cano-moreno'
+  image: equipo/alicia-cano-moreno.jpg
