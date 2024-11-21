@@ -8,6 +8,7 @@ align: center
 boxes:
 - box:
     columns: 4
+    columns_min: 2
     hs: 5
   boxes:
   - title: Cognitivo-Conductual
@@ -25,6 +26,7 @@ boxes:
       Áreas que trabajamos en la terapia online:
 - box:
     columns: 3
+    columns_min: 2
     icon_type: bottom
     hs: 6
   boxes:

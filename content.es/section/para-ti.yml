@@ -4,9 +4,10 @@ uppercase: false
 hanchor: Para ti
 menu_button: hide
 box:
+  columns: 2
   align_y: center
   align: left
-  columns: 2
+  hide_shadow: true
 boxes:
 - image: heartbroken.svg
 - title: Des-Aprende es para ti sí…
