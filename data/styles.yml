@@ -4,7 +4,7 @@ icons:
   emojis: ''
   emojis_default: false
 fonts:
-  google: true
+  google: false
   base:
     family: Lato
     weight: 400
