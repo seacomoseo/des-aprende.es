@@ -4,14 +4,15 @@ title: Terapias
 subtitle: ¿Cómo trabajamos?
 color: light
 icon: hands-holding-heart
-size: md
+size: xs
 box:
-  gap_min: 3
-  gap_ny: 1
+  gap_min: 2
 boxes:
 - box:
-    columns: 3
-    hn: 3
+    columns_min: 2
+    gap: 2
+    gap_min: 1
+    hs: 3
     licon: plus
   boxes:
   - title: Individual
