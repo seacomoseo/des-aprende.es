@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-image: base/logo.png
+image: base/poster.png
 
 seo: 🧠 Des-Aprende · Terapia Psicológica Online y en Murcia
 description: Aprende a conocerte, quererte y cuidarte mientras fortaleces la relación contigo misma y con los demás. ✅ Cultiva tu autoestima y crece personalmente.
@@ -47,7 +47,7 @@ summary: Aprende a conocerte, quererte y cuidarte mientras fortaleces la relaci�
 legal: Leticia Martínez Pino
 nif: 48695365H
 email: leticia@des-aprende.es
-logo: base/logo.svg
+logo: base/poster.svg
 images:
 - terapia-online.jpg
 - terapia-online-alt.png

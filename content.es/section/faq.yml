@@ -8,7 +8,10 @@ icon: circle-question
 flip_x: false
 flip_y: true
 divider: arrow
-collapsibles:
+# accordion:
+#   headers: true
+#   hs: 5
+accordions:
 - title: ¿Con cuánta frecuencia tengo que asistir a las sesiones?
   content: |
     Una vez se realice la primera sesión se recomendará una frecuencia

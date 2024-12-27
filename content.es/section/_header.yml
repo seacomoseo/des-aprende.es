@@ -13,7 +13,7 @@ boxes:
 - span: 6
   title: Terapia Psicológica Online y Presencial
   subtitle: Estamos aquí para acompañarte en cada paso de tu crecimiento personal
-  image: base/logo-tr.svg
+  image: base/logo.svg
   hide_shadow: true
   content: |
     Aprende a conocerte, quererte y cuidarte mientras fortaleces la relación contigo misma y con los demás. Cultiva tu autoestima y crece personalmente.
