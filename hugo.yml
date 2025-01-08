@@ -3,8 +3,9 @@ buildFuture: true
 theme: [sansoul]
 params:
   git_url: https://github.com/seacomoseo/des-aprende.es
-  netlify_name: desaprende
+  name: desaprende
   netlify_id: 4c3cb502-5009-4a34-bdfd-796f94098655
-  hook: NjMwMzc0YzRlZmFlYjkwMDZjZjZjYjI5
+  netlify_hook: NjMwMzc0YzRlZmFlYjkwMDZjZjZjYjI5
+  cloudflare_hook: 
   drive_link: https://drive.google.com/file/d/1-VTlaUjGsyGppryGBEPxIOCSoeOS_4gK
   drive_mails: letizschia.martinez@gmail.com

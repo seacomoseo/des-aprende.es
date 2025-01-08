@@ -8,9 +8,9 @@ icon: circle-question
 flip_x: false
 flip_y: true
 divider: arrow
-# accordion:
-#   headers: true
-#   hs: 5
+accordion:
+  headers: true
+  hs: 5
 accordions:
 - title: ¿Con cuánta frecuencia tengo que asistir a las sesiones?
   content: |
