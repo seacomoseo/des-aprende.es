@@ -26,12 +26,10 @@ document.addEventListener('click', e => {
     '.ga4'
   )
   // eslint-disable-next-line
-  // if (b) gtag('event', 'contact_click')
-  if (b) console.log('event', 'contact_click')
+  if (b) gtag('event', 'contact_click')
 })
 // contact_form_submit
 document.addEventListener('submited-form-contacto', e => {
   // eslint-disable-next-line
-  // gtag('event', 'contact_form_submit')
-  console.log('event', 'contact_form_submit')
+  gtag('event', 'contact_form_submit')
 })
