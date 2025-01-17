@@ -1,7 +1,5 @@
 
-
 // Header
-
 #body-home #header {
   @mixin show-from($delay) {
     animation: show-from .5s ($delay * .125s) both;
