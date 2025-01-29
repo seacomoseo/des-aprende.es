@@ -18,7 +18,7 @@ boxes:
     - icon:calendar Sesión individual
     - icon:clock 60 minutos
 
-    50 €
+    55 €
     {.price}
   more: null
 - title: Estudiantes y Desempleados
@@ -26,7 +26,7 @@ boxes:
   content: |
     - icon:handshake-angle Una pequeña ayuda
 
-    45 €
+    50 €
     {.price}
 - title: Otros Descuentos
   icon: percent
