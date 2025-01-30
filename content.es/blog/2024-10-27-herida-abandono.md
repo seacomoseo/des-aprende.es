@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2024-10-27
+date: 2024-10-27 00:00:00
 seo: 'La Herida de Abandono: Reconocerla y Sanarla en la Pareja'
 description: La herida de abandono es una de esas "mochilas emocionales" que muchos llevamos sin darnos cuenta, y que puede hacer que nuestras relaciones se sientan…
 ---

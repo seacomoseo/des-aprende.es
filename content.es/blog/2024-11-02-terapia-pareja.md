@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2024-11-02
+date: 2024-11-02 00:00:00
 seo: 'Terapia de Pareja: Ante la Desconexión y las Dinámicas Invisibles'
 description: Hay momentos en una relación donde, sin saber muy bien cómo, la distancia emocional empieza a crecer. Lo que antes era una conexión fluida y llena de…
 ---

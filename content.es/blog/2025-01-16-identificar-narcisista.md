@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2025-01-16
+date: 2025-01-16 00:00:00
 seo: '¿Cómo identificar a un narcisista? Señales de alerta'
 description: 'El narcisismo es un tema complejo y a menudo malinterpretado. En las relaciones personales, el narcisismo puede manifestarse de manera sutil, pero…'
 ---

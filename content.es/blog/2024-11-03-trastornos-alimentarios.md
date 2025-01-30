@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2024-11-03
+date: 2024-11-03 00:00:00
 seo: 'La Realidad de los Trastornos Alimentarios - Des-Aprende'
 description: 'A menudo me encuentro en el consultorio con personas que llegan con una historia similar: la lucha constante con su relación con la comida…'
 ---

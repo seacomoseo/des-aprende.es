@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2024-11-01
+date: 2024-11-01 00:00:00
 seo: ''
 description: La terapia de Desensibilización y Reprocesamiento por Movimiento Ocular (EMDR) ha revolucionado el campo de la psicología en las últimas décadas…
 ---

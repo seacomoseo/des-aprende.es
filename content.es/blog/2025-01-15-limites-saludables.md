@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2025-01-15
+date: 2025-01-15 00:00:00
 seo: 'Estrategias para establecer límites saludables en personas dañinas'
 description: 'A lo largo de nuestra vida, nos encontramos con personas que, consciente o inconscientemente, tienen un impacto negativo en nuestro bienestar…'
 ---

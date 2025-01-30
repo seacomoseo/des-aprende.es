@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2024-10-26
+date: 2024-10-26 00:00:00
 seo: 'Las Heridas Emocionales en las Relaciones: ¿Cómo nos Afectan?'
 description: '¿Alguna vez te has encontrado en una relación pensando: "¿Por qué vuelvo a caer en lo mismo?" o "¿De verdad me pasa otra vez?" La respuesta puede estar en…'
 ---

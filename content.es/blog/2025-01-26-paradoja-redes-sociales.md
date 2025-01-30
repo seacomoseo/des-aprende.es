@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2025-01-26
+date: 2025-01-26 00:00:00
 seo: 'La paradoja de las redes sociales: ¿conexión emocional o no?'
 description: 'En un mundo hiperconectado, donde las notificaciones nos acompañan desde que despertamos hasta que cerramos los ojos, parece contradictorio que…'
 ---

@@ -7,7 +7,7 @@ author: admin
 toc: true
 draft: false
 noindex: false
-date: 2025-01-13
+date: 2025-01-13 00:00:00
 seo: 'Relaciones de pareja: ¿Por qué fallan y cómo reconstruirlas?'
 description: 'Las relaciones de pareja son un terreno fértil para el amor, pero también para los conflictos y malentendidos. ¿Por qué fallan las relaciones de pareja?…'
 ---
