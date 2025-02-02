@@ -1,2 +1,1 @@
-# comentario
-/from /to
+/inicio/ /
