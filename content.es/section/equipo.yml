@@ -4,8 +4,9 @@ title: Equipo
 subtitle: ¿Quienes somos?
 color: light
 icon: people-group
+size: md
 box:
-  columns: 4
+  columns: 3
   circle: true
   border: main
   hs: 3
@@ -27,3 +28,7 @@ boxes:
   subtitle: Psicóloga General Sanitaria
   link: '#alicia-cano-moreno'
   image: equipo/alicia-cano-moreno.jpg
+- title: Carmen González
+  subtitle: Psicóloga General Sanitaria
+  link: '#carmen-gonzalez'
+  image: equipo/carmen-gonzalez.jpg

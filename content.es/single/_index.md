@@ -25,6 +25,7 @@ sections:
   - file: equipo/milagros-mariotti
   - file: equipo/paula-arenas
   - file: equipo/alicia-cano-moreno
+  - file: equipo/carmen-gonzalez
 - file: para-ti
 - file: terapia-online
   modals:
