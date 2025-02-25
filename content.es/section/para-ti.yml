@@ -4,7 +4,7 @@ uppercase: false
 hanchor: Para ti
 menu_button: hide
 box:
-  columns: 2
+  cols: 2
   align_y: center
   align: left
   hide_shadow: true

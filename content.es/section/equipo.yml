@@ -6,7 +6,7 @@ color: light
 icon: people-group
 size: md
 box:
-  columns: 3
+  cols: 3
   circle: true
   border: main
   hs: 3

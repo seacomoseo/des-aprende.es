@@ -13,7 +13,7 @@ boxes:
     - link: https://g.page/r/CX3c98qaRwrmEAg/review
       ofuscate: true
       label: Google
-    columns: 3
+    cols: 3
   reviews:
   - title: Alicia C.
     content: |

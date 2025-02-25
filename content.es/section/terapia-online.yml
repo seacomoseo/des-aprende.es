@@ -6,7 +6,7 @@ color: main-dark
 icon: camera-web
 menu_button: hide
 box:
-  columns: 2
+  cols: 2
   align_y: center
 boxes:
 - order: 2

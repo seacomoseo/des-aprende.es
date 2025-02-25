@@ -9,7 +9,7 @@ box:
   gap_min: 2
 boxes:
 - box:
-    columns_min: 2
+    cols_min: 2
     gap: 2
     gap_min: 1
     hs: 3

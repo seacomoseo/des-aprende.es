@@ -6,7 +6,7 @@ color: white
 icon: circle-info
 boxes:
 - box:
-    columns: 2
+    cols: 2
     align_y: center
     align: left
     hide_shadow: true
@@ -24,7 +24,7 @@ boxes:
       [btn icon:heart Desarrollo Personal](#desarrollo-personal)
       [btn-main icon:play Ver Vídeo](#video)
 - box:
-    columns: 2
+    cols: 2
     align_y: center
     align: left
     align_max: right

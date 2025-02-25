@@ -5,5 +5,21 @@ langs:
   google_analytics: G-MVRFWZGMPZ
   google_site_verification: 3-sAQ6_IzkJ9Io_7Ua3ojeP0jCe1p-e95V4-gP43Wj4
   google_file_verification: google7467d923cbb3eb4c.html
+  html:
+    head: |
+      <!-- Google Tag Manager -->
+      <script>
+        (function(w,d,s,l,i){
+          w[l] = w[l] || []
+          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+          const f = d.getElementsByTagName(s)[0]
+          const j = d.createElement(s)
+          const dl = l !== 'dataLayer' ? '&l=' + l : ''
+          j.async = true
+          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+          f.parentNode.insertBefore(j, f)
+        })(window, document, 'script', 'dataLayer', 'GTM-KKCTWB9M')
+      </script>
+      <!-- End Google Tag Manager -->
 others:
   show: true

@@ -6,7 +6,7 @@ flip_y: true
 divider: arrow
 hanchor: Terapia Psicológica Online y en Murcia
 box:
-  columns: 11
+  cols: 11
   uppercase: false
   align_y: center
 boxes:

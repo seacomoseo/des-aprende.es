@@ -5,7 +5,7 @@ subtitle: ¿Quién soy?
 color: white
 icon: person-dress-simple
 box:
-  columns: 2
+  cols: 2
   align_y: center
 boxes:
 - order: 2

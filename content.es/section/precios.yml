@@ -5,7 +5,7 @@ subtitle: Por cada sesión
 color: light
 icon: tags
 box:
-  columns: 3
+  cols: 3
   color: white
   hn: 3
   link: '#contacto'
