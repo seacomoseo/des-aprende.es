@@ -60,7 +60,7 @@ rounded:
 buttons:
   sides_round: false
   dot_circle: false
-  deep: false
+  deep: true
   outline: false
   font:
     type: title
