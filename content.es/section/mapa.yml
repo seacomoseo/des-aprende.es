@@ -9,4 +9,4 @@ div: arrow
 geos:
 - type: point
   geo: '{"type":"Point","coordinates":[-1.127396,37.987117]}'
-color: light
+
