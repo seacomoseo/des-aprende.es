@@ -12,36 +12,36 @@ boxes:
     hide_shadow: true
   boxes:
   - image: coaching-process.svg
-  - content: |
+  - md: |
       Nuestro objetivo es guiarte, proporcionándote inspiración, acompañamiento y herramientas prácticas para tu crecimiento y bienestar.
 
       Te ayudamos comenzando con el autoconocimiento, sanando las heridas del pasado y fortaleciendo tu autoestima.
 
       Desaprende lo aprendido y comienza un nuevo camino conmigo.
 
-      <!-- icon:arrow-down Pulsa para leer más: -->
+      <!-- :arrow-down: Pulsa para leer más: -->
 
-      [btn icon:heart Desarrollo Personal](#desarrollo-personal)
-      [btn-main icon:play Ver Vídeo](#video)
+      [[:heart: Desarrollo Personal]](#desarrollo-personal)
+      [[:play: Ver Vídeo]](#video "[main]")
 - box:
     cols: 2
     align_y: center
     align: left
-    align_max: right
+    align_vl: right
     hide_shadow: true
   boxes:
   - order: 2
     image: base/icon-tr.svg
   - title: ¿Qué significa desaprender?
-    content: |
+    md: |
       Desaprender no se trata de borrar y olvidar lo aprendido, sino de no ser esclavo de ello.
 
-      **Desaprender es ==icon:sign-simple REPROGRAMARNOS==**.
+      **Desaprender es ==:sign-simple: REPROGRAMARNOS==**.
 
       Desaprendemos para volver a llenarnos de cosas útiles y que nos orienten hacia el futuro.
 
       **Para aprender hay que querer.**
 
-      **Para desaprender hay que querer ==icon:sign-circle mucho más==.**
+      **Para desaprender hay que querer ==:sign-circle: mucho más==.**
 
-      [btn icon:whatsapp Reservar Cita](#contacto)
+      [[:whatsapp: Reservar Cita]](#contacto)

@@ -11,7 +11,7 @@ boxes:
 - order: 2
   title: Leticia Martínez Pino
   subtitle: Psicóloga General Sanitaria
-  content: |
+  md: |
     Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
 
     A lo largo de mi carrera en diversas especialidades dentro de la clínica de psicología, encontré mi verdadera pasión: guiar a las personas a conocerse y reconectar con su esencia y sus valores, sin miedo ni condicionantes.

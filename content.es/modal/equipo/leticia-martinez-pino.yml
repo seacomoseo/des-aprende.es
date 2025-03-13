@@ -3,7 +3,7 @@ id: leticia-martinez-pino
 title: Leticia Martínez Pino
 subtitle: Psicóloga General Sanitaria
 image: equipo/leticia-martinez-pino.jpg
-content: |
+md: |
   Algo que caracteriza mi profesionalidad es mi cercanía. Creo firmemente que el vínculo que se crea en consulta es único y tiene un poder reparador por sí mismo. No me gusta sentir distancia con mis pacientes, por lo que, aunque nuestras sesiones sean a través de una pantalla, siempre ofrezco mucha cercanía y calidez.
 
   Fuera de mi profesión, soy una persona apasionada de la naturaleza y los animales, el baile como expresión del cuerpo, la lectura y los viajes, prácticas que me ayudan a mantener un equilibrio en mi vida personal y profesional. Creo firmemente en el poder del autocuidado y el crecimiento continuo.
@@ -25,6 +25,6 @@ content: |
   Si quieres conocerme un poco más…
   {.h4}
 
-  [btn:alt-font-alt icon:instagram @desaprende&shy;conmigo&shy;psicologia](https://www.instagram.com/desaprendeconmigopsicologia/ "nofollow")
+  [[:instagram: @desaprende&shy;conmigo&shy;psicologia]](https://www.instagram.com/desaprendeconmigopsicologia/ "[nofollow alt-swap]")
 border: main
 circle: true

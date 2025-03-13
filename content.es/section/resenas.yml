@@ -16,7 +16,7 @@ boxes:
     cols: 3
   reviews:
   - title: Alicia C.
-    content: |
+    md: |
       Conocí a Leticia porque era la psicóloga de una amiga y, la verdad, yo ahora la recomiendo cada vez que me preguntan por alguien con quien iniciar una terapia.
 
       Leticia es una profesional excelente.
@@ -26,7 +26,7 @@ boxes:
       Creo que a cualquier tipo de persona le haría sentir confianza y tranquilidad.
     image: https://lh3.googleusercontent.com/a-/ALV-UjWaVPZkr4n7wrG977735N0UV2blQe4pzV0qR159u0SCebWwM7Cs=s136
   - title: Miriam F.
-    content: |
+    md: |
       Fui a Leticia recomendada por un gran amigo.
 
       Sabía que iba a ser una gran psicóloga pero me sorprendió muy gratamente que superase todas mis expectativas.
@@ -36,7 +36,7 @@ boxes:
       Os la recomiendo a ojos cerrados.
     image: https://lh3.googleusercontent.com/a-/ALV-UjWs1zLpL5G2O7aRvwxvIL-N1ql_6S4PHbipqDDM7BDC1loRsGsU=s136
   - title: Jone E.
-    content: |
+    md: |
       Llevo poco tiempo con Leti, pero gracias a su profesionalidad, he sacado adelante varios de los problemas e inseguridad.
 
       Así como, a otros profesionales a los que he ido no han terminado de darme ese empujón que necesitaba, con ella ha sido mucho más fácil.
@@ -47,7 +47,7 @@ boxes:
       Es la mejor profesional que he tenido y la recomienda 100%, sin dudarlo.
     image: https://lh3.googleusercontent.com/a-/ALV-UjXIcoGFFBwm9nJcf-eTbUyxcBEO6OB3wIAmIHUZuVZyuOoQi65T=s136
   - title: V L.
-    content: |
+    md: |
       Leticia me ha cambiado para mi evolución, creo que no lo ha podido hacer mejor.
 
       Después de llegar  a ella tras otro profesional que no me daba ningún tipo de pautas, desde el primer día caer en sus manos ha sido una de las mejores cosas que me ha podido pasar.
@@ -59,7 +59,7 @@ boxes:
       Sin dudarlo, es la mejor profesional que he tenido y muy recomendable.
     image: https://lh3.googleusercontent.com/a/ACg8ocIKDJRZXZvBGGvtImwL94s329mso79UrXZ7WcIyrvbgffllZw=s136
   - title: Nurixx M.
-    content: |
+    md: |
       Hace poco tiempo que estoy en terapia pero desde la primera, ya pude sentir su ayuda.
 
       Gracias a Leticia estoy poniendo nombre a muchas cosas y entender siempre ayuda a calmar.
@@ -71,7 +71,7 @@ boxes:
       Muchas gracias Leticia, estoy deseando verte🫶🏻🤭
     image: https://lh3.googleusercontent.com/a-/ALV-UjX82oTH2n94kwavLkjixeixxDSL2p_d8xve214S5wV0HbQjhBlQ=s136
   - title: Elena A.
-    content: |
+    md: |
       Leti es una psicóloga increíble, empecé a ir a terapia hace un año y medio y el cambio que he experimentado tanto en mi propio bienestar como en mi relación con los demás ha sido, para mí, sorprendente.
 
       Leti es muy cercana y ha hecho que me sienta muy cómoda y segura con ella en todas las sesiones, no sintiendome en ningún momento juzgada.
@@ -81,7 +81,7 @@ boxes:
       Si estas pensando en empezar tu proceso de terapia te recomiendo a Leti 100%.
     image: https://lh3.googleusercontent.com/a/ACg8ocLeAU6l0Y_7uAy5zP-FeRQmAOIKp_cagby4kvMagNtv3kvE-w=s136
   - title: Ana J.
-    content: |
+    md: |
       Sin duda alguna recurriría una y mil veces a ella.
 
       No conozco a nadie que transmita tanta seguridad y confianza en lo que hace, es una chica muy profesional y entregada en su trabajo.
@@ -91,7 +91,7 @@ boxes:
       Pocos se implican y se preocupan por sus pacientes como Leticia lo hace y eso hace que su terapia sea tan exitosa, además de enseñarte a utilizar las herramientas necesarias para trabajar desde autoconocimiento y la reflexión.
     image: https://lh3.googleusercontent.com/a/ACg8ocLVaE8tkcPaPv1w-XtbHH66DYXIgg4fKTUHL_IvnuExery6hg=s136
   - title: Nacho E.
-    content: |
+    md: |
       Estoy muy agradecido con Leticia.
 
       Me la recomendó un amigo que ya era paciente porque estaba muy contento y ha sido una de las mejores decisiones de mi vida.
@@ -101,7 +101,7 @@ boxes:
       Es súper cercana y atenta, al instante te transmite la confianza suficiente para poder abrirte y contarle todo.
     image: https://lh3.googleusercontent.com/a/ACg8ocI2-TjPLC2psDBKIKWySF85JUabR4YSmOe82E3CxhjDTJQU7Oc=s136
   - title: María R.
-    content: |
+    md: |
       Llevo seis meses en terapia y la verdad que me ha cambiado por completo.
 
       Sentí seguridad desde el primer día y fue muy fácil para mi conectar con Leti.
@@ -111,7 +111,7 @@ boxes:
       Para mi ha marcado un antes y un después en mi vida, estoy muy contenta.
     image: https://lh3.googleusercontent.com/a-/ALV-UjVIsz4gS5RQ5cT-D0jUHFZ-hxX-4DanlDVKjnNTiLpQg1sD0O3c=s136
   - title: Alejandro C.
-    content: |
+    md: |
       Para mí fue un antes y un después el acudir a terapia con Leticia.
 
       Cambio mi forma de ver las cosas radicalmente y gracias a ello tengo mejores relaciones personales con amigos y familiares.
@@ -121,12 +121,12 @@ boxes:
       Gracias Leticia
     image: https://lh3.googleusercontent.com/a/ACg8ocLvq7tucj7wcNpw9YHuMxojGOTy9BSILZlbJ1OjMxWNAJZOcA=s136
 - boxes:
-  - content: |
+  - md: |
       <!--
       ¡Hay más aquí! ¡Añade la tuya!
       {.subtitle}
 
-      [btn icon:star Google](https://g.page/r/CX3c98qaRwrmEAg/review "noindex")
+      [[:star: Google]](https://g.page/r/CX3c98qaRwrmEAg/review "[nofollow]")
       -->
 
-      [btn icon:whatsapp Reservar Cita](#contacto)
+      [[:whatsapp: Reservar Cita]](#contacto)

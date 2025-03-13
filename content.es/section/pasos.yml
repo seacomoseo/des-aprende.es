@@ -10,22 +10,22 @@ step:
   border: light
 steps:
 - title: Reserva tu cita
-  content: |
+  md: |
     ¡Dale click al botón de WhatsApp!
 
     *(o email o formulario)*
 
-    [btn icon:whatsapp Reservar Cita](#contacto)
+    [[:whatsapp: Reservar Cita]](#contacto)
 - title: Datos
-  content: |
+  md: |
     Escribe tu nombre, apellidos, edad y un horario disponible para consultas y te contactaré lo antes posible.
 - title: Google Meet
-  content: |
+  md: |
     Accede a la videollamada.
 
-    [btn icon:google-meet Google Meet](https://meet.google.com/ "nofollow")
+    [[:google-meet: Google Meet]](https://meet.google.com/ "[nofollow]")
 - title: Prueba
-  content: El día de tu sesión conéctate 15 minutos antes para reservar la sesión y evitar  incidencias.
+  md: El día de tu sesión conéctate 15 minutos antes para reservar la sesión y evitar  incidencias.
 - title: ¡Sesión!
-  content: |
+  md: |
     Nos conectarnos y recibes tu sesión.

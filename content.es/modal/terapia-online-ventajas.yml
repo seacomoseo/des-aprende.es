@@ -3,7 +3,7 @@ id: ventajas
 title: Ventajas
 subtitle: de la psicoterapia en linea
 icon: star
-content: |
+md: |
   - Se potencia el anonimato y la intimidad, facilitando la sinceridad y desinhibición en una relación terapéutica con el piscólogo online.
   - Se aumenta la cobertura y el acceso a personas que por sus circunstancias personales no pueden seguir una terapia tradicional
   - Permite al paciente realizar las sesiones cuando lo desee, sin tener que dejar de hacer otras actividades y manteniendo la discreción, ya que en este caso no hay necesidad de pedir permiso en el trabajo o centro de estudios.
@@ -13,4 +13,4 @@ content: |
   - No hay límites geográficos.
   - Ofrece un entorno de confianza.
 
-  [btn icon:whatsapp Reservar Cita](#contacto)
+  [[:whatsapp: Reservar Cita]](#contacto)

@@ -11,12 +11,12 @@ box:
 boxes:
 - order: 2
   image: terapia-online.png
-- content: |
+- md: |
     La terapia psicológica online ha resultado ser la modalidad terapéutica más demandada, demostrando ser, según diversos estudios, igual de **eficaz** que la presencial y que a su vez esta es la mejor solución para aquellas personas que por motivos de **salud, tiempo o distancia** no pueden acceder de forma presencial a un tratamiento psicológico de **calidad**.
 
     Todas nuestras sesiones se preparan con mucho mimo y cariño, y sobre todo con mucha formación y supervisión. Sabemos que escuchar por sí solo no es suficiente, por eso nuestras intervenciones son activas.
 
-    [btn icon:star Ventajas](#ventajas)
+    [[:star: Ventajas]](#ventajas)
   align: left
   align_y: center
-  align_max: right
+  align_vl: right

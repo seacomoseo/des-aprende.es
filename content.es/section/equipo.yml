@@ -10,7 +10,7 @@ box:
   circle: true
   border: main
   hs: 3
-  licon: plus
+  pin: plus
 boxes:
 - title: Leticia Martínez Pino
   subtitle: Psicóloga General Sanitaria

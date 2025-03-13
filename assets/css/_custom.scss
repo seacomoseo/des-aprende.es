@@ -4,10 +4,10 @@
   @mixin show-from($delay) {
     animation: show-from .5s ($delay * .125s) both;
   }
-  .box__title {          @include show-from(4); }
-  .subtitle {            @include show-from(5); }
-  .box__content p {      @include show-from(6); }
-  .button {              @include show-from(7); }
+  .box__title { @include show-from(4); }
+  .subtitle   { @include show-from(5); }
+  .box__md p  { @include show-from(6); }
+  .button     { @include show-from(7); }
   .box--2 {
     @include show-from(7);
     @include fluid-size(margin-bottom, 1em, -8, -11);

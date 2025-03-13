@@ -11,7 +11,7 @@ box:
 boxes:
 - image: heartbroken.svg
 - title: Des-Aprende es para ti sí…
-  content: |
+  md: |
     - **Sientes que algo en tu vida no funciona:**
       Identificas que hay aspectos de tu vida que no están en equilibrio y buscas cambiarlo.
     - **No consigues disfrutar de las pequeñas cosas:**
@@ -29,4 +29,4 @@ boxes:
     - **Sientes que tus relaciones no son de calidad:**
       Percibes que tus relaciones personales no te satisfacen y quieres mejorar su calidad.
 
-    [btn icon:whatsapp Reservar Cita](#contacto)
+    [[:whatsapp: Reservar Cita]](#contacto)

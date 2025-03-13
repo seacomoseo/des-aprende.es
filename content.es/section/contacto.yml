@@ -6,21 +6,22 @@ color: white
 size: sm
 icon: whatsapp
 align: center
-flip_x: false
-flip_y: false
-divider: arrow
+div_x: false
+div_y: false
+div: arrow
 pt: 8
 pb: 8
-menu_button: link
+menu_button: cta
 form:
   fill_inputs: false
+  email: leticia@des-aprende.es
 contact:
 - type: schedule
   days: Lunes a Viernes
   hours: 10:00 - 20:00
 - type: br
 - type: whatsapp
-  button: link
+  button: cta
   label: 613 79 45 95
 - type: mail
   label: leticia@des-aprende.es
