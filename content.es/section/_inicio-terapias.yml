@@ -1,0 +1,40 @@
+name: Terapias
+id: terapias
+title: Terapias
+subtitle: ¿Cómo trabajamos?
+color: light
+icon: hands-holding-heart
+# size: md
+box:
+  gap_vs: 2
+boxes:
+- box:
+    cols: 4
+    cols_vs: 2
+    gap: 2
+    gap_vs: 1
+    hs: 3
+    pin: chevron-right
+    label: Ver
+  boxes:
+  - title: Individual Adultos
+    icon: person-dress-simple
+    link: /terapia/adultos/
+  - title: Pareja
+    icon: people-simple
+    link: /terapia/pareja/
+  - title: Infanto Juvenil
+    icon: child-reaching
+    link: /terapia/infanto-juvenil/
+  - title: Familiar
+    icon: family
+    link: /terapia/familiar/
+- boxes:
+  - subtitle: ¿Quieres más detalles?
+    label: Metodología
+    pin: street-view
+    link: '#metodologia'
+  # - subtitle: ¿Quieres más detalles?
+  #   label: Metodología
+  #   pin: street-view
+  #   link: '#terapia-integrativa'

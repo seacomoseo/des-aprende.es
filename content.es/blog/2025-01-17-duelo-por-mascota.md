@@ -3,10 +3,6 @@ slug: duelo-por-mascota
 title: 'El duelo por mascota: Reflexiones desde el corazón'
 summary: ''
 image: blog/duelo-por-mascota.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2025-01-17 00:00:00
 seo: 'El duelo por mascota: Reflexiones desde el corazón'
 description: 'El duelo es una de las experiencias más profundas y complejas que podemos vivir, y aunque se asocia comúnmente con la pérdida de seres humanos…'

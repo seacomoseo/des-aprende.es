@@ -3,10 +3,6 @@ slug: personas-altamente-sensibles-pas
 title: 'Personas Altamente Sensibles (PAS): La Fuerza en la Sensibilidad'
 summary: ''
 image: blog/personas-altamente-sensibles-pas.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2025-01-11 00:00:00
 seo: 'Personas Altamente Sensibles (PAS): La Fuerza en la Sensibilidad'
 description: 'Ser una Persona Altamente Sensible (PAS) puede sentirse como una carga en un mundo que parece valorar la dureza y la rapidez. Pero, ¿y si te dijera…'

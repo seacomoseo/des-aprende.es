@@ -3,10 +3,6 @@ slug: apego-evitativo
 title: 'Apego Evitativo: Cuando el Miedo a la Intimidad Afecta tus Relaciones'
 summary: ''
 image: blog/apego-evitativo.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2024-10-30 00:00:00
 seo: 'Apego Evitativo: El Miedo a la Intimidad que Afecta tus Relaciones'
 description: ¿Alguna vez has sentido que te asfixias en una relación, o que te alejas justo cuando las cosas comienzan a ponerse serias? Si te suena familiar, es…

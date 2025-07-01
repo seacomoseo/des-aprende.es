@@ -11,7 +11,7 @@ boxes:
     slider: true
     buttons:
     - link: https://g.page/r/CX3c98qaRwrmEAg/review
-      ofuscate: true
+      lock: true
       label: Google
     cols: 3
   reviews:

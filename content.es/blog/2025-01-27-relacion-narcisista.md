@@ -3,10 +3,6 @@ slug: relacion-narcisista
 title: 'La relación con un narcisista: el espejismo del amor perfecto'
 summary: ''
 image: blog/relacion-narcisista.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2025-01-27 00:00:00
 seo: 'La relación con un narcisista: el espejismo del amor perfecto'
 description: 'Al principio, estar con un narcisista puede sentirse como un cuento de hadas. No solo te hacen sentir especial, sino que parecen leerte como un libro…'

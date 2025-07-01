@@ -6,7 +6,7 @@ color: white
 icon: shoe-prints
 menu_button: hide
 step:
-  icon_size: 4
+  icon_size: 1
   border: light
 steps:
 - title: Reserva tu cita

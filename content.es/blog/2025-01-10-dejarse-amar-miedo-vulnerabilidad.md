@@ -3,10 +3,6 @@ slug: dejarse-amar-miedo-vulnerabilidad
 title: 'Dejarse Amar: El Miedo a la Vulnerabilidad'
 summary: ''
 image: blog/dejarse-amar-miedo-vulnerabilidad.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2025-01-10 00:00:00
 seo: 'Dejarse Amar: El Miedo a la Vulnerabilidad - Des-Aprende'
 description: 'Dejarse amar puede ser una de las cosas más aterradoras que enfrentamos en la vida. ¿Por qué? Porque implica mostrarnos tal y como somos…'

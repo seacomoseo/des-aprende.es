@@ -1,0 +1,21 @@
+name: Contenidos
+id: contenidos
+hanchor: Contenidos
+color: white
+params:
+- page: contents
+  box: boxes
+box:
+  duo: 2
+  align: left
+  align_vl: left
+  align_y: center
+  hide_shadow: true
+  icon_type: side
+boxes:
+- title: ¿Te suena alguno de estos problemas?
+  icon: heart-crack
+  params:
+  - page: problems
+    box: md
+- image: base/icon-tr.svg

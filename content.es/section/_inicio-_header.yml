@@ -1,0 +1,28 @@
+name: _header
+id: header
+color: white
+bi: recibidor-central.jpg
+alpha: .9
+div_x: false
+div_y: true
+div: arrow
+hanchor: Clínica de Psicólogas Terapeutas Online y en Murcia
+box:
+  cols: 2
+  gap: 4
+  gap_vs: 2
+  caps: false
+  align_y: center
+boxes:
+- image: base/logo.svg
+  ratio: 2/1
+  hide_shadow: true
+  title: Centro de Psicoterapia Integradora
+  subtitle: Terapia online y presencial en Murcia
+  md: Te acompañamos en tu proceso de cambio desde un lugar seguro, humano y profundo
+  lable: Reservar Cita
+  pin: whatsapp
+  link: '#contacto'
+- image: leticia-martinez-pino.png
+  ratio: 3/4
+  contain: true

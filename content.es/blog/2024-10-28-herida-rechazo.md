@@ -3,10 +3,6 @@ slug: herida-rechazo
 title: 'La Herida de Rechazo: Superando el Miedo a No Ser Aceptado'
 summary: ''
 image: blog/herida-rechazo.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2024-10-28 00:00:00
 seo: ''
 description: La herida de rechazo es esa pequeña voz que, en los momentos más vulnerables, nos recuerda el miedo a no ser aceptados o valorados. Es una de las heridas…

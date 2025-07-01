@@ -3,10 +3,6 @@ slug: mito-independencia-emocional
 title: 'El mito de la independencia emocional absoluta: ¿realmente podemos ser autosuficientes?'
 summary: ''
 image: blog/mito-independencia-emocional.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2025-01-25 00:00:00
 seo: 'El mito de la independencia emocional absoluta: ¿es posible?'
 description: 'En los últimos años, la idea de la independencia emocional se ha convertido en un mantra. Frases como “no necesitas a nadie para ser feliz” o…'

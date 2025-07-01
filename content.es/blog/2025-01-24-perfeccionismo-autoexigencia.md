@@ -3,10 +3,6 @@ slug: perfeccionismo-autoexigencia
 title: 'El perfeccionismo y la autoexigencia como armaduras emocionales'
 summary: ''
 image: blog/perfeccionismo-autoexigencia.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2025-01-24 00:00:00
 seo: 'El perfeccionismo y la autoexigencia como armaduras emocionales'
 description: 'El perfeccionismo y la autoexigencia suelen presentarse como virtudes: “Quiero hacerlo todo bien”, “No me conformo con menos”. Pero detrás de esta…'

@@ -3,10 +3,6 @@ slug: siempre-doy-mas-que-mi-pareja
 title: Siempre doy más que mi pareja. ¿Mi pareja no me quiere o prioriza?
 summary: ''
 image: blog/siempre-doy-mas-que-mi-pareja.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2024-09-27 00:00:00
 seo: Siempre doy más que mi pareja. ¿No me quiere o prioriza?
 description: El autosacrificio en las relaciones puede parecer un acto noble, pero cuando se convierte en un patrón, puede llevar a desequilibrios significativos y…

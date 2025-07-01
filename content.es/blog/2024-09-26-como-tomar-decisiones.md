@@ -3,10 +3,6 @@ slug: como-tomar-decisiones
 title: ¿Cómo tomar decisiones? - Des-Aprende
 summary: ''
 image: blog/como-tomar-decisiones.svg
-author: admin
-toc: true
-draft: false
-noindex: false
 date: 2024-09-26 00:00:00
 seo: ''
 description: Tomar decisiones es una parte fundamental de nuestra vida diaria. Desde elecciones triviales hasta decisiones trascendentales, cada una de ellas puede…

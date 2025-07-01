@@ -1,0 +1,21 @@
+name: Proceso
+id: proceso
+title: Proceso
+subtitle: Cómo trabajaremos
+md: 3 pasos claros
+color: white
+icon: shoe-prints
+size: md
+step:
+  icon_size: 1
+  border: light
+steps:
+- title: Valoración gratuita (30 min)
+  subtitle: Analizamos tu caso y fijamos objetivos
+  md: Rumbo claro y realista
+- title: Intervención
+  subtitle: Sesiones semanales / quincenales (55 min) con técnicas CBT, EMDR y ACT
+  md: Avances medibles desde la 3ª sesión
+- title: Revisión
+  subtitle: Cada 6 sesiones evaluamos progreso y ajustamos
+  md: Mantenimiento de logros y autonomía

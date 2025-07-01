@@ -1,7 +1,7 @@
 title: Únicas
 order: 0
 base: single
-template:
+tpl:
   menu:
     logo: false
     sticky: auto
@@ -11,11 +11,13 @@ template:
   callnow:
     show: auto
   section:
-  - icon_type: side
-    uppercase: true
+  - size: lg
+    icon_type: side
+    caps: true
     parallax: fix
     div: tilt
   - div_x: true
     div_y: false
   modal:
+    color: white
     icon_type: side

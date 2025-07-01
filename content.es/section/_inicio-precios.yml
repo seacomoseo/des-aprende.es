@@ -1,0 +1,53 @@
+name: Precios
+id: precios
+title: Precios
+subtitle: Por cada sesión
+md: |
+  - :asterisk: Todas las sesiones tienen una duración aproximada de 55-60 minutos
+color: light
+icon: tags
+# size: xl
+box:
+  cols: 0
+  color: white
+  hn: 3
+  link: '#contacto'
+  pin: whatsapp
+  label: Reservar Cita
+boxes:
+- title: Adultos
+  icon: person-dress-simple
+  md: |
+    1 sesión: **60 €**
+
+    Bono 4 sesiones: **220 €** \
+    (= 55 €/sesión)
+    con validez de 2 meses, pensado para asistencia semanal o quincenalmente
+  more: null
+- title: Accesible
+  icon: street-view
+  md: |
+    1 sesión: **50 €**
+
+    Estudiantes \
+    Desempleados \
+    Bajos ingresos
+- title: Parejas
+  icon: people-simple
+  md: |
+    1 sesión: **70 €**
+
+    2 Adultos
+- title: Infanto Juvenil
+  icon: child-reaching
+  md: |
+    1 sesión: **55 €**
+
+    Bono 5 sesiones: **220 €** \
+    Incluye 4 sesiones individuales con el/la menor + 1 sesión de entrenamiento con la familia
+# - title: Familiar
+#   icon: family
+#   md: |
+#     1 sesión: **80 €**
+
+#     Grupo familiar

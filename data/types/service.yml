@@ -1,0 +1,76 @@
+title: Terapias
+base: service
+order: 3
+icon: brain
+emoji: 🧠
+related: true
+
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+    size: ''
+    show_sections: true
+    show_modals: true
+  callnow:
+    show: auto
+  section:
+  - size: lg
+    icon_type: side
+    caps: true
+    parallax: fix
+    div: tilt
+  - div_x: true
+    div_y: false
+  sections:
+  - file: terapias-_header
+  # - file: terapias-problemas
+  # - file: terapias-beneficios
+  - file: terapias-contenidos
+  - file: comun-resenas
+  - file: comun-sobre
+  - file: comun-equipo
+  - file: terapias-proceso
+  - file: comun-faq
+  - file: comun-contacto
+  - file: comun-mapa
+  list:
+    cols: 4
+    cols_vs: 2
+    card: false
+    color: similar
+    align: center
+    shade: true
+    inset: true
+    ratio: 3/2
+    image: hide
+    icon: ''
+    icon_type: top
+    hs: 5
+    price: hide
+    md: hide
+    label: Ver
+    pin: chevron-right
+    button: cta
+    tags: []
+
+es:
+  permalinks: terapia
+  slug: terapias
+  singular: Terapia
+  title: Terapias
+
+params:
+- name: h1
+  label: Titular invisible
+- name: headline
+  label: Titular visible
+- name: subtitle
+  label: Subtítulo
+- name: contents
+  label: Contenidos
+  widget: list
+  params:
+  - var: BOX_TITLE
+  - var: BOX_IMAGE_SRC
+  - var: BOX_MD

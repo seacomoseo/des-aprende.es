@@ -3,9 +3,71 @@ slug: leticia-martinez-pino
 title: Leticia
 summary: Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
 image: equipo/leticia-martinez-pino.jpg
-toc: false
-draft: false
-noindex: true
+
+# icon: user
+# prefix: Dr
+
+alts:
+- Leticia Martínez
+
+job:
+- Podólogo especialista
+
+orgs:
+- name: Clínica Des-Aprende
+  url: https://des-aprende.es/
+- name: Clínica Martínez Marcos
+  url: https://clinicamartinezmarcos.com/
+
+as:
+- https://medicos.dkv.es/detalles/profesional/1D0652B2-CMH-601/martinez-pino-leticia
+
+creds:
+
+- name: Psicología
+  category: Grado
+  org: Universidad de Murcia
+
+- name: Psicología General Sanitaria
+  category: Máster
+  org: Universidad Internacional de Valencia (VIU)
+
+- name: 'Abordaje sistémico del apego y el trauma: perspectiva integradora'
+  category: Experto
+  org: Universidad Católica de Valencia
+
+- name: Drogodependencias
+  category: Especialista
+  org: TAVAD (Tratamientos Avanzados de la Adicción)
+
+- name: Psicología infanto-juvenil
+  category: Especialista
+  org: Universidad de Nebrija
+
+- name: Resolución de problemas
+  category: Curso
+  # org: Por confirmar
+
+- name: Sexualidad y pareja
+  category: Curso
+  # org: Por confirmar
+
+- name: Desarrollo personal y autoestima
+  category: Curso
+  # org: Por confirmar
+
+- name: Trastornos de ansiedad y depresión
+  category: Formación
+  # org: Por confirmar
+
+- name: Terapia EMDR
+  category: Certificación
+  org: Asociación EMDR España / EMDR Europe
+
+- name: Internal Family Systems (IFS)
+  category: Certificación
+  org: IFS Institute
+
 seo: Leticia Martínez Pino
 description: ''
 ---
@@ -34,3 +96,5 @@ Fuera de mi profesión, soy una persona apasionada de la naturaleza y los animal
 - Sexualidad y pareja.
 - Desarrollo personal y autoestima.
 - Amplia formación en trastornos de ansiedad y depresión.
+- Terapéuta EMDR.
+- Terapia IFS.

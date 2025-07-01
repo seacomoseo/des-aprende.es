@@ -8,14 +8,15 @@ icons:
   left: ''
   right: ''
 fonts:
-  google: false
   base:
+    google: false
     family: Lato
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
+    google: false
     family: Alegreya
     weight: 400
     bold: 0
@@ -24,6 +25,7 @@ fonts:
     size: 1
     top: 0
   title:
+    google: false
     family: Alegreya
     weight: 700
     bold: 0
@@ -37,17 +39,26 @@ colors:
     color: '#d8b4a1'
     light: '#ffeee2'
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   alt:
     color: '#ae8c83'
     light: ''
     dark: ''
-    contrast: none
+    contrast:
+      fill: false
+      in: false
+      text: false
   cta:
     color: '#b27a61'
     light: ''
     dark: ''
-    contrast: none
+    contrast:
+      fill: false
+      in: false
+      text: false
   base:
     white: '#fff'
     light: '#f6f3f0'
@@ -65,11 +76,11 @@ buttons:
   font:
     type: title
     bold: false
-    uppercase: true
+    caps: true
   swap:
     type: base
     bold: false
-    uppercase: false
+    caps: false
 inputs:
   fill: false
   labels_out: false
