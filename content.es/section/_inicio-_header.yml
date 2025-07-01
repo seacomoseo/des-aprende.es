@@ -20,7 +20,7 @@ boxes:
   title: Centro de Psicoterapia Integradora
   subtitle: Terapia online y presencial en Murcia
   md: Te acompañamos en tu proceso de cambio desde un lugar seguro, humano y profundo
-  lable: Reservar Cita
+  label: Reservar Cita
   pin: whatsapp
   link: '#contacto'
 - image: leticia-martinez-pino.png
