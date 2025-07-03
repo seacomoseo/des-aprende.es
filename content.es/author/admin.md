@@ -46,9 +46,9 @@ creds:
 
 - name: Resolución de problemas
   category: Curso
-  # org: Por confirmar
+  org: Universidad de Murcia
 
-- name: Sexualidad y pareja
+- name: Terapia de pareja, apego y vínculos
   category: Curso
   # org: Por confirmar
 
@@ -62,7 +62,7 @@ creds:
 
 - name: Terapia EMDR
   category: Certificación
-  org: Asociación EMDR España / EMDR Europe
+  org: Instituto EMDR
 
 - name: Internal Family Systems (IFS)
   category: Certificación
@@ -71,6 +71,14 @@ creds:
 seo: Leticia Martínez Pino
 description: ''
 ---
+Leticia Martínez Pino
+{.h2}
+
+Psicóloga General Sanitaria
+{.subtitle}
+
+Nº Colegiada **MU02135**
+
 Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
 
 A lo largo de mi carrera en diversas especialidades dentro de la clínica de psicología, encontré mi verdadera pasión: guiar a las personas a conocerse y reconectar con su esencia y sus valores, sin miedo ni condicionantes.
@@ -93,7 +101,7 @@ Fuera de mi profesión, soy una persona apasionada de la naturaleza y los animal
 - Especialista en drogodependencias en Tratamientos Avanzados (TAVAD).
 - Especialista infanto juvenil por la Universidad de Nebrija.
 - Formación en resolución de problemas.
-- Sexualidad y pareja.
+- Terapia de pareja, apego y vínculos.
 - Desarrollo personal y autoestima.
 - Amplia formación en trastornos de ansiedad y depresión.
 - Terapéuta EMDR.

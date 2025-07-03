@@ -21,9 +21,7 @@ steps:
     Escribe tu nombre, apellidos, edad y un horario disponible para consultas y te contactaré lo antes posible.
 - title: Google Meet
   md: |
-    Accede a la videollamada.
-
-    [[:google-meet: Google Meet]](https://meet.google.com/ "[nofollow]")
+    Acceso a videollamada a través de una plataforma segura.
 - title: Prueba
   md: El día de tu sesión conéctate 15 minutos antes para reservar la sesión y evitar  incidencias.
 - title: ¡Sesión!

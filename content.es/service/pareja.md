@@ -55,6 +55,14 @@ contents:
     Ya sea para resolver un conflicto concreto o para profundizar en la relación y fortalecerla, la terapia puede ser un punto de inflexión para volver a mirar al otro desde un lugar nuevo.
 - image: blog/diferencias-deseos-necesidades-emocionales.svg
 
+prices:
+- title: Parejas
+  icon: people-simple
+  md: |
+    1 sesión: **70 €**
+
+    2 Adultos
+
 seo: Terapia de Pareja en Murcia y Online · 🧠 Clínica Des-Aprende
 description: Mejora la comunicación y recupera la conexión. Terapia de pareja presencial en Murcia u online. Primera sesión informativa sin coste. Reserva ahora.
 weight: 2

@@ -56,6 +56,14 @@ contents:
     La terapia familiar es una oportunidad para reconectar, sanar y crecer como sistema, desde la confianza y el acompañamiento profesional.
 - image: familia.svg
 
+prices:
+- title: Familiar
+  icon: family
+  md: |
+    1 sesión: **70 €**
+
+    Grupo familiar
+
 seo: Terapia Familiar en Murcia y Online · 🧠 Clínica Des-Aprende
 description: Resuelve conflictos y fortalece vínculos familiares. Sesiones presenciales en Murcia u online adaptadas al ritmo familiar. Primera cita sin coste.
 weight: 4

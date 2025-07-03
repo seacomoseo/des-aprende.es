@@ -49,6 +49,25 @@ contents:
     Cada proceso es único. Y en este camino, te acompañamos con presencia, profesionalidad y respeto.
 - image: coaching-process.svg
 
+prices:
+- title: Normal
+  icon: person-dress-simple
+  md: |
+    1 sesión: **60 €**
+
+    Bono 4 sesiones: **220 €** \
+    (= 55 €/sesión)
+    con validez de 2 meses, pensado para asistencia semanal o quincenalmente
+  more: null
+- title: Accesible
+  icon: street-view
+  md: |
+    1 sesión: **50 €**
+
+    Estudiantes \
+    Desempleados \
+    Bajos ingresos
+
 seo: Psicólogo para Adultos en Murcia y Online · 🧠 Des-Aprende
 description: Ansiedad, autoestima, trauma. Sesiones en Murcia u online adaptadas a tu ritmo. Pide tu primera consulta y empieza a sentirte mejor.
 weight: 1

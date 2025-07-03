@@ -10,29 +10,36 @@ box:
   circle: true
   border: main
   hs: 3
+  md_sm: true
   pin: plus
 boxes:
 - title: Leticia Martínez Pino
   subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU02135**
   link: '#leticia-martinez-pino'
   image: equipo/leticia-martinez-pino.jpg
 - title: Milagros Mariotti
   subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU04996**
   link: '#milagros-mariotti'
   image: equipo/milagros-mariotti.jpg
 - title: Paula Arenas
   subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU04755**
   link: '#paula-arenas'
   image: equipo/paula-arenas.jpg
 - title: Alicia Cano Moreno
   subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU03825**
   link: '#alicia-cano-moreno'
   image: equipo/alicia-cano-moreno.jpg
 - title: Carmen González
   subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU05023**
   link: '#carmen-gonzalez'
   image: equipo/carmen-gonzalez.jpg
 - title: Carmen Aliaga
   subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU04521**
   link: '#carmen-aliaga'
   image: equipo/carmen-aliaga.jpg

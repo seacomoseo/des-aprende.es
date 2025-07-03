@@ -30,10 +30,22 @@ tpl:
   - file: comun-resenas
   - file: comun-sobre
   - file: comun-equipo
+    modals:
+    - file: equipo/leticia-martinez-pino
+    - file: equipo/milagros-mariotti
+    - file: equipo/paula-arenas
+    - file: equipo/alicia-cano-moreno
+    - file: equipo/carmen-gonzalez
+    - file: equipo/carmen-aliaga
+  - file: _inicio-para-ti
   - file: terapias-proceso
+  - file: terapias-precios
   - file: comun-faq
   - file: comun-contacto
   - file: comun-mapa
+  modal:
+    color: white
+    icon_type: side
   list:
     cols: 4
     cols_vs: 2

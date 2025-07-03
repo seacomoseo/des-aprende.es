@@ -72,6 +72,15 @@ contents:
     Desde **Des-Aprende** queremos caminar contigo en este proceso. Con escucha, cercanía y profesionalidad, te acompañamos para que tu hijo crezca con una base emocional sólida, más conectado consigo mismo, con sus emociones y con el mundo que le rodea.
 - image: blog/personas-altamente-sensibles-pas.svg
 
+prices:
+- title: Infanto Juvenil
+  icon: child-reaching
+  md: |
+    1 sesión: **55 €**
+
+    Bono 5 sesiones: **220 €** \
+    Incluye 4 sesiones individuales con el/la menor + 1 sesión de entrenamiento con la familia
+
 seo: Psicólogo Infantil-Juvenil en Murcia y Online · 🧠 Des-Aprende
 description: Especialistas en psicología infantil y adolescente. Sesiones presenciales en Murcia u online. Valoración inicial sin coste. Reserva tu cita en Des-Aprende.
 weight: 3

@@ -1,0 +1,18 @@
+name: Precios
+id: precios
+title: Precios
+subtitle: Por cada sesión
+md: |
+  - :asterisk: Todas las sesiones tienen una duración aproximada de 55-60 minutos
+color: cta-light
+icon: tags
+box:
+  cols: 4
+  color: white
+  hn: 3
+  link: '#contacto'
+  pin: whatsapp
+  label: Reservar Cita
+params:
+- page: prices
+  box: boxes
