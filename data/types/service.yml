@@ -9,9 +9,7 @@ tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
-    show_sections: true
-    show_modals: true
+    size: lg
   callnow:
     show: auto
   section:
@@ -37,8 +35,7 @@ tpl:
     - file: equipo/alicia-cano-moreno
     - file: equipo/carmen-gonzalez
     - file: equipo/carmen-aliaga
-  - file: _inicio-para-ti
-  - file: terapias-proceso
+  - file: comun-proceso
   - file: terapias-precios
   - file: comun-faq
   - file: comun-contacto

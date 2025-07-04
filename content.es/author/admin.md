@@ -93,7 +93,7 @@ Fuera de mi profesión, soy una persona apasionada de la naturaleza y los animal
 
 **Aprende a desaprender conmigo**
 
-#### Formación
+## Formación
 
 - Graduada en psicología por la Universidad de Murcia.
 - Máster en Psicología General Sanitaria por la Universidad Internacional de Valencia.

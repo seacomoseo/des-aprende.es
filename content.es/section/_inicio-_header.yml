@@ -1,8 +1,8 @@
 name: _header
 id: header
 color: white
-bi: recibidor-central.jpg
-alpha: .9
+bi: centro/sala.webp
+alpha: .85
 div_x: false
 div_y: true
 div: arrow
@@ -23,6 +23,6 @@ boxes:
   label: Reservar Cita
   pin: whatsapp
   link: '#contacto'
-- image: leticia-martinez-pino.png
+- image: leticia-martinez-pino-lg.png
   ratio: 3/4
   contain: true

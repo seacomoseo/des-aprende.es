@@ -1,0 +1,37 @@
+name: Proceso
+id: proceso
+title: Proceso
+subtitle: Para reservar tu sesión
+color: white
+icon: shoe-prints
+menu_button: hide
+step:
+  icon_size: 1
+  border: light
+steps:
+
+- title: Contacto
+  md: |
+    Rellena el formulario o escríbenos por WhatsApp
+
+    *Recibimos rápidamente tu solicitud*
+
+    [[:whatsapp: Reservar Cita]](#contacto)
+
+- title: Asignación y reserva
+  md: |
+    Te asignamos una psicóloga especializada y acordamos fecha y hora de la primera sesión
+
+    *Atención 100 % personalizada*
+
+- title: Abono seguro
+  md: |
+    Realizas la transferencia y envías el comprobante
+
+    *Confirma tu sesión sin fricciones*
+
+- title: Intervención
+  md: |
+    Inicias las sesiones (~55 min) ― al principio semanales; con el progreso las iremos espaciando hasta pasar a revisiones puntuales
+
+    *Avanza a tu ritmo y consolida resultados*

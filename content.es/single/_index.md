@@ -33,7 +33,7 @@ tpl:
   #   modals:
   #   - file: terapia-online-ventajas
   - file: _inicio-precios
-  - file: _inicio-pasos
+  - file: comun-proceso
   - file: comun-faq
   - file: comun-contacto
   - file: comun-mapa

@@ -12,17 +12,56 @@ tpl:
     es:
       image: base/icon-tr.svg
       title: DES-APRENDE
-      subtitle: Psicología
+      subtitle: Centro de Psicología Integradora
       items:
+      - label: Inicio
+        link: /
+        icon: house
+      - label: Reseñas
+        link: /#resenas
+        icon: comment
+      - label: ¿Des-Aprende?
+        link: /#des-aprende
+        icon: circle-info
+      - label: Terapias
+        link: /#terapias
+        icon: hands-holding-heart
+        # items:
+        # - label: Individual Adultos
+        #   link: /terapia/adultos/
+        #   icon: person-dress-simple
+        # - label: Pareja
+        #   link: /terapia/pareja/
+        #   icon: people-simple
+        # - label: Infanto Juvenil
+        #   link: /terapia/infanto-juvenil/
+        #   icon: child-reaching
+        # - label: Familiar
+        #   link: /terapia/familiar/
+        #   icon: family
+      - label: Sobre mi
+        link: /#sobre
+        icon: person-dress-simple
+      - label: Equipo
+        link: /#equipo
+        icon: people-group
+      - label: Precios
+        link: /#precios
+        icon: tags
+      - label: FAQ
+        link: /#faq
+        icon: circle-question
+      - label: Reservar Cita
+        link: /#contacto
+        icon: whatsapp
+        button: cta
       - label: Blog
-        icon: blog
         link: /blog/
+        icon: blog
   callnow:
     show: auto
-    es: []
   section:
   - size: sm
-  modal: {}
   sections:
   - file: base/_header
   - file: base/toc
