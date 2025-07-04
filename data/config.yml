@@ -32,3 +32,4 @@ defaults:
   path: [/blog/*]
 others:
   show: true
+  image_sizes: 2
