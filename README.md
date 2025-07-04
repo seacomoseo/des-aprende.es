@@ -1,3 +1,3 @@
 # des-aprende.es
 
-[![des-aprende.es](/assets/media/logo.png)](https://des-aprende.es/)
+[![des-aprende.es](/assets/media/logo.svg)](https://des-aprende.es/)
