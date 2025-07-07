@@ -95,19 +95,19 @@ org:
       close: 20:00
   prices: €
   services:
-  - name: Consulta Psicológica Adultos
+  - title: Consulta Psicológica Adultos
     description: Sesión individual de 60 minutos de terapia psicológica para adultos
     price: 60
     area: Murcia y Online
-  - name: Consulta Psicológica Accesible
+  - title: Consulta Psicológica Accesible
     description: Sesión individual de 60 minutos de terapia psicológica para estudiantes, desempleados y personas con bajos ingresos
     price: 50
     area: Murcia y Online
-  - name: Consulta Psicológica Parejas
+  - title: Consulta Psicológica Parejas
     description: Sesión a dos adultos de 60 minutos de terapia psicológica para parejas
     price: 70
     area: Murcia y Online
-  - name: Consulta Psicológica Infanto Juvenil
+  - title: Consulta Psicológica Infanto Juvenil
     description: Sesión individual de 60 minutos de terapia psicológica para infantes y adolescentes
     price: 50
     area: Murcia y Online
