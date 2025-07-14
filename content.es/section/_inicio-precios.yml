@@ -11,7 +11,9 @@ box:
   cols: 5
   color: white
   hn: 3
-  link: '#contacto'
+  link: https://wa.me/34613794595
+  lock: true
+  ga4: true
   pin: whatsapp
   label: Reservar Cita
 boxes:

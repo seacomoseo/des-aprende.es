@@ -23,9 +23,11 @@ boxes:
   title: Centro de Psicoterapia Integradora
   subtitle: Online y presencial en Murcia
   md: Te acompañamos en tu proceso de cambio desde un lugar seguro, humano y profundo
-  label: Reservar Cita
+  link: https://wa.me/34613794595
+  lock: true
+  ga4: true
   pin: whatsapp
-  link: '#contacto'
+  label: Reservar Cita
   params:
   - page: headline
     box: title

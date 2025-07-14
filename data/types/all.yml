@@ -51,9 +51,11 @@ tpl:
         link: /#faq
         icon: circle-question
       - label: Reservar Cita
-        link: /#contacto
+        link: https://wa.me/34613794595
         icon: whatsapp
         button: cta
+        lock: true
+        ga4: true
       - label: Blog
         link: /blog/
         icon: blog
