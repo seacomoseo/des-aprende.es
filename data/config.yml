@@ -1,32 +1,34 @@
-# google_analytics: G-MVRFWZGMPZ
+google_analytics: G-MVRFWZGMPZ
 google_site_verification: 3-sAQ6_IzkJ9Io_7Ua3ojeP0jCe1p-e95V4-gP43Wj4
 google_file_verification: google7467d923cbb3eb4c.html
 html:
+    # <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    # <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+
+    # <script>
+    #   // GA4
+    #   window.dataLayer = window.dataLayer || [];
+    #   function gtag(){dataLayer.push(arguments);}
+    #   // GA4 function
+    #   function googleAnalytics() {
+    #     if (!document.querySelector(`script[src*="gtag/js?id=G-MVRFWZGMPZ"]`)) {
+    #       // Load GA4 script
+    #       var ga = document.createElement('script');
+    #       ga.async = true;
+    #       ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-MVRFWZGMPZ';
+    #       document.head.appendChild(ga);
+    #       // GA4 tags
+    #       gtag('js', new Date());
+    #       gtag('config', 'G-MVRFWZGMPZ', {
+    #         'server_container_url': 'https://metrics.des-aprende.es',
+    #       });
+    #     }
+    #   }
+    #   // If is not bot and if cookies law
+    #   const isBot = navigator.userAgent.toLowerCase().match(/googlebot|bingbot|slurp|duckduckbot|baiduspider|yandexbot/)
+    #   const isCk = localStorage.controlcookieanalytics === 'true'
   head: |
-    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
-    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
     <script>
-      // GA4
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      // GA4 function
-      function googleAnalytics() {
-        if (!document.querySelector(`script[src*="gtag/js?id=G-MVRFWZGMPZ"]`)) {
-          // Load GA4 script
-          var ga = document.createElement('script');
-          ga.async = true;
-          ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-MVRFWZGMPZ';
-          document.head.appendChild(ga);
-          // GA4 tags
-          gtag('js', new Date());
-          gtag('config', 'G-MVRFWZGMPZ', {
-            'server_container_url': 'https://metrics.des-aprende.es',
-          });
-        }
-      }
-      // If is not bot and if cookies law
-      const isBot = navigator.userAgent.toLowerCase().match(/googlebot|bingbot|slurp|duckduckbot|baiduspider|yandexbot/)
-      const isCk = localStorage.controlcookieanalytics === 'true'
       if (!isBot && isCk) {
         googleAnalytics();
         // Google Tag Manager
