@@ -27,19 +27,20 @@ html:
       // If is not bot and if cookies law
       const isBot = navigator.userAgent.toLowerCase().match(/googlebot|bingbot|slurp|duckduckbot|baiduspider|yandexbot/)
       const isCk = localStorage.controlcookieanalytics === 'true'
-      if (!isBot && isCk) googleAnalytics()
-
-      // Google Tag Manager
-      (function(w,d,s,l,i){
-        w[l] = w[l] || []
-        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
-        const f = d.getElementsByTagName(s)[0]
-        const j = d.createElement(s)
-        const dl = l !== 'dataLayer' ? '&l=' + l : ''
-        j.async = true
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
-        f.parentNode.insertBefore(j, f)
-      })(window, document, 'script', 'dataLayer', 'GTM-KKCTWB9M')
+      if (!isBot && isCk) {
+        googleAnalytics();
+        // Google Tag Manager
+        (function(w,d,s,l,i){
+          w[l] = w[l] || []
+          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+          const f = d.getElementsByTagName(s)[0]
+          const j = d.createElement(s)
+          const dl = l !== 'dataLayer' ? '&l=' + l : ''
+          j.async = true
+          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+          f.parentNode.insertBefore(j, f)
+        })(window, document, 'script', 'dataLayer', 'GTM-KKCTWB9M')
+      }
     </script>
 show: y
 image_sizes: 2
