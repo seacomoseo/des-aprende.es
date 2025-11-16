@@ -1,0 +1,59 @@
+name: Integrativa
+id: terapia-integrativa
+title: Terapia Integrativa
+icon: guardian
+md: |
+  **La terapia integrativa trata de una fusión entre la distintas terapias en psicología**:
+align: center
+boxes:
+- box:
+    cols: 4
+    cols_vs: 2
+    hs: 5
+  boxes:
+  - title: Cognitivo-Conductual
+    icon: person_check
+  - title: Humanista
+    icon: accessibility_new
+  - title: Psicodinámica
+    icon: attribution
+  - title: Positiva
+    icon: person_add
+- boxes:
+  - md: |
+      En este tipo de tratamiento, **tenemos en cuenta la unión de los sistemas afectivos, cognitivos, conductuales y fisiológicos de la persona,** para centrarnos en su correcto desarrollo, en sus necesidades y sus crisis.
+
+      Áreas que trabajamos en la terapia online:
+- box:
+    cols: 3
+    cols_vs: 2
+    icon_type: bottom
+    hs: 6
+  boxes:
+  - title: Autoestima
+    icon: heart_smile
+  - title: Depresión
+    icon: sentiment_dissatisfied
+  - title: Ansiedad
+    icon: sentiment_frustrated
+  - title: Inseguridades
+    icon: mood_bad
+  - title: Dependencia Emocional
+    icon: sentiment_sad
+  - title: Gestión Emocional
+    icon: sentiment_satisfied
+  - title: Sensación de Vacío
+    icon: sentiment_neutral
+  - title: Terapia de Pareja
+    icon: social_distance
+  - title: Duelos
+    icon: sentiment_frustrated
+  - title: Empoderamiento
+    icon: family_star
+  - title: Crecimiento Personal
+    icon: sentiment_excited
+  - title: Traumas
+    icon: sentiment_stressed
+- boxes:
+  - md: |
+      [[::brand:whatsapp:: Reservar Cita]](https://wa.me/34613794595 "[nofollow ga4]")

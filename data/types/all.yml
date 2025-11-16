@@ -3,88 +3,35 @@ tpl:
   bg:
     color: light
   menu:
-    logo: true
+    logo: y
     logo_align: center
-    transparent: true
+    transparent: y
     size: sm
     color: white
-    es:
-      image: base/icon-tr.svg
-      title: DES-APRENDE
-      subtitle: Centro de Psicología Integradora
-      items:
-      - label: Inicio
-        link: /
-        icon: house
-      - label: Reseñas
-        link: /#resenas
-        icon: comment
-      - label: ¿Des-Aprende?
-        link: /#des-aprende
-        icon: circle-info
-      - label: Terapias
-        link: /#terapias
-        icon: hands-holding-heart
-        # items:
-        # - label: Individual Adultos
-        #   link: /terapia/adultos/
-        #   icon: person-dress-simple
-        # - label: Pareja
-        #   link: /terapia/pareja/
-        #   icon: people-simple
-        # - label: Infanto Juvenil
-        #   link: /terapia/infanto-juvenil/
-        #   icon: child-reaching
-        # - label: Familiar
-        #   link: /terapia/familiar/
-        #   icon: family
-      - label: Sobre mi
-        link: /#sobre
-        icon: person-dress-simple
-      - label: Equipo
-        link: /#equipo
-        icon: people-group
-      - label: Precios
-        link: /#precios
-        icon: tags
-      - label: FAQ
-        link: /#faq
-        icon: circle-question
-      - label: Reservar Cita
-        link: https://wa.me/34613794595
-        icon: whatsapp
-        button: cta
-        lock: true
-        ga4: true
-      - label: Blog
-        link: /blog/
-        icon: blog
-  callnow:
-    show: auto
+  callnow: auto
   section:
   - size: sm
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
   list:
     cols: 3
     color: white
-    decline: true
-    inset: true
+    decline: y
+    inset: y
     ratio: 1/1
-    icon: hide
     align: left
     button: hide
     tags:
     - type: date
     - type: address
   related:
-    slider: true
+    slider: y

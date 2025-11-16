@@ -1,85 +1,46 @@
 title: Terapias
 base: service
-order: 3
-icon: brain
+weight: 3
+icon: neurology
 emoji: 🧠
-related: true
-
+related: y
 tpl:
   menu:
-    logo: false
+    logo: n
     sticky: auto
-    size: lg
-  callnow:
-    show: auto
+    size: xl
+  callnow: auto
   section:
   - size: lg
     icon_type: side
-    caps: true
+    caps: y
     parallax: fix
     div: tilt
-  - div_x: true
-    div_y: false
+  - div_x: y
+    div_y: n
   sections:
   - file: terapias-_header
-  # - file: terapias-problemas
-  # - file: terapias-beneficios
   - file: terapias-contenidos
   - file: comun-resenas
   - file: comun-sobre
   - file: comun-equipo
-    modals:
-    - file: equipo/leticia-martinez-pino
-    - file: equipo/milagros-mariotti
-    - file: equipo/paula-arenas
-    - file: equipo/alicia-cano-moreno
-    - file: equipo/carmen-gonzalez
-    - file: equipo/carmen-aliaga
   - file: comun-proceso
   - file: terapias-precios
   - file: comun-faq
   - file: comun-contacto
   - file: comun-mapa
-  modal:
-    color: white
-    icon_type: side
   list:
     cols: 4
     cols_vs: 2
-    card: false
-    color: similar
+    gap: 2
+    gap_vs: 1
+    color: hide
     align: center
-    shade: true
-    inset: true
-    ratio: 3/2
     image: hide
-    icon: ''
-    icon_type: top
-    hs: 5
+    hs: 3
     price: hide
     md: hide
     label: Ver
-    pin: chevron-right
+    pin: chevron_right
     button: cta
     tags: []
-
-es:
-  permalinks: terapia
-  slug: terapias
-  singular: Terapia
-  title: Terapias
-
-params:
-- name: h1
-  label: Titular invisible
-- name: headline
-  label: Titular visible
-- name: subtitle
-  label: Subtítulo
-- name: contents
-  label: Contenidos
-  widget: list
-  params:
-  - var: BOX_TITLE
-  - var: BOX_IMAGE_SRC
-  - var: BOX_MD

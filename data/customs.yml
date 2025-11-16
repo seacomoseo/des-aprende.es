@@ -1,0 +1,22 @@
+
+
+- types: [ service ]
+  name: h1
+  label: Titular invisible
+
+- types: [ service ]
+  name: headline
+  label: Titular visible
+
+- types: [ service ]
+  name: subtitle
+  label: Subtítulo
+
+- types: [ service ]
+  name: contents
+  label: Contenidos
+  widget: list
+  sub:
+  - var: box_title
+  - var: box_image_src
+  - var: box_md

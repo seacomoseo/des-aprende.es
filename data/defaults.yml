@@ -1,0 +1,10 @@
+- name: author
+  value: admin
+  type: slice
+  path:
+  - /blog/*
+- name: toc
+  value: 'true'
+  type: boolean
+  path:
+  - /blog/*

@@ -1,21 +1,17 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
 tpl:
   menu:
-    logo: false
+    logo: n
     sticky: auto
-    size: lg
-  callnow:
-    show: auto
+    size: xl
+  callnow: auto
   section:
   - size: lg
     icon_type: side
-    caps: true
+    caps: y
     parallax: fix
     div: tilt
-  - div_x: true
-    div_y: false
-  modal:
-    color: white
-    icon_type: side
+  - div_x: y
+    div_y: n

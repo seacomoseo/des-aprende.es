@@ -1,0 +1,34 @@
+name: Terapias
+id: terapias
+title: Terapias
+subtitle: ¿Cómo trabajamos?
+color: light
+icon: volunteer_activism
+box:
+  gap_vs: 2
+boxes:
+- list:
+    type: service
+- boxes:
+  - subtitle: ¿Quieres más detalles?
+    label: Metodología
+    pin: guardian
+    link: '#metodologia'
+modal:
+  color: white
+  icon_type: side
+modals:
+- id: metodologia
+  title: ¿Cómo es la terapia en Desaprende?
+  menu_label: Metodología
+  icon: guardian
+  md: |
+    En **Desaprende** trabajamos desde una psicoterapia integradora, lo que significa que no seguimos un único modelo, sino que combinamos distintas terapias con respaldo científico, adaptándolas a tu historia, tu ritmo y tus necesidades.
+
+    Integramos enfoques como la **Terapia Cognitivo-Conductual, la Terapia EMDR** para procesar traumas y experiencias bloqueadas, y la **Terapia IFS** para entender y cuidar tus partes internas. También utilizamos herramientas de la **Terapia de Aceptación y Compromiso (ACT), la Terapia Dialéctico-Conductual (DBT) y la Terapia Basada en la Mentalización**, muy útiles para regular emociones, mejorar relaciones y tomar decisiones desde un lugar más consciente.
+
+    Además, trabajamos desde una mirada **sensible al apego y las heridas emocionales de la infancia**, porque entendemos que muchas de las dificultades actuales tienen raíces más profundas. La terapia es también un espacio para reparar, resignificar y empezar a relacionarte contigo y con los demás desde un lugar más seguro.
+
+    No necesitas saber qué tipo de terapia necesitas. Ese es nuestro trabajo. Lo importante es que te acompañamos con presencia, cuidado y herramientas eficaces para ayudarte a estar mejor.
+
+    [[::brand:whatsapp:: Reservar Cita]](https://wa.me/34613794595 "[nofollow ga4]")

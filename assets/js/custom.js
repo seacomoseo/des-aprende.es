@@ -20,8 +20,8 @@ scrollShot({
 //     '.callnow__whatsapp,' +
 //     '.contact__phone,' +
 //     '.contact__whatsapp,' +
-//     '.contact__email-option-copy,' +
-//     '.contact__email-option-send,' +
+//     '.mail__option-copy,' +
+//     '.mail__option-send,' +
 //     '.contact__address,' +
 //     '.ga4'
 //   )

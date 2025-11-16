@@ -1,0 +1,58 @@
+menu:
+  image: base/icon-tr.svg
+  title: DES-APRENDE
+  subtitle: Centro de Psicología Integradora
+  items:
+  - label: Inicio
+    link: /
+    icon: home
+  - label: Reseñas
+    link: /#resenas
+    icon: reviews
+  - label: ¿Des-Aprende?
+    link: /#des-aprende
+    icon: info
+  - label: Terapias
+    link: /#terapias
+    icon: volunteer_activism
+    # items:
+    # - label: Individual Adultos
+    #   link: /terapia/adultos/
+    #   icon: woman
+    # - label: Pareja
+    #   link: /terapia/pareja/
+    #   icon: wc
+    # - label: Infanto Juvenil
+    #   link: /terapia/infanto-juvenil/
+    #   icon: boy
+    # - label: Familiar
+    #   link: /terapia/familiar/
+    #   icon: family_restroom
+  - label: Sobre mi
+    link: /#sobre
+    icon: woman
+  - label: Equipo
+    link: /#equipo
+    icon: groups_3
+  - label: Precios
+    link: /#precios
+    icon: sell
+  - label: FAQ
+    link: /#faq
+    icon: help_outline
+  - label: Reservar Cita
+    link: https://wa.me/34613794595
+    icon: brand:whatsapp
+    button: cta
+    lock: y
+    ga4: y
+  - label: Blog
+    link: /blog/
+    icon: rss_feed
+title: Valores Globales
+footer:
+  div: arrow
+  dots:
+  - link: https://www.instagram.com/desaprendeconmigopsicologia/
+  - link: https://g.page/r/CX3c98qaRwrmEAg
+  - link: https://www.youtube.com/@des-aprende

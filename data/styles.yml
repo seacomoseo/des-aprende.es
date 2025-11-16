@@ -1,89 +1,84 @@
 icons:
-  type: solid
-  sharp: false
-  emojis: false
-  play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
+  fill: y
+  weight: 700
+  grade: 0
+  optical: 24
+  style: rounded
+  play: svg:youtube-iframe
 fonts:
   base:
-    google: false
     family: Lato
     weight: 400
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
   cursive:
-    google: false
     family: Alegreya
     weight: 400
     bold: 0
-    italic: true
+    italic: y
     line_height: 1.25
     size: 1
     top: 0
   title:
-    google: false
     family: Alegreya
     weight: 700
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
     top: 0
-  blockquote_cursive: true
+  blockquote_cursive: y
 colors:
   main:
     color: '#d8b4a1'
     light: '#ffeee2'
-    dark: ''
+    dark: '#ffffff'
     contrast:
-      fill: false
-      in: true
-      text: true
+      fill: n
+      in: y
+      text: y
   alt:
     color: '#ae8c83'
-    light: ''
-    dark: ''
+    light: '#ffffff'
+    dark: '#ffffff'
     contrast:
-      fill: false
-      in: false
-      text: false
+      fill: n
+      in: n
+      text: n
   cta:
     color: '#b27a61'
-    light: ''
-    dark: ''
+    light: '#ffffff'
+    dark: '#ffffff'
     contrast:
-      fill: false
-      in: false
-      text: false
+      fill: n
+      in: n
+      text: n
   base:
-    white: '#fff'
+    white: '#ffffff'
     light: '#f6f3f0'
     gray: '#767676'
     dark: '#2b2929'
     black: '#000000'
 rounded:
   radius: 1.33
-  chamfer: false
+  chamfer: n
 buttons:
-  sides_round: false
-  dot_circle: false
-  deep: true
-  outline: false
+  sides_round: n
+  dot_circle: n
+  deep: y
+  outline: n
   font:
     type: title
-    bold: false
-    caps: true
+    bold: n
+    caps: y
   swap:
     type: base
-    bold: false
-    caps: false
+    bold: n
+    caps: n
 inputs:
-  fill: false
-  labels_out: false
+  fill: n
+  labels_out: n
 shadow:
   left: 0.15
   top: 0.15

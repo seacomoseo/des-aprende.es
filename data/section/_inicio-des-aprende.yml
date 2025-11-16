@@ -1,0 +1,73 @@
+name: des Aprende
+id: des-aprende
+title: ¿Des-Aprende?
+subtitle: Nuestra esencia
+color: white
+icon: info
+boxes:
+- box:
+    cols: 2
+    align_y: center
+    align: left
+    hide_shadow: y
+  boxes:
+  - image: coaching-process.svg
+  - md: |
+      Dar el primer paso hacia el cuidado emocional es un acto **valiente**, y queremos reconocerlo contigo. Sabemos que este camino puede despertar incertidumbres y dudas, pero también es una **oportunidad** para profundizar en ti misma y sanar desde la raíz.
+
+      En Desaprende, no prometemos soluciones fáciles ni rápidas; lo que ofrecemos es un acompañamiento constante, basado en respeto, evidencia y comprensión, **para que te sientas sostenida** en cada etapa de tu proceso.
+
+      **Juntas** recorreremos este camino, con honestidad y cuidado.
+
+      [[::favorite:: Desarrollo Personal]](#desarrollo-personal)
+      [[::play_arrow:: Ver Vídeo]](#video "[main]")
+- box:
+    cols: 2
+    align_y: center
+    align: left
+    align_vl: right
+    hide_shadow: y
+  boxes:
+  - order: 2
+    image: base/icon-tr.svg
+  - title: ¿Qué significa desaprender?
+    md: |
+      Desaprender no se trata de borrar y olvidar lo aprendido, sino de no ser esclavo de ello.
+
+      **Desaprender es ==::svg:sign-simple:: REPROGRAMARNOS==**.
+
+      Desaprendemos para volver a llenarnos de cosas útiles y que nos orienten hacia el futuro.
+
+      **Para aprender hay que querer.**
+
+      **Para desaprender hay que querer ==::svg:sign-circle:: mucho más==.**
+
+      [[::brand:whatsapp:: Reservar Cita]](https://wa.me/34613794595 "[nofollow ga4]")
+modal:
+  color: white
+  icon_type: side
+modals:
+- id: desarrollo-personal
+  title: Desarrollo Personal
+  subtitle: 'Amarse a uno mismo: una historia de amor eterna'
+  icon: volunteer_activism
+  md: |
+    En muchas ocasiones, estamos desconectados de nuestro ser, no nos estamos
+    atendiendo, y no queremos ver lo que nos hace falta. Entonces todas
+    nuestras energías van a parar al cuidado de los demás. Ofreciendo la
+    comprensión y atención que no estamos dispuestos a darnos a nosotros
+    mismos. Perdemos así nuestro amor propio y llenamos de esa forma nuestro
+    gran vacío.
+
+    Para crecer tenemos que aprender sobre nuestro comportamiento, así como de nuestros actos. Si queremos avanzar es necesario analizar nuestros principios, ya sea para crearlos, mejorarlos o incluso eliminarlos.
+
+    El desarrollo personal empieza al conocernos a nosotros mismos como personas. El conocernos nos da la oportunidad de fortalecer áreas que nos están causando problemas en nuestras vidas. Al entender que pasa dentro y fuera de nosotros, tenemos más control sobre nuestras emociones y también nos ayuda a tomar mejores decisiones.
+
+    El autocuidado es __diálogo y comprensión con uno mismo__, viviendo en presente y __siendo conscientes de cada acto que realizamos__, evaluando si nuestro bienestar se beneficia o no con él. Es __dedicarnos tiempo y saber reconocer nuestras necesidades físicas, mentales y emocionales__, y además, una vez identificadas, realizar las acciones necesarias para cubrirlas.
+- id: video
+  title: Vídeo
+  icon: movie_info
+  image: https://youtu.be/v3yKQ4jFlLY&poster=poster.jpg
+  size: xs
+  ratio: 100/185
+  ph: y

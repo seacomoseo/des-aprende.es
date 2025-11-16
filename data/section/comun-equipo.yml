@@ -1,0 +1,337 @@
+name: Equipo
+id: equipo
+title: Equipo
+subtitle: ¿Quienes somos?
+color: light
+icon: groups_3
+size: md
+box:
+  cols: 3
+  circle: y
+  border: main
+  hs: 3
+  md_sm: y
+  pin: add
+boxes:
+- title: Leticia Martínez Pino
+  subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU02135**
+  link: '#leticia-martinez-pino'
+  image: equipo/leticia-martinez-pino.jpg
+- title: Milagros Mariotti
+  subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU04996**
+  link: '#milagros-mariotti'
+  image: equipo/milagros-mariotti.jpg
+- title: Paula Arenas
+  subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU04755**
+  link: '#paula-arenas'
+  image: equipo/paula-arenas.jpg
+- title: Alicia Cano Moreno
+  subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU03825**
+  link: '#alicia-cano-moreno'
+  image: equipo/alicia-cano-moreno.jpg
+- title: Carmen González
+  subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU05023**
+  link: '#carmen-gonzalez'
+  image: equipo/carmen-gonzalez.jpg
+- title: Carmen Aliaga
+  subtitle: Psicóloga General Sanitaria
+  md: Nº Colegiada <br> **MU04521**
+  link: '#carmen-aliaga'
+  image: equipo/carmen-aliaga.jpg
+modal:
+  color: white
+  icon_type: side
+  border: main
+  circle: y
+modals:
+- id: leticia-martinez-pino
+  title: Leticia Martínez Pino
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/leticia-martinez-pino.jpg
+  md: |
+    Nº Colegiada <br> **MU02135**
+    {.align-center}
+
+    Algo que caracteriza mi profesionalidad es mi cercanía. Creo firmemente que el vínculo que se crea en consulta es único y tiene un poder reparador por sí mismo. No me gusta sentir distancia con mis pacientes, por lo que, aunque nuestras sesiones sean a través de una pantalla, siempre ofrezco mucha cercanía y calidez.
+
+    Fuera de mi profesión, soy una persona apasionada de la naturaleza y los animales, el baile como expresión del cuerpo, la lectura y los viajes, prácticas que me ayudan a mantener un equilibrio en mi vida personal y profesional. Creo firmemente en el poder del autocuidado y el crecimiento continuo.
+
+    **Aprende a desaprender conmigo**
+
+    #### Formación
+
+    - Graduada en psicología por la Universidad de Murcia.
+    - Máster en Psicología General Sanitaria por la Universidad Internacional de Valencia.
+    - Experta en trauma perspectiva integradora.
+    - Especialista en drogodependencias en Tratamientos Avanzados (TAVAD).
+    - Especialista infanto juvenil por la Universidad de Nebrija.
+    - Formación en resolución de problemas.
+    - Terapia de pareja, apego y vínculos.
+    - Desarrollo personal y autoestima.
+    - Amplia formación en trastornos de ansiedad y depresión.
+    - Terapéuta EMDR.
+    - Terapia IFS.
+
+    Si quieres conocerme un poco más…
+    {.h4}
+
+    [[::brand:instagram:: @desaprende&shy;conmigo&shy;psicologia]](https://www.instagram.com/desaprendeconmigopsicologia/ "[nofollow alt-swap]")
+- id: milagros-mariotti
+  title: Milagros Mariotti
+  subtitle: Psicología General Sanitaria
+  image: equipo/milagros-mariotti.jpg
+  md: |
+    Nº Colegiada <br> **MU04996**
+    {.align-center}
+
+    ¡Hola!
+
+    Me presento, mi nombre es Mila. Soy Psicóloga Sanitaria y desde que era pequeña he sentido curiosidad por la mente y los diferentes procesos que nos llevan a pensar, sentir y actuar de la forma en que lo hacemos. Soy especialista en trastornos de la conducta alimentaria, ansiedad y depresión, aunque sigo en constante formación para brindar todos los recursos necesarios.
+
+    Estaré encantada de empezar contigo tu proceso terapéutico.
+
+    #### Formación
+
+    - Graduada en Psicología por la Universidad de Murcia.
+    - Máster en Psicología General Sanitaria por la Universidad Europea de Valencia.
+    - Experto en Actualización de Manuales Diagnóstico (DSM-5/CIE-11).
+    - Experto en Psicooncología.
+    - Especialista en trastornos de la conducta alimentaria y en problemas de autoestima.
+    - Especialista en diversidad afectivo-sexual de género y LGBT.
+    - Formación en trastornos de ansiedad y depresión.
+- id: paula-arenas
+  title: Paula Arenas
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/paula-arenas.jpg
+  md: |
+    Nº Colegiada <br> **MU04755**
+    {.align-center}
+
+    Desde que estudié filosofía en el instituto supe que quería ser psicóloga, tuve un "insight", término que utilizamos en psicología para describir ese instante de visión interna, cuando descubres y comprendes una verdad que estaba en tí.
+
+    Uno de los momentos más gratificantes en consulta, es precisamente observar cómo la persona a la que estoy acompañando descubre ese "insight" por sí mismx.
+
+    Me enorgullece tanto por su parte como por la mía, porque el proceso terapéutico es un trabajo de ambos.
+
+    #### Formación
+
+    - Grado en Psicología por Universidad Católica San Antonio de Murcia. 
+    - Máster Universitario en Psicología General Sanitaria por la UCAM.
+    - Formación en Terapia Dialéctico Conductual.
+    - Psiconutrición y Transtornos de Alimentación.
+    - Violencia de Género.
+    - Autoestima, Ansiedad y Depresión.
+    - Terapia con Adolescentes.
+    - Formacion en Mindfulness.
+- id: alicia-cano-moreno
+  title: Alicia Cano Moreno
+  subtitle: Psicóloga General Sanitaria y Especialista en Trauma
+  image: equipo/alicia-cano-moreno.jpg
+  md: |
+    Nº Colegiada <br> **MU03825**
+    {.align-center}
+
+    Desde que entré en la carrera me enamoré de la psicología. Supe que había acertado con mi profesión. Quería dedicarme al acompañamiento de las personas y ayudarlas a aliviar su sufrimiento desde la cercanía y el cariño que intento ponerle a todo lo que hago. No sólo me apasiona descubrir el funcionamiento del ser humano sino acompañarlo en su propio descubriendo y ver poco a poco como “florece” en su proceso. Eso es precisamente lo que me impulsa a querer saber más cada día y estar en continua formación.
+
+    Creo firmemente que lo que somos ahora es resultado de todo lo que hemos vivido en el pasado y por eso es tan importante estar reconciliado con él. Muchas veces sentimos malestar, pero no sabemos identificar cuál es su origen, ¿te animas a que lo hagamos juntos?
+
+    #### Formación
+
+    - Graduada en psicología por la Universidad de Murcia
+    - Máster en Psicología General Sanitaria por la Universidad de Murcia
+    - Especialista en trauma desde una perspectiva integradora
+    - Terapeuta EMDR
+    - Formación en TCA e imagen corporal
+    - Terapia de pareja y apego
+    - Trastornos de ansiedad y depresión
+- id: carmen-gonzalez
+  title: Carmen González
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/carmen-gonzalez.jpg
+  md: |
+    Nº Colegiada <br> **MU05023**
+    {.align-center}
+
+    ¡Hola! Soy Carmen, Psicóloga Sanitaria.
+
+    Mi objetivo en terapia es trabajar los miedos, inseguridades y falta de autoestima que tiene una persona y que derivan en conflictos internos. Nuestro comportamiento está directamente relacionado con los acontecimientos que vivimos y es por ello, por lo que estaré encantada de conocerte y descubrir lo que ha permanecido oculto durante un tiempo. Es el primer paso para vivir, con la mayor serenidad, el presente.
+
+    Estaré encantada de acompañarte y comprenderte.
+
+    #### Formación
+
+    - Graduada en Psicología por la Universidad Católica de San Antonio de Murcia.
+    - Máster en Psicología General Sanitaria por la Universidad Camilo José Cela en Madrid.
+    - Máster especialista en sexología clínica y terapia de pareja.
+    - Experto en Evaluación Psicológica y Psicodiagnóstico.
+    - Especialista en tratamiento de adicciones.
+- id: carmen-aliaga
+  title: Carmen Aliaga
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/carmen-aliaga.jpg
+  md: |
+    Nº Colegiada <br> **MU04521**
+    {.align-center}
+
+    ¡Hola! Soy Carmen Aliaga, Psicóloga Sanitaria especializada en infancia, adolescencia y también en el acompañamiento a personas adultas. Desde siempre me ha apasionado el mundo emocional y cómo nuestras experiencias influyen en lo que sentimos, pensamos y hacemos. Mi labor se centra en acompañar con empatía, cercanía y sensibilidad a quienes desean mejorar su bienestar, crecer y encontrarse consigo mismos.
+
+    Trabajo con niños, adolescentes y familias en su desarrollo emocional, y también con adultos que enfrentan dificultades como la ansiedad, la baja autoestima, la autoexigencia, heridas de apego o un estado de ánimo bajo. Si estás buscando un espacio seguro donde entenderte, sanar y avanzar (o ayudar a tus peques a hacerlo), estaré encantada de recorrer ese camino contigo.
+
+    #### Formación
+
+    -	Graduada en Psicología en la Universidad de Murcia. 
+    -	Máster en Psicología General Sanitaria en CEU Cardenal Herrera. 
+    -	Máster en Recursos Humanos por la Universidad de Nebrija. 
+    -	Máster en Atención Temprana por la Universidad Pontificia de Salamanca. 
+    -	Máster en Coaching y en Inteligencia Emocional infantil y juvenil por la Universidad Pontificia de Salamanca.
+    -	Formación en Prácticas de Atención Temprana centradas en la familia (IV curso avanzado). 
+    -	Formación en EMDR (Level I training). 
+    -	Formación en Técnico en Conducta.
+- id: leticia-martinez-pino
+  title: Leticia Martínez Pino
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/leticia-martinez-pino.jpg
+  md: |
+    Nº Colegiada <br> **MU02135**
+    {.align-center}
+
+    Algo que caracteriza mi profesionalidad es mi cercanía. Creo firmemente que el vínculo que se crea en consulta es único y tiene un poder reparador por sí mismo. No me gusta sentir distancia con mis pacientes, por lo que, aunque nuestras sesiones sean a través de una pantalla, siempre ofrezco mucha cercanía y calidez.
+
+    Fuera de mi profesión, soy una persona apasionada de la naturaleza y los animales, el baile como expresión del cuerpo, la lectura y los viajes, prácticas que me ayudan a mantener un equilibrio en mi vida personal y profesional. Creo firmemente en el poder del autocuidado y el crecimiento continuo.
+
+    **Aprende a desaprender conmigo**
+
+    #### Formación
+
+    - Graduada en psicología por la Universidad de Murcia.
+    - Máster en Psicología General Sanitaria por la Universidad Internacional de Valencia.
+    - Experta en trauma perspectiva integradora.
+    - Especialista en drogodependencias en Tratamientos Avanzados (TAVAD).
+    - Especialista infanto juvenil por la Universidad de Nebrija.
+    - Formación en resolución de problemas.
+    - Terapia de pareja, apego y vínculos.
+    - Desarrollo personal y autoestima.
+    - Amplia formación en trastornos de ansiedad y depresión.
+    - Terapéuta EMDR.
+    - Terapia IFS.
+
+    Si quieres conocerme un poco más…
+    {.h4}
+
+    [[::brand:instagram:: @desaprende&shy;conmigo&shy;psicologia]](https://www.instagram.com/desaprendeconmigopsicologia/ "[nofollow alt-swap]")
+- id: milagros-mariotti
+  title: Milagros Mariotti
+  subtitle: Psicología General Sanitaria
+  image: equipo/milagros-mariotti.jpg
+  md: |
+    Nº Colegiada <br> **MU04996**
+    {.align-center}
+
+    ¡Hola!
+
+    Me presento, mi nombre es Mila. Soy Psicóloga Sanitaria y desde que era pequeña he sentido curiosidad por la mente y los diferentes procesos que nos llevan a pensar, sentir y actuar de la forma en que lo hacemos. Soy especialista en trastornos de la conducta alimentaria, ansiedad y depresión, aunque sigo en constante formación para brindar todos los recursos necesarios.
+
+    Estaré encantada de empezar contigo tu proceso terapéutico.
+
+    #### Formación
+
+    - Graduada en Psicología por la Universidad de Murcia.
+    - Máster en Psicología General Sanitaria por la Universidad Europea de Valencia.
+    - Experto en Actualización de Manuales Diagnóstico (DSM-5/CIE-11).
+    - Experto en Psicooncología.
+    - Especialista en trastornos de la conducta alimentaria y en problemas de autoestima.
+    - Especialista en diversidad afectivo-sexual de género y LGBT.
+    - Formación en trastornos de ansiedad y depresión.
+- id: paula-arenas
+  title: Paula Arenas
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/paula-arenas.jpg
+  md: |
+    Nº Colegiada <br> **MU04755**
+    {.align-center}
+
+    Desde que estudié filosofía en el instituto supe que quería ser psicóloga, tuve un "insight", término que utilizamos en psicología para describir ese instante de visión interna, cuando descubres y comprendes una verdad que estaba en tí.
+
+    Uno de los momentos más gratificantes en consulta, es precisamente observar cómo la persona a la que estoy acompañando descubre ese "insight" por sí mismx.
+
+    Me enorgullece tanto por su parte como por la mía, porque el proceso terapéutico es un trabajo de ambos.
+
+    #### Formación
+
+    - Grado en Psicología por Universidad Católica San Antonio de Murcia. 
+    - Máster Universitario en Psicología General Sanitaria por la UCAM.
+    - Formación en Terapia Dialéctico Conductual.
+    - Psiconutrición y Transtornos de Alimentación.
+    - Violencia de Género.
+    - Autoestima, Ansiedad y Depresión.
+    - Terapia con Adolescentes.
+    - Formacion en Mindfulness.
+- id: alicia-cano-moreno
+  title: Alicia Cano Moreno
+  subtitle: Psicóloga General Sanitaria y Especialista en Trauma
+  image: equipo/alicia-cano-moreno.jpg
+  md: |
+    Nº Colegiada <br> **MU03825**
+    {.align-center}
+
+    Desde que entré en la carrera me enamoré de la psicología. Supe que había acertado con mi profesión. Quería dedicarme al acompañamiento de las personas y ayudarlas a aliviar su sufrimiento desde la cercanía y el cariño que intento ponerle a todo lo que hago. No sólo me apasiona descubrir el funcionamiento del ser humano sino acompañarlo en su propio descubriendo y ver poco a poco como “florece” en su proceso. Eso es precisamente lo que me impulsa a querer saber más cada día y estar en continua formación.
+
+    Creo firmemente que lo que somos ahora es resultado de todo lo que hemos vivido en el pasado y por eso es tan importante estar reconciliado con él. Muchas veces sentimos malestar, pero no sabemos identificar cuál es su origen, ¿te animas a que lo hagamos juntos?
+
+    #### Formación
+
+    - Graduada en psicología por la Universidad de Murcia
+    - Máster en Psicología General Sanitaria por la Universidad de Murcia
+    - Especialista en trauma desde una perspectiva integradora
+    - Terapeuta EMDR
+    - Formación en TCA e imagen corporal
+    - Terapia de pareja y apego
+    - Trastornos de ansiedad y depresión
+- id: carmen-gonzalez
+  title: Carmen González
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/carmen-gonzalez.jpg
+  md: |
+    Nº Colegiada <br> **MU05023**
+    {.align-center}
+
+    ¡Hola! Soy Carmen, Psicóloga Sanitaria.
+
+    Mi objetivo en terapia es trabajar los miedos, inseguridades y falta de autoestima que tiene una persona y que derivan en conflictos internos. Nuestro comportamiento está directamente relacionado con los acontecimientos que vivimos y es por ello, por lo que estaré encantada de conocerte y descubrir lo que ha permanecido oculto durante un tiempo. Es el primer paso para vivir, con la mayor serenidad, el presente.
+
+    Estaré encantada de acompañarte y comprenderte.
+
+    #### Formación
+
+    - Graduada en Psicología por la Universidad Católica de San Antonio de Murcia.
+    - Máster en Psicología General Sanitaria por la Universidad Camilo José Cela en Madrid.
+    - Máster especialista en sexología clínica y terapia de pareja.
+    - Experto en Evaluación Psicológica y Psicodiagnóstico.
+    - Especialista en tratamiento de adicciones.
+- id: carmen-aliaga
+  title: Carmen Aliaga
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/carmen-aliaga.jpg
+  md: |
+    Nº Colegiada <br> **MU04521**
+    {.align-center}
+
+    ¡Hola! Soy Carmen Aliaga, Psicóloga Sanitaria especializada en infancia, adolescencia y también en el acompañamiento a personas adultas. Desde siempre me ha apasionado el mundo emocional y cómo nuestras experiencias influyen en lo que sentimos, pensamos y hacemos. Mi labor se centra en acompañar con empatía, cercanía y sensibilidad a quienes desean mejorar su bienestar, crecer y encontrarse consigo mismos.
+
+    Trabajo con niños, adolescentes y familias en su desarrollo emocional, y también con adultos que enfrentan dificultades como la ansiedad, la baja autoestima, la autoexigencia, heridas de apego o un estado de ánimo bajo. Si estás buscando un espacio seguro donde entenderte, sanar y avanzar (o ayudar a tus peques a hacerlo), estaré encantada de recorrer ese camino contigo.
+
+    #### Formación
+
+    -	Graduada en Psicología en la Universidad de Murcia. 
+    -	Máster en Psicología General Sanitaria en CEU Cardenal Herrera. 
+    -	Máster en Recursos Humanos por la Universidad de Nebrija. 
+    -	Máster en Atención Temprana por la Universidad Pontificia de Salamanca. 
+    -	Máster en Coaching y en Inteligencia Emocional infantil y juvenil por la Universidad Pontificia de Salamanca.
+    -	Formación en Prácticas de Atención Temprana centradas en la familia (IV curso avanzado). 
+    -	Formación en EMDR (Level I training). 
+    -	Formación en Técnico en Conducta.
