@@ -4,7 +4,6 @@ google_file_verification: google7467d923cbb3eb4c.html
 html:
     # <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     # <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
-
     # <script>
     #   // GA4
     #   window.dataLayer = window.dataLayer || [];
@@ -27,10 +26,13 @@ html:
     #   // If is not bot and if cookies law
     #   const isBot = navigator.userAgent.toLowerCase().match(/googlebot|bingbot|slurp|duckduckbot|baiduspider|yandexbot/)
     #   const isCk = localStorage.controlcookieanalytics === 'true'
+    #   if (!isBot && isCk) {
+    #     googleAnalytics();
+
+    #   }
+    # </script>
   head: |
     <script>
-      if (!isBot && isCk) {
-        googleAnalytics();
         // Google Tag Manager
         (function(w,d,s,l,i){
           w[l] = w[l] || []
@@ -42,7 +44,6 @@ html:
           j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
           f.parentNode.insertBefore(j, f)
         })(window, document, 'script', 'dataLayer', 'GTM-KKCTWB9M')
-      }
     </script>
 show: y
 image_sizes: 2
