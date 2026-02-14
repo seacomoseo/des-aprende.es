@@ -22,8 +22,10 @@ html:
           });
         }
       }
+
       // Remove next if cookies_legal
       googleAnalytics();
+
       // Google Tag Manager
       (function(w,d,s,l,i){
         w[l] = w[l] || []

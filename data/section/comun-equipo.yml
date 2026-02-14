@@ -4,9 +4,9 @@ title: Equipo
 subtitle: ¿Quienes somos?
 color: light
 icon: groups_3
-size: md
+# size: md
 box:
-  cols: 3
+  cols: 4
   circle: y
   border: main
   hs: 3
@@ -43,6 +43,11 @@ boxes:
   md: Nº Colegiada <br> **MU04521**
   link: '#carmen-aliaga'
   image: equipo/carmen-aliaga.jpg
+- title: Elena Sánchez Valverde
+  subtitle: Psicóloga General Sanitaria
+  # md: Nº Colegiada <br> **MU04521**
+  link: '#elena-sanchez-valverde'
+  image: equipo/elena-sanchez-valverde.jpg
 modal:
   color: white
   icon_type: side
@@ -335,3 +340,29 @@ modals:
     -	Formación en Prácticas de Atención Temprana centradas en la familia (IV curso avanzado). 
     -	Formación en EMDR (Level I training). 
     -	Formación en Técnico en Conducta.
+- id: elena-sanchez-valverde
+  title: Elena Sánchez Valverde
+  subtitle: Psicóloga General Sanitaria
+  image: equipo/elena-sanchez-valverde.jpg
+  md: |
+    <!--
+    Nº Colegiada <br> **MU04521**
+    {.align-center}
+    -->
+
+    Soy Elena y para mi ser psicóloga no es solo una profesión, es elegir estar al lado del dolor sin huir, escuchar lo que muchas veces nunca pudo ser dicho y ofrecer un espacio donde la historia de cada persona pueda ser comprendida con respeto y cuidado.
+
+    El trauma me ha enseñado que el sufrimiento necesita ser mirado con compasión, y el apego me recuerda que nadie sana solo.
+
+    Por eso, mi vocación es ser presencia, ofrecer una relación terapéutica que repare, que devuelva dignidad a la experiencia vivida y que permita que lo que dolió deje de gobernar el presente.
+
+    Cada proceso que he acompañado me confirma que incluso después de las heridas más profundas, es posible construir seguridad, sentido y vínculos más amables.
+
+    #### Formación
+
+    -	Psicóloga General Sanitaria.
+    - Imagen corporal.
+    - Especialista en trauma complejo, apego y disociación, terapeuta en EMDR.
+    - Intervención en abuso sexual infantil en adultos.
+    - Intervención en trauma familiar.
+    - Terapia de pareja.
