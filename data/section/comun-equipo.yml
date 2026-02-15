@@ -9,7 +9,7 @@ box:
   cols: 4
   circle: y
   border: main
-  hs: 3
+  hs: 4
   md_sm: y
   pin: add
 boxes:
@@ -45,7 +45,7 @@ boxes:
   image: equipo/carmen-aliaga.jpg
 - title: Elena Sánchez Valverde
   subtitle: Psicóloga General Sanitaria
-  # md: Nº Colegiada <br> **MU04521**
+  md: Nº Colegiada <br> **MU05539**
   link: '#elena-sanchez-valverde'
   image: equipo/elena-sanchez-valverde.jpg
 modal:
@@ -345,10 +345,8 @@ modals:
   subtitle: Psicóloga General Sanitaria
   image: equipo/elena-sanchez-valverde.jpg
   md: |
-    <!--
-    Nº Colegiada <br> **MU04521**
+    Nº Colegiada <br> **MU05539**
     {.align-center}
-    -->
 
     Soy Elena y para mi ser psicóloga no es solo una profesión, es elegir estar al lado del dolor sin huir, escuchar lo que muchas veces nunca pudo ser dicho y ofrecer un espacio donde la historia de cada persona pueda ser comprendida con respeto y cuidado.
 
