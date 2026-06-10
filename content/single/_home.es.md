@@ -33,6 +33,7 @@ org:
   - Des-Aprende · Terapia Psicológica Online y en Murcia
   - Clínica Des-Aprende
   - Centro Des-Aprende
+  - Clínica Martínez Marcos
   description: null
   legal: Leticia Martínez Pino
   nif: 48695365H

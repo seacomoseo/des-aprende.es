@@ -56,3 +56,11 @@ footer:
   - link: https://www.instagram.com/desaprendeconmigopsicologia/
   - link: https://g.page/r/CX3c98qaRwrmEAg
   - link: https://www.youtube.com/@des-aprende
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::check_box::        [Antes Clínica Martínez Marcos](/clinica-martinez-marcos/)
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+    {.list-inline}
