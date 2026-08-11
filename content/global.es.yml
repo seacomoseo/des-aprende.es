@@ -1,61 +1,61 @@
 menu:
-  image: base/icon-tr.svg
+  img: /u/base/icon-tr.svg
   title: DES-APRENDE
-  subtitle: Centro de Psicología Integradora
+  sub: Centro de Psicología Integradora
   items:
   - label: Inicio
-    link: /
+    url: /
     icon: home
   - label: Reseñas
-    link: /#resenas
+    url: /#resenas
     icon: reviews
   - label: ¿Des-Aprende?
-    link: /#des-aprende
+    url: /#des-aprende
     icon: info
   - label: Terapias
-    link: /#terapias
+    url: /#terapias
     icon: volunteer_activism
     # items:
     # - label: Individual Adultos
-    #   link: /terapia/adultos/
+    #   url: /terapia/adultos/
     #   icon: woman
     # - label: Pareja
-    #   link: /terapia/pareja/
+    #   url: /terapia/pareja/
     #   icon: wc
     # - label: Infanto Juvenil
-    #   link: /terapia/infanto-juvenil/
+    #   url: /terapia/infanto-juvenil/
     #   icon: boy
     # - label: Familiar
-    #   link: /terapia/familiar/
+    #   url: /terapia/familiar/
     #   icon: family_restroom
   - label: Sobre mi
-    link: /#sobre
+    url: /#sobre
     icon: woman
   - label: Equipo
-    link: /#equipo
+    url: /#equipo
     icon: groups_3
   - label: Precios
-    link: /#precios
+    url: /#precios
     icon: sell
   - label: FAQ
-    link: /#faq
+    url: /#faq
     icon: help_outline
   - label: Reservar Cita
-    link: https://wa.me/34613794595
+    url: https://wa.me/34613794595
     icon: brand:whatsapp
-    button: cta
-    lock: y
-    ga4: y
+    btn: cta
+    lock: true
+    ga4: true
   - label: Blog
-    link: /blog/
+    url: /blog/
     icon: rss_feed
 title: Valores Globales
 footer:
   div: arrow
   dots:
-  - link: https://www.instagram.com/desaprendeconmigopsicologia/
-  - link: https://g.page/r/CX3c98qaRwrmEAg
-  - link: https://www.youtube.com/@des-aprende
+  - url: https://www.instagram.com/desaprendeconmigopsicologia/
+  - url: https://g.page/r/CX3c98qaRwrmEAg
+  - url: https://www.youtube.com/@des-aprende
   md: |
     - ::copyright::        {{< internal-link index >}}
     - ::check_box::        [Antes Clínica Martínez Marcos](/clinica-martinez-marcos/)

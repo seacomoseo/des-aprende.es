@@ -9,14 +9,14 @@
   label: Titular visible
 
 - types: [ service ]
-  name: subtitle
+  name: sub
   label: Subtítulo
 
 - types: [ service ]
   name: contents
   label: Contenidos
-  widget: list
+  widget: slice
   sub:
-  - var: box_title
-  - var: box_image_src
-  - var: box_md
+  - var: title
+  - var: image
+  - var: md

@@ -1,10 +1,11 @@
 ---
 slug: duelo-consecuencia-amor
 title: 'El duelo es la consecuencia del amor: Cómo sanar tras una pérdida emocional'
-image: blog/duelo-consecuencia-amor.svg
+img: /u/blog/duelo-consecuencia-amor.svg
 date: 2025-01-12 00:00:00
-seo: 'El duelo en el amor: Cómo sanar tras una pérdida emocional'
-description: 'El duelo es una experiencia profundamente humana, que se presenta cuando perdemos algo o a alguien que ha sido significativo en nuestra vida. Este…'
+seo:
+  title: 'El duelo en el amor: Cómo sanar tras una pérdida emocional'
+  desc: El duelo es una experiencia profundamente humana, que se presenta cuando perdemos algo o a alguien que ha sido significativo en nuestra vida. Este…
 ---
 
 El duelo es una experiencia profundamente humana, que se presenta cuando perdemos algo o a alguien que ha sido significativo en nuestra vida. Este proceso emocional no solo es el reflejo de la ausencia, sino también una consecuencia directa del amor que sentimos.

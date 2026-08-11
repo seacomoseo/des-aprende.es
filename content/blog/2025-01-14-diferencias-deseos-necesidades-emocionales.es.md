@@ -1,10 +1,11 @@
 ---
 slug: diferencias-deseos-necesidades-emocionales
 title: 'Lo deseo o lo necesito: Diferencias entre deseos y necesidades emocionales'
-image: blog/diferencias-deseos-necesidades-emocionales.svg
+img: /u/blog/diferencias-deseos-necesidades-emocionales.svg
 date: 2025-01-14 00:00:00
-seo: 'Diferencias entre deseos y necesidades emocionales'
-description: '¿Alguna vez te has preguntado si lo que sientes por alguien o algo es un deseo genuino o una necesidad emocional? A menudo confundimos estos dos…'
+seo:
+  title: Diferencias entre deseos y necesidades emocionales
+  desc: ¿Alguna vez te has preguntado si lo que sientes por alguien o algo es un deseo genuino o una necesidad emocional? A menudo confundimos estos dos…
 ---
 
 ¿Alguna vez te has preguntado si lo que sientes por alguien o algo es un deseo genuino o una necesidad emocional? A menudo confundimos estos dos conceptos, lo que puede llevarnos a tomar decisiones impulsivas o a depender emocionalmente de situaciones o personas.

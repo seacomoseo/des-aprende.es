@@ -1,10 +1,11 @@
 ---
 slug: mania-pareja-saturacion-emocional
 title: '“Siento que le estoy cogiendo manía a mi pareja”: cuando el amor se vuelve irritación'
-image: blog/mania-pareja.png
+img: /u/blog/mania-pareja.png
 date: 2026-02-12 00:00:00
-seo: 'Sentir manía por la pareja: saturación emocional y límites'
-description: 'Decir "le tengo manía a mi pareja" suele ir acompañado de culpa, pero a menudo no es falta de amor, sino una señal de saturación emocional.'
+seo:
+  title: 'Sentir manía por la pareja: saturación emocional y límites'
+  desc: Decir "le tengo manía a mi pareja" suele ir acompañado de culpa, pero a menudo no es falta de amor, sino una señal de saturación emocional.
 ---
 
 Decir **“le tengo manía a mi pareja”** suele ir acompañado de culpa y confusión. Muchas personas lo dicen casi en voz baja, como si fuera algo inconfesable, porque todavía hay una idea muy instalada de que, si quieres a alguien, no deberías sentir rechazo, irritación o hartazgo.

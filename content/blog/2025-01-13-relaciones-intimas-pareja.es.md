@@ -1,10 +1,11 @@
 ---
 slug: relaciones-intimas-pareja
 title: 'Relaciones íntimas de pareja: ¿Por qué fallan y cómo reconstruir la conexión?'
-image: blog/relaciones-intimas-pareja.svg
+img: /u/blog/relaciones-intimas-pareja.svg
 date: 2025-01-13 00:00:00
-seo: 'Relaciones de pareja: ¿Por qué fallan y cómo reconstruirlas?'
-description: 'Las relaciones de pareja son un terreno fértil para el amor, pero también para los conflictos y malentendidos. ¿Por qué fallan las relaciones de pareja?…'
+seo:
+  title: 'Relaciones de pareja: ¿Por qué fallan y cómo reconstruirlas?'
+  desc: Las relaciones de pareja son un terreno fértil para el amor, pero también para los conflictos y malentendidos. ¿Por qué fallan las relaciones de pareja?…
 ---
 
 Las relaciones de pareja son un terreno fértil para el amor, pero también para los conflictos y malentendidos. ¿Por qué fallan las relaciones de pareja? ¿Qué podemos hacer cuando sentimos que la conexión emocional se ha perdido?

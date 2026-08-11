@@ -42,9 +42,9 @@ document.addEventListener('click', e => {
   const b = e.target.closest(
     '.callnow__phone,' +
     '.callnow__whatsapp,' +
-    '.contact__phone,' +
-    '.contact__whatsapp,' +
-    '.contact__address,' +
+    '.link__phone,' +
+    '.link__whatsapp,' +
+    '.link__address,' +
     '.mail__option-copy,' +
     '.mail__option-send,' +
     '.ga4'

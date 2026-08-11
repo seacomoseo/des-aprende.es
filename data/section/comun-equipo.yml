@@ -1,63 +1,63 @@
 name: Equipo
 id: equipo
-title: Equipo
-subtitle: ¿Quienes somos?
 color: light
-icon: groups_3
-# size: md
-box:
-  cols: 4
-  circle: y
-  border: main
-  hs: 4
-  md_sm: y
-  pin: add
 boxes:
-- title: Leticia Martínez Pino
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU02135**
-  link: '#leticia-martinez-pino'
-  image: equipo/leticia-martinez-pino.jpg
-- title: Milagros Mariotti
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU04996**
-  link: '#milagros-mariotti'
-  image: equipo/milagros-mariotti.jpg
-- title: Paula Arenas
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU04755**
-  link: '#paula-arenas'
-  image: equipo/paula-arenas.jpg
-- title: Alicia Cano Moreno
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU03825**
-  link: '#alicia-cano-moreno'
-  image: equipo/alicia-cano-moreno.jpg
-- title: Carmen González
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU05023**
-  link: '#carmen-gonzalez'
-  image: equipo/carmen-gonzalez.jpg
-- title: Carmen Aliaga
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU04521**
-  link: '#carmen-aliaga'
-  image: equipo/carmen-aliaga.jpg
-- title: Elena Sánchez Valverde
-  subtitle: Psicóloga General Sanitaria
-  md: Nº Colegiada <br> **MU05539**
-  link: '#elena-sanchez-valverde'
-  image: equipo/elena-sanchez-valverde.jpg
+- title: Equipo
+  sub: ¿Quienes somos?
+  icon: groups_3
+  box:
+    cols: 4
+    disc: true
+    border: main
+    hs: 4
+    md_sm: true
+    pin: add
+  boxes:
+  - title: Leticia Martínez Pino
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU02135**
+    url: '#leticia-martinez-pino'
+    img: /u/equipo/leticia-martinez-pino.jpg
+  - title: Milagros Mariotti
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU04996**
+    url: '#milagros-mariotti'
+    img: /u/equipo/milagros-mariotti.jpg
+  - title: Paula Arenas
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU04755**
+    url: '#paula-arenas'
+    img: /u/equipo/paula-arenas.jpg
+  - title: Alicia Cano Moreno
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU03825**
+    url: '#alicia-cano-moreno'
+    img: /u/equipo/alicia-cano-moreno.jpg
+  - title: Carmen González
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU05023**
+    url: '#carmen-gonzalez'
+    img: /u/equipo/carmen-gonzalez.jpg
+  - title: Carmen Aliaga
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU04521**
+    url: '#carmen-aliaga'
+    img: /u/equipo/carmen-aliaga.jpg
+  - title: Elena Sánchez Valverde
+    sub: Psicóloga General Sanitaria
+    md: Nº Colegiada <br> **MU05539**
+    url: '#elena-sanchez-valverde'
+    img: /u/equipo/elena-sanchez-valverde.jpg
 modal:
   color: white
-  icon_type: side
+  icon_pos: side
   border: main
-  circle: y
+  disc: true
 modals:
 - id: leticia-martinez-pino
   title: Leticia Martínez Pino
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/leticia-martinez-pino.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/leticia-martinez-pino.jpg
   md: |
     Nº Colegiada <br> **MU02135**
     {.align-center}
@@ -88,8 +88,8 @@ modals:
     [[::brand:instagram:: @desaprende&shy;conmigo&shy;psicologia]](https://www.instagram.com/desaprendeconmigopsicologia/ "[nofollow alt-swap]")
 - id: milagros-mariotti
   title: Milagros Mariotti
-  subtitle: Psicología General Sanitaria
-  image: equipo/milagros-mariotti.jpg
+  sub: Psicología General Sanitaria
+  img: /u/equipo/milagros-mariotti.jpg
   md: |
     Nº Colegiada <br> **MU04996**
     {.align-center}
@@ -111,8 +111,8 @@ modals:
     - Formación en trastornos de ansiedad y depresión.
 - id: paula-arenas
   title: Paula Arenas
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/paula-arenas.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/paula-arenas.jpg
   md: |
     Nº Colegiada <br> **MU04755**
     {.align-center}
@@ -135,8 +135,8 @@ modals:
     - Formacion en Mindfulness.
 - id: alicia-cano-moreno
   title: Alicia Cano Moreno
-  subtitle: Psicóloga General Sanitaria y Especialista en Trauma
-  image: equipo/alicia-cano-moreno.jpg
+  sub: Psicóloga General Sanitaria y Especialista en Trauma
+  img: /u/equipo/alicia-cano-moreno.jpg
   md: |
     Nº Colegiada <br> **MU03825**
     {.align-center}
@@ -156,8 +156,8 @@ modals:
     - Trastornos de ansiedad y depresión
 - id: carmen-gonzalez
   title: Carmen González
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/carmen-gonzalez.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/carmen-gonzalez.jpg
   md: |
     Nº Colegiada <br> **MU05023**
     {.align-center}
@@ -177,8 +177,8 @@ modals:
     - Especialista en tratamiento de adicciones.
 - id: carmen-aliaga
   title: Carmen Aliaga
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/carmen-aliaga.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/carmen-aliaga.jpg
   md: |
     Nº Colegiada <br> **MU04521**
     {.align-center}
@@ -199,8 +199,8 @@ modals:
     -	Formación en Técnico en Conducta.
 - id: leticia-martinez-pino
   title: Leticia Martínez Pino
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/leticia-martinez-pino.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/leticia-martinez-pino.jpg
   md: |
     Nº Colegiada <br> **MU02135**
     {.align-center}
@@ -231,8 +231,8 @@ modals:
     [[::brand:instagram:: @desaprende&shy;conmigo&shy;psicologia]](https://www.instagram.com/desaprendeconmigopsicologia/ "[nofollow alt-swap]")
 - id: milagros-mariotti
   title: Milagros Mariotti
-  subtitle: Psicología General Sanitaria
-  image: equipo/milagros-mariotti.jpg
+  sub: Psicología General Sanitaria
+  img: /u/equipo/milagros-mariotti.jpg
   md: |
     Nº Colegiada <br> **MU04996**
     {.align-center}
@@ -254,8 +254,8 @@ modals:
     - Formación en trastornos de ansiedad y depresión.
 - id: paula-arenas
   title: Paula Arenas
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/paula-arenas.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/paula-arenas.jpg
   md: |
     Nº Colegiada <br> **MU04755**
     {.align-center}
@@ -278,8 +278,8 @@ modals:
     - Formacion en Mindfulness.
 - id: alicia-cano-moreno
   title: Alicia Cano Moreno
-  subtitle: Psicóloga General Sanitaria y Especialista en Trauma
-  image: equipo/alicia-cano-moreno.jpg
+  sub: Psicóloga General Sanitaria y Especialista en Trauma
+  img: /u/equipo/alicia-cano-moreno.jpg
   md: |
     Nº Colegiada <br> **MU03825**
     {.align-center}
@@ -299,8 +299,8 @@ modals:
     - Trastornos de ansiedad y depresión
 - id: carmen-gonzalez
   title: Carmen González
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/carmen-gonzalez.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/carmen-gonzalez.jpg
   md: |
     Nº Colegiada <br> **MU05023**
     {.align-center}
@@ -320,8 +320,8 @@ modals:
     - Especialista en tratamiento de adicciones.
 - id: carmen-aliaga
   title: Carmen Aliaga
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/carmen-aliaga.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/carmen-aliaga.jpg
   md: |
     Nº Colegiada <br> **MU04521**
     {.align-center}
@@ -342,8 +342,8 @@ modals:
     -	Formación en Técnico en Conducta.
 - id: elena-sanchez-valverde
   title: Elena Sánchez Valverde
-  subtitle: Psicóloga General Sanitaria
-  image: equipo/elena-sanchez-valverde.jpg
+  sub: Psicóloga General Sanitaria
+  img: /u/equipo/elena-sanchez-valverde.jpg
   md: |
     Nº Colegiada <br> **MU05539**
     {.align-center}

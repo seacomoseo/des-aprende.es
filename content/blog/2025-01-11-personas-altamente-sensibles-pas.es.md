@@ -1,10 +1,11 @@
 ---
 slug: personas-altamente-sensibles-pas
 title: 'Personas Altamente Sensibles (PAS): La Fuerza en la Sensibilidad'
-image: blog/personas-altamente-sensibles-pas.svg
+img: /u/blog/personas-altamente-sensibles-pas.svg
 date: 2025-01-11 00:00:00
-seo: 'Personas Altamente Sensibles (PAS): La Fuerza en la Sensibilidad'
-description: 'Ser una Persona Altamente Sensible (PAS) puede sentirse como una carga en un mundo que parece valorar la dureza y la rapidez. Pero, ¿y si te dijera…'
+seo:
+  title: 'Personas Altamente Sensibles (PAS): La Fuerza en la Sensibilidad'
+  desc: Ser una Persona Altamente Sensible (PAS) puede sentirse como una carga en un mundo que parece valorar la dureza y la rapidez. Pero, ¿y si te dijera…
 ---
 
 Ser una Persona Altamente Sensible (PAS) puede sentirse como una carga en un mundo que parece valorar la dureza y la rapidez. Pero, ¿y si te dijera que tu sensibilidad es tu superpoder? Percibir las emociones de los demás, conectar profundamente con el arte o notar detalles que otros pasan por alto son cualidades que aportan valor.

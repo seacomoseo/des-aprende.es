@@ -1,6 +1,6 @@
-# google_analytics: G-MVRFWZGMPZ
-google_site_verification: 3-sAQ6_IzkJ9Io_7Ua3ojeP0jCe1p-e95V4-gP43Wj4
-google_file_verification: google7467d923cbb3eb4c.html
+# ga4: G-MVRFWZGMPZ
+g_site_verify: 3-sAQ6_IzkJ9Io_7Ua3ojeP0jCe1p-e95V4-gP43Wj4
+g_file_verify: google7467d923cbb3eb4c.html
 html:
   head: |
     <script>
@@ -38,5 +38,5 @@ html:
         f.parentNode.insertBefore(j, f)
       })(window, document, 'script', 'dataLayer', 'GTM-KKCTWB9M')
     </script>
-show: y
+show: true
 image_sizes: 2

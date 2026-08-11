@@ -1,10 +1,11 @@
 ---
 slug: idealizacion-pareja-patron
 title: '¿Por qué siempre idealizo a mis parejas? Entendiendo el patrón'
-image: blog/idealizacion-pareja.png
+img: /u/blog/idealizacion-pareja.png
 date: 2026-02-11 00:00:00
-seo: '¿Por qué idealizo a mis parejas? Entendiendo el patrón de idealización'
-description: 'Si notas que te enamoras con intensidad y ves en la otra persona algo "salvador" para luego terminar en decepción, puede que estés repitiendo un patrón de idealización...'
+seo:
+  title: ¿Por qué idealizo a mis parejas? Entendiendo el patrón de idealización
+  desc: Si notas que te enamoras con intensidad y ves en la otra persona algo "salvador" para luego terminar en decepción, puede que estés repitiendo un patrón de idealización...
 ---
 
 Si miras hacia atrás, quizá notes un patrón que se repite. Te enamoras con intensidad, ves en la otra persona algo casi especial, diferente, incluso “salvador”. Al principio todo encaja. Sientes conexión, ilusión, una especie de calma mezclada con nervio.

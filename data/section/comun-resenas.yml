@@ -1,17 +1,17 @@
 name: Resenas
 id: resenas
-title: Reseñas
-subtitle: ¿Qué dicen de nosotras?
 color: light
-icon: reviews
 boxes:
+- title: Reseñas
+  sub: ¿Qué dicen de nosotras?
+  icon: reviews
 - review:
     call: ¡Hay más aquí! ¡Añade la tuya!
     color: white
-    slider: y
+    slider: true
     buttons:
-    - link: https://g.page/r/CX3c98qaRwrmEAg/review
-      lock: y
+    - url: https://g.page/r/CX3c98qaRwrmEAg/review
+      lock: true
       label: Google
     cols: 3
   reviews:
@@ -24,7 +24,7 @@ boxes:
       Se nota que le apasiona su trabajo y el trato es genial.
 
       Creo que a cualquier tipo de persona le haría sentir confianza y tranquilidad.
-    image: https://lh3.googleusercontent.com/a-/ALV-UjWaVPZkr4n7wrG977735N0UV2blQe4pzV0qR159u0SCebWwM7Cs=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjWaVPZkr4n7wrG977735N0UV2blQe4pzV0qR159u0SCebWwM7Cs=s136
   - title: Miriam F.
     md: |
       Fui a Leticia recomendada por un gran amigo.
@@ -34,7 +34,7 @@ boxes:
       Es cercana, muy profesional, te hace sentir increíblemente cómoda, te ayuda en absolutamente todo y en sus manos puedes sentirte segura al 100%.
 
       Os la recomiendo a ojos cerrados.
-    image: https://lh3.googleusercontent.com/a-/ALV-UjWs1zLpL5G2O7aRvwxvIL-N1ql_6S4PHbipqDDM7BDC1loRsGsU=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjWs1zLpL5G2O7aRvwxvIL-N1ql_6S4PHbipqDDM7BDC1loRsGsU=s136
   - title: Jone E.
     md: |
       Llevo poco tiempo con Leti, pero gracias a su profesionalidad, he sacado adelante varios de los problemas e inseguridad.
@@ -45,7 +45,7 @@ boxes:
 
       Te da todas las herramientas y pautas para seguir y salir de esa burbuja de inseguridad y problemas…
       Es la mejor profesional que he tenido y la recomienda 100%, sin dudarlo.
-    image: https://lh3.googleusercontent.com/a-/ALV-UjXIcoGFFBwm9nJcf-eTbUyxcBEO6OB3wIAmIHUZuVZyuOoQi65T=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjXIcoGFFBwm9nJcf-eTbUyxcBEO6OB3wIAmIHUZuVZyuOoQi65T=s136
   - title: V L.
     md: |
       Leticia me ha cambiado para mi evolución, creo que no lo ha podido hacer mejor.
@@ -57,7 +57,7 @@ boxes:
       Gracias a su cercanía, te da confianza, te transmite paz, te sientes con seguridad y te hace sentir muy bien en sus sesiones.
 
       Sin dudarlo, es la mejor profesional que he tenido y muy recomendable.
-    image: https://lh3.googleusercontent.com/a/ACg8ocIKDJRZXZvBGGvtImwL94s329mso79UrXZ7WcIyrvbgffllZw=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocIKDJRZXZvBGGvtImwL94s329mso79UrXZ7WcIyrvbgffllZw=s136
   - title: Nurixx M.
     md: |
       Hace poco tiempo que estoy en terapia pero desde la primera, ya pude sentir su ayuda.
@@ -69,7 +69,7 @@ boxes:
       Me gustan mucho las sesiones con ella porque crea un ambiente donde te sientes seguro para expresarte y no tienes la sensación de estar yendo a un médico sin más.
 
       Muchas gracias Leticia, estoy deseando verte🫶🏻🤭
-    image: https://lh3.googleusercontent.com/a-/ALV-UjX82oTH2n94kwavLkjixeixxDSL2p_d8xve214S5wV0HbQjhBlQ=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjX82oTH2n94kwavLkjixeixxDSL2p_d8xve214S5wV0HbQjhBlQ=s136
   - title: Elena A.
     md: |
       Leti es una psicóloga increíble, empecé a ir a terapia hace un año y medio y el cambio que he experimentado tanto en mi propio bienestar como en mi relación con los demás ha sido, para mí, sorprendente.
@@ -79,7 +79,7 @@ boxes:
       Es una gran profesional y he sentido que tiene los recursos necesarios para poder ayudarme en mi desarrollo personal.
 
       Si estas pensando en empezar tu proceso de terapia te recomiendo a Leti 100%.
-    image: https://lh3.googleusercontent.com/a/ACg8ocLeAU6l0Y_7uAy5zP-FeRQmAOIKp_cagby4kvMagNtv3kvE-w=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocLeAU6l0Y_7uAy5zP-FeRQmAOIKp_cagby4kvMagNtv3kvE-w=s136
   - title: Ana J.
     md: |
       Sin duda alguna recurriría una y mil veces a ella.
@@ -89,7 +89,7 @@ boxes:
       Se necesita mucha más gente como ella en esta profesión, capaz de orientarte y guiarte en los momentos de mayor vulnerabilidad.
 
       Pocos se implican y se preocupan por sus pacientes como Leticia lo hace y eso hace que su terapia sea tan exitosa, además de enseñarte a utilizar las herramientas necesarias para trabajar desde autoconocimiento y la reflexión.
-    image: https://lh3.googleusercontent.com/a/ACg8ocLVaE8tkcPaPv1w-XtbHH66DYXIgg4fKTUHL_IvnuExery6hg=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocLVaE8tkcPaPv1w-XtbHH66DYXIgg4fKTUHL_IvnuExery6hg=s136
   - title: Nacho E.
     md: |
       Estoy muy agradecido con Leticia.
@@ -99,7 +99,7 @@ boxes:
       Al principio me echaba un poco para atrás que fuera online pero enseguida se fue ese pensamiento.
 
       Es súper cercana y atenta, al instante te transmite la confianza suficiente para poder abrirte y contarle todo.
-    image: https://lh3.googleusercontent.com/a/ACg8ocI2-TjPLC2psDBKIKWySF85JUabR4YSmOe82E3CxhjDTJQU7Oc=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocI2-TjPLC2psDBKIKWySF85JUabR4YSmOe82E3CxhjDTJQU7Oc=s136
   - title: María R.
     md: |
       Llevo seis meses en terapia y la verdad que me ha cambiado por completo.
@@ -109,7 +109,7 @@ boxes:
       Tener la opción de hacer terapia online te da mucha comodidad sobretodo para persona como yo que solo estamos en Murcia durante el curso.
 
       Para mi ha marcado un antes y un después en mi vida, estoy muy contenta.
-    image: https://lh3.googleusercontent.com/a-/ALV-UjVIsz4gS5RQ5cT-D0jUHFZ-hxX-4DanlDVKjnNTiLpQg1sD0O3c=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjVIsz4gS5RQ5cT-D0jUHFZ-hxX-4DanlDVKjnNTiLpQg1sD0O3c=s136
   - title: Alejandro C.
     md: |
       Para mí fue un antes y un después el acudir a terapia con Leticia.
@@ -119,12 +119,12 @@ boxes:
       Siempre estaré agradecido y la recomiendo sin duda.
 
       Gracias Leticia
-    image: https://lh3.googleusercontent.com/a/ACg8ocLvq7tucj7wcNpw9YHuMxojGOTy9BSILZlbJ1OjMxWNAJZOcA=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocLvq7tucj7wcNpw9YHuMxojGOTy9BSILZlbJ1OjMxWNAJZOcA=s136
 - boxes:
   - md: |
       <!--
       ¡Hay más aquí! ¡Añade la tuya!
-      {.subtitle}
+      {.sub}
 
       [[::star:: Google]](https://g.page/r/CX3c98qaRwrmEAg/review "[nofollow]")
       -->

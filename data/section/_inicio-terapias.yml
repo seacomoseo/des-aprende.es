@@ -1,22 +1,23 @@
 name: Terapias
 id: terapias
-title: Terapias
-subtitle: ¿Cómo trabajamos?
 color: light
-icon: volunteer_activism
-box:
-  gap_vs: 2
 boxes:
-- list:
-    type: service
-- boxes:
-  - subtitle: ¿Quieres más detalles?
-    label: Metodología
-    pin: guardian
-    link: '#metodologia'
+- title: Terapias
+  sub: ¿Cómo trabajamos?
+  icon: volunteer_activism
+  box:
+    gap_vs: 2
+  boxes:
+  - list:
+      type: service
+  - boxes:
+    - sub: ¿Quieres más detalles?
+      label: Metodología
+      pin: guardian
+      url: '#metodologia'
 modal:
   color: white
-  icon_type: side
+  icon_pos: side
 modals:
 - id: metodologia
   title: ¿Cómo es la terapia en Desaprende?

@@ -1,10 +1,11 @@
 ---
 slug: relacion-narcisista
 title: 'La relación con un narcisista: el espejismo del amor perfecto'
-image: blog/relacion-narcisista.svg
+img: /u/blog/relacion-narcisista.svg
 date: 2025-01-27 00:00:00
-seo: 'La relación con un narcisista: el espejismo del amor perfecto'
-description: 'Al principio, estar con un narcisista puede sentirse como un cuento de hadas. No solo te hacen sentir especial, sino que parecen leerte como un libro…'
+seo:
+  title: 'La relación con un narcisista: el espejismo del amor perfecto'
+  desc: Al principio, estar con un narcisista puede sentirse como un cuento de hadas. No solo te hacen sentir especial, sino que parecen leerte como un libro…
 ---
 
 Al principio, estar con un narcisista puede sentirse como un cuento de hadas. No solo te hacen sentir especial, sino que parecen leerte como un libro abierto, adaptándose a tus deseos, tus inseguridades y tus sueños. Pero aquí está la clave que a menudo se pasa por alto: lo que están proyectando no es amor, sino un reflejo de lo que creen que necesitas para quedarte atrapado/a. Es una estrategia, no una conexión genuina.

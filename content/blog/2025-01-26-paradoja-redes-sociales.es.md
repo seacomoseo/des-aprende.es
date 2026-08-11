@@ -1,10 +1,11 @@
 ---
 slug: paradoja-redes-sociales
 title: 'La paradoja de las redes sociales: ¿conexión o desconexión emocional?'
-image: blog/paradoja-redes-sociales.svg
+img: /u/blog/paradoja-redes-sociales.svg
 date: 2025-01-26 00:00:00
-seo: 'La paradoja de las redes sociales: ¿conexión emocional o no?'
-description: 'En un mundo hiperconectado, donde las notificaciones nos acompañan desde que despertamos hasta que cerramos los ojos, parece contradictorio que…'
+seo:
+  title: 'La paradoja de las redes sociales: ¿conexión emocional o no?'
+  desc: En un mundo hiperconectado, donde las notificaciones nos acompañan desde que despertamos hasta que cerramos los ojos, parece contradictorio que…
 ---
 
 En un mundo hiperconectado, donde las notificaciones nos acompañan desde que despertamos hasta que cerramos los ojos, parece contradictorio que tantas personas se sientan más solas que nunca. Las redes sociales, diseñadas para acercarnos, a menudo se convierten en un espejo de nuestras inseguridades, un escenario de comparación constante y una fuente de validación externa que nunca parece suficiente.

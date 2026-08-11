@@ -1,7 +1,7 @@
 ---
 slug: familiar
 title: Familiar
-image: familia-estres.svg
+img: /u/familia-estres.svg
 icon: family_restroom
 price: 80
 service_types:
@@ -15,7 +15,7 @@ service_areas:
 
 h1: Terapia Familiar en Murcia y Online
 headline: Terapia Familiar
-subtitle: Comprender lo que ocurre entre nosotros para sanar juntos
+sub: Comprender lo que ocurre entre nosotros para sanar juntos
 
 contents:
 
@@ -25,7 +25,7 @@ contents:
     La terapia familiar ofrece un espacio para observar lo que está ocurriendo en el sistema familiar, sin culpables ni etiquetas, con el objetivo de comprender qué necesita ser transformado para recuperar la armonía y la conexión emocional.
 
     En **Des-Aprende** trabajamos desde un enfoque integrador con base cognitivo-conductual, teniendo en cuenta los pensamientos, las emociones, los vínculos y el contexto vital de cada miembro. Exploramos los patrones relacionales, las reglas implícitas, los roles que cada uno asume y las historias que se repiten de forma inconsciente.
-- image: familia-amorosa.svg
+- img: /u/familia-amorosa.svg
 
 - md: |
     **Algunos motivos frecuentes para iniciar una terapia familiar:**
@@ -40,7 +40,7 @@ contents:
     - Necesidad de reparar heridas intergeneracionales, sanar vínculos o recuperar la cercanía emocional
 
     La terapia familiar no busca señalar a un “culpable”, sino entender cómo interactúan los miembros entre sí y qué cambios son necesarios para que todos puedan sentirse mejor.
-- image: familia-estres.svg
+- img: /u/familia-estres.svg
 
 - md: |
     **Trabajamos para que:**
@@ -53,7 +53,7 @@ contents:
     A veces, solo hace falta mirarse desde otro lugar y escuchar lo que no se ha dicho para empezar a reconstruir.
 
     La terapia familiar es una oportunidad para reconectar, sanar y crecer como sistema, desde la confianza y el acompañamiento profesional.
-- image: familia.svg
+- img: /u/familia.svg
 
 prices:
 - title: Familiar
@@ -62,8 +62,8 @@ prices:
     1 sesión: **70 €**
 
     Grupo familiar
-
-seo: Terapia Familiar en Murcia y Online · 🧠 Clínica Des-Aprende
-description: Resuelve conflictos y fortalece vínculos familiares. Sesiones presenciales en Murcia u online adaptadas al ritmo familiar. Primera cita sin coste.
+seo:
+  title: Terapia Familiar en Murcia y Online · 🧠 Clínica Des-Aprende
+  desc: Resuelve conflictos y fortalece vínculos familiares. Sesiones presenciales en Murcia u online adaptadas al ritmo familiar. Primera cita sin coste.
 weight: 4
 ---

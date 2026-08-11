@@ -3,15 +3,16 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: n
+    logo: false
     sticky: auto
     size: xl
   callnow: auto
   section:
   - size: lg
-    icon_type: side
-    caps: y
-    parallax: fix
+    scroll: fix
     div: tilt
-  - div_x: y
-    div_y: n
+    box:
+      icon_pos: side
+      caps: true
+  - div_x: true
+    div_y: false

@@ -1,10 +1,11 @@
 ---
 slug: terapia-pareja
 title: 'Terapia de Pareja: Cuando la Desconexión Emocional y las Dinámicas Invisibles Amenazan la Relación'
-image: blog/terapia-pareja.svg
+img: /u/blog/terapia-pareja.svg
 date: 2024-11-02 00:00:00
-seo: 'Terapia de Pareja: Ante la Desconexión y las Dinámicas Invisibles'
-description: Hay momentos en una relación donde, sin saber muy bien cómo, la distancia emocional empieza a crecer. Lo que antes era una conexión fluida y llena de…
+seo:
+  title: 'Terapia de Pareja: Ante la Desconexión y las Dinámicas Invisibles'
+  desc: Hay momentos en una relación donde, sin saber muy bien cómo, la distancia emocional empieza a crecer. Lo que antes era una conexión fluida y llena de…
 ---
 
 Hay momentos en una relación donde, sin saber muy bien cómo, la distancia emocional empieza a crecer. Lo que antes era una conexión fluida y llena de complicidad se convierte en una convivencia algo mecánica, donde los días pasan sin que ambos sientan una verdadera conexión. No se trata solo de la falta de comunicación, sino de patrones profundos e inconscientes que ambos traemos desde nuestras experiencias pasadas y estilos de apego. Estas dinámicas, aunque difíciles de ver desde dentro, son la raíz de muchas crisis y conflictos que, sin la intervención adecuada, pueden desgastar la relación y hacer que ambos pierdan la intimidad.

@@ -5,6 +5,6 @@
   - /blog/*
 - name: toc
   value: 'true'
-  type: boolean
+  type: bool
   path:
   - /blog/*

@@ -1,10 +1,11 @@
 ---
 slug: ansiedad-relaciones
 title: 'Ansiedad en las Relaciones: Cuando Todo Parece una Alarma'
-image: blog/ansiedad-relaciones.svg
+img: /u/blog/ansiedad-relaciones.svg
 date: 2024-09-28 00:00:00
-seo: 'Ansiedad en Relaciones: Cuando Todo Parece una Alarma'
-description: La ansiedad en las relaciones es una experiencia común que puede afectar significativamente el bienestar emocional y la dinámica de pareja. Esta ansiedad…
+seo:
+  title: 'Ansiedad en Relaciones: Cuando Todo Parece una Alarma'
+  desc: La ansiedad en las relaciones es una experiencia común que puede afectar significativamente el bienestar emocional y la dinámica de pareja. Esta ansiedad…
 ---
 
 La ansiedad en las relaciones es una experiencia común que puede afectar significativamente el bienestar emocional y la dinámica de pareja. Esta ansiedad puede manifestarse como una preocupación constante, miedo al rechazo o abandono, y la percepción de que cada evento es una señal de alarma. A continuación, exploramos qué es la ansiedad en las relaciones, sus causas y cómo gestionarla.

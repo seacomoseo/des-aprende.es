@@ -1,10 +1,11 @@
 ---
 slug: culpa-necesitar-espacio-relacion
 title: '“Me siento culpable por necesitar espacio en mi relación”'
-image: blog/espacio-relacion.png
+img: /u/blog/espacio-relacion.png
 date: 2026-02-13 00:00:00
-seo: 'Culpa por necesitar espacio en la relación de pareja: autorregulación vs rechazo'
-description: 'Aprender que amar implica estar siempre disponibles puede hacernos sentir culpables cuando el cuerpo pide pausa. Pero el espacio no es rechazo, es autorregulación.'
+seo:
+  title: 'Culpa por necesitar espacio en la relación de pareja: autorregulación vs rechazo'
+  desc: Aprender que amar implica estar siempre disponibles puede hacernos sentir culpables cuando el cuerpo pide pausa. Pero el espacio no es rechazo, es autorregulación.
 ---
 
 Hay personas que no dicen “necesito espacio”. Dicen que están raras. Que se sienten más distantes. Que algo se ha movido dentro y no saben muy bien qué es. Y casi siempre, debajo, aparece la culpa.

@@ -1,10 +1,11 @@
 ---
 slug: identificar-narcisista
 title: '¿Cómo identificar a un narcisista? Señales de alerta en las relaciones personales'
-image: blog/identificar-narcisista.svg
+img: /u/blog/identificar-narcisista.svg
 date: 2025-01-16 00:00:00
-seo: '¿Cómo identificar a un narcisista? Señales de alerta'
-description: 'El narcisismo es un tema complejo y a menudo malinterpretado. En las relaciones personales, el narcisismo puede manifestarse de manera sutil, pero…'
+seo:
+  title: ¿Cómo identificar a un narcisista? Señales de alerta
+  desc: El narcisismo es un tema complejo y a menudo malinterpretado. En las relaciones personales, el narcisismo puede manifestarse de manera sutil, pero…
 ---
 
 El narcisismo es un tema complejo y a menudo malinterpretado. En las relaciones personales, el narcisismo puede manifestarse de manera sutil, pero sus efectos pueden ser profundamente destructivos. Las personas con tendencias narcisistas suelen tener una visión distorsionada de sí mismas, un deseo insaciable de admiración y una falta de empatía hacia los demás. ¿Cómo podemos identificar a un narcisista en nuestras vidas y protegernos de sus manipulaciones emocionales?

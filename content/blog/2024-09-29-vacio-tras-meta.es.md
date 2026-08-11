@@ -1,10 +1,11 @@
 ---
 slug: vacio-tras-meta
 title: El Vacío Tras la Meta
-image: blog/vacio-tras-meta.svg
+img: /u/blog/vacio-tras-meta.svg
 date: 2024-09-29 00:00:00
-seo: El Vacío Tras la Meta - Des-Aprende
-description: Lograr una meta que has perseguido durante mucho tiempo es un gran éxito, pero puede ir acompañado de una sensación inesperada de vacío. Esta experiencia…
+seo:
+  title: El Vacío Tras la Meta - Des-Aprende
+  desc: Lograr una meta que has perseguido durante mucho tiempo es un gran éxito, pero puede ir acompañado de una sensación inesperada de vacío. Esta experiencia…
 ---
 
 ## El Vacío que se Experimenta tras Conseguir una Meta Importante

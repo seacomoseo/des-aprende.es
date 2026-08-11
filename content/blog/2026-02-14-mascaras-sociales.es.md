@@ -1,10 +1,11 @@
 ---
 slug: mascaras-sociales-identidad-autenticidad
 title: 'Las máscaras sociales: cuando dejamos de ser nosotros mismos para poder estar'
-image: blog/mascaras-sociales.png
+img: /u/blog/mascaras-sociales.png
 date: 2026-02-14 00:00:00
-seo: 'Las máscaras sociales: dejar de cumplir roles para ser uno mismo y ser visto'
-description: 'Llevamos tanto tiempo adaptándonos a lo que los demás esperan que perdemos nuestra espontaneidad. Descubre cómo soltar las máscaras sociales y habitarte de verdad.'
+seo:
+  title: 'Las máscaras sociales: dejar de cumplir roles para ser uno mismo y ser visto'
+  desc: Llevamos tanto tiempo adaptándonos a lo que los demás esperan que perdemos nuestra espontaneidad. Descubre cómo soltar las máscaras sociales y habitarte de verdad.
 ---
 
 Hay personas que saben relacionarse muy bien, pero les cuesta habitarse cuando no están cumpliendo ningún rol. Porque llevan tanto tiempo adaptándose que han perdido la sensación de espontaneidad.

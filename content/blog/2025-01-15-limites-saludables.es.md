@@ -1,10 +1,11 @@
 ---
 slug: limites-saludables
 title: 'Cómo protegerse de personas dañinas: Estrategias para establecer límites saludables'
-image: blog/limites-saludables.svg
+img: /u/blog/limites-saludables.svg
 date: 2025-01-15 00:00:00
-seo: 'Estrategias para establecer límites saludables en personas dañinas'
-description: 'A lo largo de nuestra vida, nos encontramos con personas que, consciente o inconscientemente, tienen un impacto negativo en nuestro bienestar…'
+seo:
+  title: Estrategias para establecer límites saludables en personas dañinas
+  desc: A lo largo de nuestra vida, nos encontramos con personas que, consciente o inconscientemente, tienen un impacto negativo en nuestro bienestar…
 ---
 
 A lo largo de nuestra vida, nos encontramos con personas que, consciente o inconscientemente, tienen un impacto negativo en nuestro bienestar emocional. Estas personas pueden ser manipuladoras, críticas o incluso despectivas, y, aunque a veces es difícil reconocerlo, sus comportamientos pueden afectar nuestra autoestima, nuestra paz mental y nuestra capacidad de relacionarnos de manera sana. ¿Cómo podemos protegernos de estas personas y establecer límites que nos ayuden a sanar y mantener nuestra paz interior? Aquí te lo explico desde una perspectiva reflexiva.

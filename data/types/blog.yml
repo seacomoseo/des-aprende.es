@@ -2,4 +2,4 @@ title: Blog
 base: article
 weight: 1
 name: blog
-related: y
+rel: true

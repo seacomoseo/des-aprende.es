@@ -1,9 +1,10 @@
 ---
 slug: clinica-martinez-marcos
 title: Clínica Martínez Marcos continúa ahora como Des-Aprende
-image: old/clinica-martinez-marcos.svg
-seo: Clínica Martínez Marcos ahora es Clínica Des-Aprende en Murcia
-description: La actividad de Clínica Martínez Marcos continúa en el mismo local de Plaza Beato Andrés Hibernón, 1, ahora bajo Des-Aprende, clínica de terapia psicológica online y en Murcia.
+img: /u/old/clinica-martinez-marcos.svg
+seo:
+  title: Clínica Martínez Marcos ahora es Clínica Des-Aprende en Murcia
+  desc: La actividad de Clínica Martínez Marcos continúa en el mismo local de Plaza Beato Andrés Hibernón, 1, ahora bajo Des-Aprende, clínica de terapia psicológica online y en Murcia.
 icon: check_box
 ---
 

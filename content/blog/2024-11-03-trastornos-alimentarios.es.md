@@ -1,10 +1,11 @@
 ---
 slug: trastornos-alimentarios
 title: 'La Realidad de los Trastornos Alimentarios'
-image: blog/trastornos-alimentarios.svg
+img: /u/blog/trastornos-alimentarios.svg
 date: 2024-11-03 00:00:00
-seo: 'La Realidad de los Trastornos Alimentarios - Des-Aprende'
-description: 'A menudo me encuentro en el consultorio con personas que llegan con una historia similar: la lucha constante con su relación con la comida…'
+seo:
+  title: La Realidad de los Trastornos Alimentarios - Des-Aprende
+  desc: 'A menudo me encuentro en el consultorio con personas que llegan con una historia similar: la lucha constante con su relación con la comida…'
 ---
 
 A menudo me encuentro en el consultorio con personas que llegan con una historia similar: la lucha constante con su relación con la comida. Desde el exterior, pueden parecer vidas normales, pero detrás de esas sonrisas hay un mundo de dolor, ansiedad y confusión. A lo largo de mi carrera como terapeuta, he tenido el privilegio (y, a veces, la tristeza) de escuchar las historias de quienes enfrentan trastornos alimentarios, y me gustaría compartir algunas de estas reflexiones contigo.

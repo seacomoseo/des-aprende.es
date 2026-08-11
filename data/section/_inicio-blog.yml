@@ -1,19 +1,20 @@
 name: Blog
 id: blog
-title: Blog
-subtitle: Últimas entradas
 color: light
-icon: rss_feed
-div_x: n
-div_y: n
+div_x: false
+div_y: false
 div: arrow
 pt: 8
 pb: 8
-menu_button: hide
-list:
-  type: blog
-  max: 4
-box:
-  cols: 4
-  color: white
-  slider: y
+menu_btn: hide
+boxes:
+- title: Blog
+  sub: Últimas entradas
+  icon: rss_feed
+  list:
+    type: blog
+    max: 4
+  box:
+    cols: 4
+    color: white
+    slider: true

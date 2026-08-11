@@ -1,8 +1,8 @@
 ---
 slug: leticia-martinez-pino
 title: Leticia
-summary: Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
-image: equipo/leticia-martinez-pino.jpg
+sum: Con más de nueve años de experiencia en psicología, he descubierto que acompañar a una persona en su proceso de crecimiento y evolución es una de las experiencias más gratificantes de mi profesión.
+img: /u/equipo/leticia-martinez-pino.jpg
 
 # icon: person
 # prefix: Dr
@@ -67,8 +67,8 @@ creds:
 - name: Internal Family Systems (IFS)
   category: Certificación
   org: IFS Institute
-
-seo: Leticia Martínez Pino
+seo:
+  title: Leticia Martínez Pino
 ---
 Leticia Martínez Pino
 {.h2}
