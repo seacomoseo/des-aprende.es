@@ -18,5 +18,5 @@
   widget: slice
   sub:
   - var: title
-  - var: image
+  - var: img
   - var: md

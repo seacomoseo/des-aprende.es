@@ -49,7 +49,6 @@ menu:
   - label: Blog
     url: /blog/
     icon: rss_feed
-title: Valores Globales
 footer:
   div: arrow
   dots:
