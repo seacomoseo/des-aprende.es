@@ -18,9 +18,9 @@ html:
           document.head.appendChild(ga);
           // GA4 tags
           gtag('js', new Date());
-          gtag('config', 'G-MVRFWZGMPZ', {
+          gtag('config', 'G-MVRFWZGMPZ' /*, {
             'server_container_url': 'https://metrics.des-aprende.es',
-          });
+          } */ );
         }
       }
 
