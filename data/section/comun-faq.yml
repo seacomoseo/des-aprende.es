@@ -2,9 +2,9 @@ name: faq
 id: faq
 color: light
 size: sm
+div: arrow
 div_x: false
 div_y: true
-div: arrow
 boxes:
 - title: FAQ
   sub: Preguntas Frecuentes

@@ -2,9 +2,9 @@ name: Contacto
 id: contacto
 color: white
 size: sm
+div: arrow
 div_x: false
 div_y: false
-div: arrow
 pt: 8
 pb: 8
 menu_btn: cta
@@ -13,9 +13,6 @@ boxes:
   sub: Llegó el momento de florecer
   icon: brand:whatsapp
   align: center
-  form:
-    fill_inputs: false
-    mail: leticia@des-aprende.es
   when:
   - days: Lunes a Viernes
     hours: 10:00 - 20:00

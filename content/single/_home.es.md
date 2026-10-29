@@ -8,20 +8,20 @@ seo:
   desc: Aprende a conocerte, quererte y cuidarte mientras fortaleces la relación contigo misma y con los demás. ✅ Cultiva tu autoestima y crece personalmente.
 tpl:
   sections:
-  - file: _inicio-_hero
+  - file: _home-_hero
   - file: comun-resenas
-  - file: _inicio-des-aprende
-  - file: _inicio-terapias
+  - file: _home-des-aprende
+  - file: _home-terapias
   - file: comun-sobre
   - file: comun-equipo
-  - file: _inicio-para-ti
-  - file: _inicio-precios
+  - file: _home-para-ti
+  - file: _home-precios
   - file: comun-proceso
   - file: comun-faq
   - file: comun-contacto
   - file: comun-mapa
-  - file: _inicio-blog
-  - file: _inicio-instagram
+  - file: _home-blog
+  - file: _home-instagram
 base: org
 org:
   types:
@@ -59,9 +59,9 @@ org:
     pc: '30001'
     locality: Murcia
     region: Murcia
-    country: España
+    country: ES
     geo: '{"type":"Point","coordinates":[-1.127396,37.987117]}'
-    url: null
+    url: https://g.page/r/CX3c98qaRwrmEAg
   areas:
   - Murcia
   - España

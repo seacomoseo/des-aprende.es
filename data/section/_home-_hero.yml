@@ -2,9 +2,9 @@ name: _Hero
 color: white
 bi: /u/centro/sala.webp
 alpha: 0.85
+div: arrow
 div_x: false
 div_y: true
-div: arrow
 boxes:
 - hanchor: Clínica de Psicólogas Terapeutas Online y en Murcia
   box:
